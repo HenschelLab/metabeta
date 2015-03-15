@@ -1,0 +1,16 @@
+""" 
+Running hierarchical clustering and just saving the 4x(n-1) linkage clustering result
+best to submit through ~/Python/qsub:
+python qsub.py /home/handreas/Projects/KnowYourEnv/pairwiseUnifrac_heatmap2.py
+as it might take longer than the ssh connection is capable of
+"""
+from scipy.spatial.distance import squareform
+import scipy.cluster.hierarchy as sch
+import numpy as np
+
+
+datadir  = "/home/handreas/Data/KnowYourEnv/SQLdata2"               
+dm = np.load("%s/allXall_assembled.npy"%datadir)
+
+Y = sch.linkage(squareform(dm), method="average")
+np.save("%s/upgma_linkage.npy" % datadir, Y)

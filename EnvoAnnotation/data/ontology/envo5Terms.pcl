@@ -1,0 +1,14337 @@
+ccollections
+defaultdict
+p1
+(c__builtin__
+list
+p2
+tRp3
+S'gullie'
+p4
+(lp5
+S'ENVO:00000129'
+p6
+asS'board walk'
+p7
+(lp8
+S'ENVO:00000064'
+p9
+asS'covered bridge'
+p10
+(lp11
+S'ENVO:00000075'
+p12
+asS'salt flat'
+p13
+(lp14
+S'ENVO:00000279'
+p15
+asS'apple beverage'
+p16
+(lp17
+S'ENVO:0010010'
+p18
+asS'heavy metal'
+p19
+(lp20
+S'ID:0000135'
+p21
+asS'wave-cut platform'
+p22
+(lp23
+S'ENVO:00000421'
+p24
+asS'Mediterranean Division (260)'
+p25
+(lp26
+S'ENVO:00003017'
+p27
+asS'marine downwelling'
+p28
+(lp29
+S'ENVO:01000064'
+p30
+asS'submarine volcano'
+p31
+(lp32
+S'ENVO:00000264'
+p33
+aS'ENVO:00000405'
+p34
+asS'artificial harbour'
+p35
+(lp36
+S'ENVO:00000464'
+p37
+asS'sea arch'
+p38
+(lp39
+S'ENVO:00000414'
+p40
+asS'intermittent wetland'
+p41
+(lp42
+S'ENVO:00000389'
+p43
+ag43
+asS'hyacinth bean product'
+p44
+(lp45
+S'ENVO:0010120'
+p46
+asS'salt pork'
+p47
+(lp48
+S'ENVO:00003913'
+p49
+asS'rise'
+p50
+(lp51
+S'ENVO:00000477'
+p52
+asS'dell'
+p53
+(lp54
+S'ENVO:00000439'
+p55
+asS'closed sea'
+p56
+(lp57
+S'ENVO:00000016'
+p58
+asS'bacon curing brine'
+p59
+(lp60
+S'ENVO:00003045'
+p61
+asS'fermented agave juice'
+p62
+(lp63
+S'ENVO:00002161'
+p64
+asS'interdune trough'
+p65
+(lp66
+S'ENVO:00000170'
+p67
+aS'ENVO:00000308'
+p68
+ag68
+asS'rift zone'
+p69
+(lp70
+S'ENVO:00000302'
+p71
+asS'sand pit'
+p72
+(lp73
+S'ENVO:00000028'
+p74
+asS'geothermal power plant'
+p75
+(lp76
+S'ENVO:00002215'
+p77
+asS'glacer'
+p78
+(lp79
+S'ENVO:00000131'
+p80
+asS'microbial food product'
+p81
+(lp82
+S'ENVO:0010057'
+p83
+asS'sheep milk'
+p84
+(lp85
+S'ENVO:00003069'
+p86
+asS'fault escarpment'
+p87
+(lp88
+S'ENVO:00000281'
+p89
+asS'hooked spit'
+p90
+(lp91
+S'ENVO:00000167'
+p92
+asS'coal mine lake sediment'
+p93
+(lp94
+S'ENVO:00002147'
+p95
+asS'pond soil'
+p96
+(lp97
+S'ENVO:00005764'
+p98
+asS'sandy area'
+p99
+(lp100
+g67
+ag67
+ag67
+aS'ENVO:00000172'
+p101
+ag101
+ag101
+asS'nursery'
+p102
+(lp103
+S'ENVO:00000077'
+p104
+ag104
+aS'ENVO:00000078'
+p105
+asS'Tropical and subtropical moist broadleaf forest biome'
+p106
+(lp107
+S'ENVO:00000879'
+p108
+asS'distributary'
+p109
+(lp110
+S'ENVO:00000069'
+p111
+ag111
+ag111
+asS'force'
+p112
+(lp113
+S'ENVO:00000040'
+p114
+asS'bacon'
+p115
+(lp116
+S'ENVO:00003881'
+p117
+asS'shrubland'
+p118
+(lp119
+S'ENVO:00000107'
+p120
+aS'ENVO:00000231'
+p121
+aS'ENVO:00000300'
+p122
+ag122
+asS'Tundra communities and barren Arctic deserts'
+p123
+(lp124
+S'ENVO:00002995'
+p125
+asS'street'
+p126
+(lp127
+g9
+ag9
+ag9
+ag9
+asS'water buffalo dairy product'
+p128
+(lp129
+S'ENVO:0010028'
+p130
+asS'neutral hot spring'
+p131
+(lp132
+S'ENVO:00002181'
+p133
+asS'flood plain'
+p134
+(lp135
+S'ENVO:00000255'
+p136
+asS'mine dump'
+p137
+(lp138
+S'ENVO:00000003'
+p139
+asS'CIRQUE'
+p140
+(lp141
+S'ENVO:00000155'
+p142
+asS'hide'
+p143
+(lp144
+S'ENVO:02000053'
+p145
+asS'dry cave'
+p146
+(lp147
+S'ENVO:00000030'
+p148
+asS'food processing factory'
+p149
+(lp150
+S'ENVO:00003863'
+p151
+asS'fjord'
+p152
+(lp153
+S'ENVO:00000039'
+p154
+ag154
+asS'political entity'
+p155
+(lp156
+S'ENVO:00000009'
+p157
+aS'ENVO:00000123'
+p158
+ag158
+asS'solanaceous root product'
+p159
+(lp160
+S'ENVO:0010058'
+p161
+asS'anthrosol'
+p162
+(lp163
+S'ENVO:00002230'
+p164
+asS'cow rumen'
+p165
+(lp166
+S'ID:0000006'
+p167
+asS'karst cave'
+p168
+(lp169
+S'ENVO:00012411'
+p170
+asS'tissue sample from biopsy'
+p171
+(lp172
+S'ID:0000050'
+p173
+asS'volcanic dyke'
+p174
+(lp175
+S'ENVO:00000498'
+p176
+asS'oceanic front'
+p177
+(lp178
+S'ENVO:01000071'
+p179
+asS'lithosphere'
+p180
+(lp181
+S'ID:0000046'
+p182
+asS'subterranean water'
+p183
+(lp184
+S'ENVO:00005792'
+p185
+asS'fourth-order administrative division'
+p186
+(lp187
+S'ENVO:00000008'
+p188
+asS'SALT PAN'
+p189
+(lp190
+g15
+asS'lode'
+p191
+(lp192
+S'ENVO:00000023'
+p193
+aS'ENVO:00000029'
+p194
+asS'shelf valley'
+p195
+(lp196
+S'ENVO:00000100'
+p197
+asS'hypersaline water'
+p198
+(lp199
+S'ENVO:00002012'
+p200
+asS'beck'
+p201
+(lp202
+g193
+ag194
+asS'umbrella'
+p203
+(lp204
+S'ENVO:02000052'
+p205
+asS'agricultural reserve'
+p206
+(lp207
+g104
+ag104
+asS'ethanol'
+p208
+(lp209
+S'ID:0000088'
+p210
+asS'sea cave'
+p211
+(lp212
+S'ENVO:00000326'
+p213
+asS'grazing area'
+p214
+(lp215
+S'ENVO:00000106'
+p216
+ag216
+aS'ENVO:00000266'
+p217
+asS'first-order administrative region'
+p218
+(lp219
+S'ENVO:00000005'
+p220
+asS'arroyo'
+p221
+(lp222
+S'ENVO:00000031'
+p223
+asS'yougert'
+p224
+(lp225
+S'ENVO:00002190'
+p226
+asS'volcanic cone'
+p227
+(lp228
+S'ENVO:00000398'
+p229
+asS'abode soil'
+p230
+(lp231
+S'ENVO:00002870'
+p232
+asS'leaves'
+p233
+(lp234
+S'ID:0000014'
+p235
+asS'arches (natural formation)'
+p236
+(lp237
+g40
+asS'cacao food product'
+p238
+(lp239
+S'ENVO:0010127'
+p240
+asS'WATERCOURSE BRIDGE'
+p241
+(lp242
+S'ENVO:00000072'
+p243
+asS'cruciferous food product'
+p244
+(lp245
+S'ENVO:0010081'
+p246
+asS'MORAINE'
+p247
+(lp248
+S'ENVO:00000177'
+p249
+asS'llanos'
+p250
+(lp251
+S'ENVO:00000086'
+p252
+aS'ENVO:00000260'
+p253
+asS'hadalpelagic zone'
+p254
+(lp255
+S'ENVO:00000214'
+p256
+asS'vegetable oil'
+p257
+(lp258
+S'ENVO:00003975'
+p259
+aS'ENVO:0010145'
+p260
+asS'dairy product'
+p261
+(lp262
+S'ENVO:01000011'
+p263
+asS'equatorial rain forest'
+p264
+(lp265
+S'ENVO:00000109'
+p266
+asS'divide'
+p267
+(lp268
+S'ENVO:00000292'
+p269
+ag269
+asS'frass'
+p270
+(lp271
+S'ENVO:00002003'
+p272
+asS'straw'
+p273
+(lp274
+S'ENVO:00003869'
+p275
+asS'Tropical upwelling biome'
+p276
+(lp277
+S'ENVO:00000897'
+p278
+asS'non tidal basin'
+p279
+(lp280
+S'ENVO:00000309'
+p281
+asS'anoxic mud'
+p282
+(lp283
+S'ENVO:00002133'
+p284
+asS'alpine glacier'
+p285
+(lp286
+S'ENVO:00000085'
+p287
+asS'marine coral reef deep fore reef'
+p288
+(lp289
+S'ENVO:01000149'
+p290
+asS'plant food product'
+p291
+(lp292
+S'ENVO:00002216'
+p293
+asS'Basin'
+p294
+(lp295
+S'ENVO:00000291'
+p296
+asS'MarineWetland'
+p297
+(lp298
+S'ENVO:00000043'
+p299
+asS'undersea ravine'
+p300
+(lp301
+S'ENVO:00000267'
+p302
+asS'independent sovereign nation'
+p303
+(lp304
+g157
+asS'mountain range'
+p305
+(lp306
+S'ENVO:00000080'
+p307
+ag307
+asS'distilled fermented beverage'
+p308
+(lp309
+S'ENVO:0010048'
+p310
+asS'hospital'
+p311
+(lp312
+S'ENVO:00002173'
+p313
+asS'continental glacier'
+p314
+(lp315
+S'ENVO:00000132'
+p316
+asS'lava area'
+p317
+(lp318
+S'ENVO:00000095'
+p319
+ag319
+asS'saline wedge estuary'
+p320
+(lp321
+S'ENVO:00000226'
+p322
+asS'quicksand area'
+p323
+(lp324
+S'ENVO:00000285'
+p325
+asS'bayou'
+p326
+(lp327
+S'ENVO:00000138'
+p328
+ag328
+aS'ENVO:00000234'
+p329
+asS'sea-mount'
+p330
+(lp331
+g33
+asS'knoll'
+p332
+(lp333
+S'ENVO:00000081'
+p334
+ag334
+aS'ENVO:00000083'
+p335
+ag52
+asS'undersea shoal'
+p336
+(lp337
+g92
+asS'man-made feature'
+p338
+(lp339
+S'ENVO:00000002'
+p340
+asS'goat manure'
+p341
+(lp342
+S'ENVO:02000084'
+p343
+asS'bench (natural)'
+p344
+(lp345
+S'ENVO:00000508'
+p346
+asS'PLAIN'
+p347
+(lp348
+g252
+asS'acid hot spring'
+p349
+(lp350
+S'ENVO:00002120'
+p351
+asS'DCM'
+p352
+(lp353
+S'ID:0000092'
+p354
+asS'holm'
+p355
+(lp356
+S'ENVO:00000098'
+p357
+asS'fermented fruit product'
+p358
+(lp359
+S'ENVO:00003891'
+p360
+asS'reservoir bottom'
+p361
+(lp362
+S'ENVO:00000513'
+p363
+asS'fault cave'
+p364
+(lp365
+S'ENVO:00000071'
+p366
+asS'rain forest'
+p367
+(lp368
+g266
+ag266
+asS'fistula'
+p369
+(lp370
+S'ID:0000085'
+p371
+asS'impact crater'
+p372
+(lp373
+S'ENVO:00000310'
+p374
+asS'copse'
+p375
+(lp376
+g266
+aS'ENVO:00000111'
+p377
+asS'vetch seed product'
+p378
+(lp379
+S'ENVO:0010115'
+p380
+asS'oligotrophic water'
+p381
+(lp382
+S'ENVO:00002223'
+p383
+asS'incubator'
+p384
+(lp385
+S'ID:0000061'
+p386
+asS'barrier basin'
+p387
+(lp388
+g281
+asS'wort'
+p389
+(lp390
+S'ENVO:00003037'
+p391
+asS'face cream product'
+p392
+(lp393
+S'ENVO:00003894'
+p394
+asS'Tundra Division - Mountain Provinces (M120)'
+p395
+(lp396
+S'ENVO:00003007'
+p397
+asS'navigation canal'
+p398
+(lp399
+S'ENVO:00000048'
+p400
+ag400
+ag400
+asS'leachate'
+p401
+(lp402
+S'ENVO:00002141'
+p403
+asS'defile'
+p404
+(lp405
+S'ENVO:00000084'
+p406
+ag406
+aS'ENVO:00000169'
+p407
+asS'flood fringe'
+p408
+(lp409
+S'ENVO:00000257'
+p410
+asS'FARM'
+p411
+(lp412
+g105
+asS'regosol'
+p413
+(lp414
+S'ENVO:00002256'
+p415
+asS'black smoker'
+p416
+(lp417
+S'ENVO:00000218'
+p418
+asS'mangrove soil'
+p419
+(lp420
+S'ID:0000149'
+p421
+asS'cured meat'
+p422
+(lp423
+S'ENVO:00003063'
+p424
+asS'neritic sub-littoral zone'
+p425
+(lp426
+S'ENVO:01000126'
+p427
+asS'Harzer'
+p428
+(lp429
+S'ENVO:00003058'
+p430
+asS'mycetome'
+p431
+(lp432
+S'ENVO:01000166'
+p433
+asS'dyke'
+p434
+(lp435
+S'ENVO:00000178'
+p436
+asS'Savanna Division - Mountain Provinces (M410)'
+p437
+(lp438
+S'ENVO:00003029'
+p439
+asS'cut off'
+p440
+(lp441
+S'ENVO:00000523'
+p442
+asS'marine chemocline'
+p443
+(lp444
+S'ENVO:01000076'
+p445
+asS'flood control basin'
+p446
+(lp447
+S'ENVO:00000443'
+p448
+asS'marine algal bloom'
+p449
+(lp450
+S'ENVO:01000057'
+p451
+asS'tropical rain forest'
+p452
+(lp453
+g266
+asS"hen's egg product"
+p454
+(lp455
+S'ENVO:02000057'
+p456
+asS'lesions'
+p457
+(lp458
+S'ID:0000040'
+p459
+asS'hydromorphic/phreatic dambo'
+p460
+(lp461
+S'ENVO:00000237'
+p462
+asS'toxin'
+p463
+(lp464
+S'ID:0000091'
+p465
+asS'stockyard'
+p466
+(lp467
+g104
+asS'nonfat dry milk'
+p468
+(lp469
+S'ENVO:00003907'
+p470
+asS'beach'
+p471
+(lp472
+S'ENVO:00000091'
+p473
+ag473
+asS'mallee scrub'
+p474
+(lp475
+g266
+asS'countries, 2nd order division'
+p476
+(lp477
+S'ENVO:00000006'
+p478
+asS'hogback'
+p479
+(lp480
+S'ENVO:00000283'
+p481
+asS'fourth level subdivision'
+p482
+(lp483
+g188
+asS'nodules'
+p484
+(lp485
+S'ID:0000004'
+p486
+asS'abscess'
+p487
+(lp488
+S'ID:0000019'
+p489
+asS'tidal basin'
+p490
+(lp491
+g281
+asS'cryosol'
+p492
+(lp493
+S'ENVO:00002236'
+p494
+asS'marine terrace'
+p495
+(lp496
+g24
+aS'ENVO:00000509'
+p497
+asS'Ocean'
+p498
+(lp499
+S'ENVO:00000015'
+p500
+asS'naturally occuring environmental material'
+p501
+(lp502
+S'ENVO:0010161'
+p503
+asS'deep-sea'
+p504
+(lp505
+S'ID:0000119'
+p506
+asS'cervid dairy product'
+p507
+(lp508
+S'ENVO:0010031'
+p509
+asS'undersea peak'
+p510
+(lp511
+S'ENVO:00000104'
+p512
+asS'desert oasis'
+p513
+(lp514
+S'ENVO:00000156'
+p515
+asS'marine hydrographic feature'
+p516
+(lp517
+S'ENVO:00000466'
+p518
+asS'mesa'
+p519
+(lp520
+S'ENVO:00000179'
+p521
+ag521
+asS'faecal sample'
+p522
+(lp523
+g272
+asS'gravel pit'
+p524
+(lp525
+S'ENVO:00000473'
+p526
+asS'permanent spring'
+p527
+(lp528
+S'ENVO:00000205'
+p529
+asS'marine black smoker biome'
+p530
+(lp531
+S'ENVO:01000051'
+p532
+asS'SalineLake'
+p533
+(lp534
+S'ENVO:00000019'
+p535
+asS'equatorial upwelling front'
+p536
+(lp537
+S'ENVO:01000092'
+p538
+asS'fermented agave beverage'
+p539
+(lp540
+S'ENVO:0010014'
+p541
+asS'island arc'
+p542
+(lp543
+g357
+aS'ENVO:00000220'
+p544
+aS'ENVO:00000353'
+p545
+asS'metazoan-associated habitat'
+p546
+(lp547
+S'ENVO:00006776'
+p548
+asS'invertebrate food product'
+p549
+(lp550
+S'ENVO:0010088'
+p551
+asS'bean plant'
+p552
+(lp553
+S'ENVO:02000073'
+p554
+asS'jungle'
+p555
+(lp556
+g266
+ag266
+asS'LAGOON'
+p557
+(lp558
+S'ENVO:00000038'
+p559
+asS'subterranean habitat'
+p560
+(lp561
+S'ENVO:00000572'
+p562
+asS'undersea shelf valley'
+p563
+(lp564
+g512
+asS'herbaceous area'
+p565
+(lp566
+g216
+asS'wine'
+p567
+(lp568
+S'ENVO:01000014'
+p569
+asS'range of seamounts'
+p570
+(lp571
+S'ENVO:00000550'
+p572
+asS'marine abyssal zone biome'
+p573
+(lp574
+S'ENVO:01000027'
+p575
+asS'citrus fruit product'
+p576
+(lp577
+S'ENVO:0010063'
+p578
+asS'pothole'
+p579
+(lp580
+S'ENVO:00000534'
+p581
+asS'raised beach'
+p582
+(lp583
+S'ENVO:00000415'
+p584
+asS'drumlin'
+p585
+(lp586
+S'ENVO:00000276'
+p587
+asS'radionuclide contaminated soil'
+p588
+(lp589
+S'ENVO:00002154'
+p590
+asS'non-fermented plant derived beverage'
+p591
+(lp592
+S'ENVO:0010171'
+p593
+asS'barrier island'
+p594
+(lp595
+g357
+ag92
+asS'sludge'
+p596
+(lp597
+S'ENVO:00002044'
+p598
+asS'milk formula'
+p599
+(lp600
+S'ENVO:00002187'
+p601
+asS'fermented beverage'
+p602
+(lp603
+S'ENVO:0010005'
+p604
+asS'midden'
+p605
+(lp606
+S'ENVO:00010442'
+p607
+asS'pack ice'
+p608
+(lp609
+g316
+asS'grassland soil'
+p610
+(lp611
+S'ENVO:00005750'
+p612
+asS'hydrothermal fluid'
+p613
+(lp614
+S'ENVO:01000134'
+p615
+asS'animal-associated habitat'
+p616
+(lp617
+g548
+asS'plantation'
+p618
+(lp619
+S'ENVO:00000117'
+p620
+asS'currency note'
+p621
+(lp622
+S'ENVO:00003896'
+p623
+asS'lakeshore'
+p624
+(lp625
+S'ENVO:00000382'
+p626
+asS'coffee'
+p627
+(lp628
+S'ENVO:0010157'
+p629
+asS'chlorine removal'
+p630
+(lp631
+S'ID:0000073'
+p632
+asS'downs'
+p633
+(lp634
+g216
+asS'sea lough'
+p635
+(lp636
+S'ENVO:00000032'
+p637
+asS'break'
+p638
+(lp639
+g266
+asS'transportation feature'
+p640
+(lp641
+S'ENVO:00000411'
+p642
+asS'undersea furrow'
+p643
+(lp644
+g512
+asS'mangrove swamp'
+p645
+(lp646
+S'ENVO:00000057'
+p647
+ag647
+asS'man-made'
+p648
+(lp649
+S'ID:0000068'
+p650
+asS'volcanic feature'
+p651
+(lp652
+S'ENVO:00000094'
+p653
+asS'bank'
+p654
+(lp655
+S'ENVO:00000141'
+p656
+ag92
+asS'bread'
+p657
+(lp658
+S'ENVO:0010095'
+p659
+asS'caprine milk'
+p660
+(lp661
+S'ENVO:00003070'
+p662
+asS'aquacultural site'
+p663
+(lp664
+S'ENVO:00000294'
+p665
+asS'citrus fruit extract'
+p666
+(lp667
+S'ENVO:0010073'
+p668
+asS'cerrito'
+p669
+(lp670
+g52
+asS'embankment'
+p671
+(lp672
+g436
+asS'volcano'
+p673
+(lp674
+S'ENVO:00000247'
+p675
+ag675
+asS'Tundra Divsion (120)'
+p676
+(lp677
+S'ENVO:00003004'
+p678
+asS'downland'
+p679
+(lp680
+g216
+asS'continental divide'
+p681
+(lp682
+S'ENVO:00000293'
+p683
+asS'side'
+p684
+(lp685
+S'ENVO:00002000'
+p686
+asS'bone'
+p687
+(lp688
+S'ENVO:00002039'
+p689
+aS'ID:0000103'
+p690
+asS'allotment garden soil'
+p691
+(lp692
+S'ENVO:00005744'
+p693
+asS'Microbialithe'
+p694
+(lp695
+S'ID:0000107'
+p696
+asS'bacteria enriched soil'
+p697
+(lp698
+S'ENVO:00005757'
+p699
+asS'catch basin'
+p700
+(lp701
+S'ENVO:00000020'
+p702
+asS'pelagic isothermal surface'
+p703
+(lp704
+S'ENVO:01000080'
+p705
+asS'fishpond'
+p706
+(lp707
+S'ENVO:00000056'
+p708
+asS'marine wind mixed layer'
+p709
+(lp710
+S'ENVO:01000061'
+p711
+asS'military training area'
+p712
+(lp713
+S'ENVO:00000561'
+p714
+asS'Tropical/Subtropical Desert Division (320)'
+p715
+(lp716
+S'ENVO:00003019'
+p717
+asS'natural tunnel'
+p718
+(lp719
+S'ENVO:00000068'
+p720
+ag720
+asS'water gap'
+p721
+(lp722
+g194
+ag197
+asS'sandy sediment'
+p723
+(lp724
+S'ENVO:01000118'
+p725
+asS'DESERT'
+p726
+(lp727
+S'ENVO:00000097'
+p728
+asS'lake sediment'
+p729
+(lp730
+S'ENVO:00000546'
+p731
+asS'thermophilic sediment'
+p732
+(lp733
+S'ENVO:01000132'
+p734
+asS'oceanic mesopelagic zone biome'
+p735
+(lp736
+S'ENVO:01000036'
+p737
+asS'goe'
+p738
+(lp739
+g197
+asS'saline lake sediment'
+p740
+(lp741
+S'ENVO:00002209'
+p742
+asS'nut oil'
+p743
+(lp744
+S'ENVO:0010146'
+p745
+asS'branch'
+p746
+(lp747
+g194
+asS'agricultural drain'
+p748
+(lp749
+S'ENVO:00000037'
+p750
+asS'inhabited region'
+p751
+(lp752
+S'ENVO:00000062'
+p753
+asS'underground water body'
+p754
+(lp755
+S'ENVO:00000061'
+p756
+asS'Tropical and subtropical dry broadleaf forest biome'
+p757
+(lp758
+S'ENVO:00000880'
+p759
+asS'grain of desert sand'
+p760
+(lp761
+S'ENVO:00000344'
+p762
+asS'strath'
+p763
+(lp764
+g197
+asS'carcass'
+p765
+(lp766
+S'ENVO:00002033'
+p767
+asS'strata'
+p768
+(lp769
+S'ID:0000076'
+p770
+asS'alimentary canal'
+p771
+(lp772
+S'ID:0000002'
+p773
+asS'river island'
+p774
+(lp775
+S'ENVO:00000423'
+p776
+asS'beech forest soil'
+p777
+(lp778
+S'ENVO:00005770'
+p779
+asS'histosol'
+p780
+(lp781
+S'ENVO:00002243'
+p782
+asS'toxic compound'
+p783
+(lp784
+g465
+asS'hand'
+p785
+(lp786
+S'ID:0000023'
+p787
+asS'morass'
+p788
+(lp789
+g299
+aS'ENVO:00000044'
+p790
+asS'stalagmite'
+p791
+(lp792
+S'ENVO:00000330'
+p793
+asS'marine salt marsh biome'
+p794
+(lp795
+S'ENVO:01000022'
+p796
+asS'vitreous humour'
+p797
+(lp798
+S'ENVO:02000032'
+p799
+asS'Subtropical Division (230)'
+p800
+(lp801
+S'ENVO:00003009'
+p802
+asS'ice cap dome'
+p803
+(lp804
+S'ENVO:00000342'
+p805
+asS'rhizoplane'
+p806
+(lp807
+S'ENVO:00005801'
+p808
+asS'marine Taylor column'
+p809
+(lp810
+S'ENVO:01000072'
+p811
+asS'undersea range'
+p812
+(lp813
+g572
+asS'covered reservoir'
+p814
+(lp815
+S'ENVO:00000025'
+p816
+asS'equine milk'
+p817
+(lp818
+S'ENVO:0010033'
+p819
+asS'malt vinegar'
+p820
+(lp821
+S'ENVO:00003906'
+p822
+asS'massif'
+p823
+(lp824
+S'ENVO:00000381'
+p825
+asS'hook'
+p826
+(lp827
+g92
+aS'ENVO:00000305'
+p828
+asS'compost soil'
+p829
+(lp830
+S'ENVO:00005747'
+p831
+asS'cryptoendolith'
+p832
+(lp833
+S'ENVO:00001995'
+p834
+asS'doline'
+p835
+(lp836
+S'ENVO:00000332'
+p837
+asS'chutes (hydrographic)'
+p838
+(lp839
+S'ENVO:00000395'
+p840
+asS'cone (geological)'
+p841
+(lp842
+g229
+asS'ditch'
+p843
+(lp844
+g750
+ag750
+ag750
+asS'uranium mine'
+p845
+(lp846
+S'ID:0000132'
+p847
+asS'Temperate coniferous forest biome'
+p848
+(lp849
+S'ENVO:00000875'
+p850
+asS'borderland'
+p851
+(lp852
+S'ENVO:00000223'
+p853
+asS'natural harbour'
+p854
+(lp855
+S'ENVO:00000465'
+p856
+asS'pinnacle (natural formation)'
+p857
+(lp858
+S'ENVO:00000481'
+p859
+asS'fresh sausage'
+p860
+(lp861
+S'ENVO:0010134'
+p862
+asS'sheikdom'
+p863
+(lp864
+S'ENVO:00000004'
+p865
+asS'salt water'
+p866
+(lp867
+S'ENVO:00002010'
+p868
+asS'tape kefan'
+p869
+(lp870
+S'ENVO:00003929'
+p871
+asS'marginal sea'
+p872
+(lp873
+g58
+asS'deep ocean'
+p874
+(lp875
+g506
+asS'hypersaline'
+p876
+(lp877
+S'ID:0000111'
+p878
+asS'fork (hydrographic'
+p879
+(lp880
+g193
+asS'natural bridge'
+p881
+(lp882
+g40
+asS'hydrothermal vent'
+p883
+(lp884
+S'ENVO:00000215'
+p885
+asS'Polynya'
+p886
+(lp887
+S'ENVO:00000484'
+p888
+asS'barrier reef'
+p889
+(lp890
+S'ENVO:00000130'
+p891
+ag891
+aS'ENVO:00000150'
+p892
+asS'countries, 4th order division'
+p893
+(lp894
+g188
+asS'hanging valley'
+p895
+(lp896
+S'ENVO:00000184'
+p897
+ag897
+asS'intestine'
+p898
+(lp899
+g773
+asS'compound volcano'
+p900
+(lp901
+S'ENVO:00000371'
+p902
+asS'palsa'
+p903
+(lp904
+S'ENVO:00000489'
+p905
+asS'marine pelagic feature'
+p906
+(lp907
+S'ENVO:01000044'
+p908
+asS'high tide zone'
+p909
+(lp910
+S'ENVO:00000318'
+p911
+asS'pulse'
+p912
+(lp913
+S'ENVO:0010080'
+p914
+asS'interdigital web space'
+p915
+(lp916
+g787
+asS'intermittent saline lake'
+p917
+(lp918
+S'ENVO:00000502'
+p919
+asS'prefecture'
+p920
+(lp921
+g865
+asS'fish egg product'
+p922
+(lp923
+S'ENVO:0010166'
+p924
+asS'braided stream'
+p925
+(lp926
+g193
+asS'fresh water aquarium'
+p927
+(lp928
+S'ENVO:00002198'
+p929
+asS'sea channel'
+p930
+(lp931
+g840
+ag840
+asS'amaranthaceous inflorescence food product'
+p932
+(lp933
+S'ENVO:0010091'
+p934
+asS'undersea volcano'
+p935
+(lp936
+g33
+asS'coconut grove'
+p937
+(lp938
+S'ENVO:00000118'
+p939
+ag939
+asS'undersea median valley'
+p940
+(lp941
+g512
+asS'agricultural environmental material'
+p942
+(lp943
+S'ENVO:0010003'
+p944
+asS'volcanic field'
+p945
+(lp946
+S'ENVO:00000354'
+p947
+asS'WWTP'
+p948
+(lp949
+S'ENVO:00002272'
+p950
+asS'fece'
+p951
+(lp952
+g272
+asS'undersea fork'
+p953
+(lp954
+g512
+asS'Sea'
+p955
+(lp956
+g58
+asS'winged bean product'
+p957
+(lp958
+S'ENVO:0010114'
+p959
+asS'bridge'
+p960
+(lp961
+g12
+ag12
+asS'seep'
+p962
+(lp963
+S'ENVO:00000027'
+p964
+asS'shoals'
+p965
+(lp966
+g92
+asS'mine'
+p967
+(lp968
+g74
+aS'ENVO:00000076'
+p969
+aS'ENVO:00000284'
+p970
+asS'Dry Domain (300)'
+p971
+(lp972
+S'ENVO:00003002'
+p973
+asS'karst area'
+p974
+(lp975
+S'ENVO:00000175'
+p976
+ag976
+asS'headland'
+p977
+(lp978
+g828
+ag828
+ag828
+ag828
+asS'limestone pavement'
+p979
+(lp980
+S'ENVO:00000422'
+p981
+asS'saltern'
+p982
+(lp983
+g535
+aS'ENVO:00000055'
+p984
+asS'dead zone'
+p985
+(lp986
+S'ENVO:01000066'
+p987
+asS'abandoned watercourse'
+p988
+(lp989
+S'ENVO:00000524'
+p990
+ag990
+asS'undersea channel'
+p991
+(lp992
+g840
+asS'truck garden'
+p993
+(lp994
+S'ENVO:00000113'
+p995
+asS'atoll reef'
+p996
+(lp997
+g891
+asS'oceanic gyre'
+p998
+(lp999
+S'ENVO:01000074'
+p1000
+asS'feces'
+p1001
+(lp1002
+g272
+asS'cleft'
+p1003
+(lp1004
+S'ENVO:00000320'
+p1005
+ag1005
+aS'ENVO:00000526'
+p1006
+ag1006
+asS'first stomach'
+p1007
+(lp1008
+g167
+asS'biogas reactor'
+p1009
+(lp1010
+S'ID:0000113'
+p1011
+asS'tunnels'
+p1012
+(lp1013
+S'ENVO:00000066'
+p1014
+asS'fish product'
+p1015
+(lp1016
+S'ENVO:0010164'
+p1017
+asS'vitreous humor'
+p1018
+(lp1019
+g799
+asS'blood plasma'
+p1020
+(lp1021
+S'ENVO:02000027'
+p1022
+asS'marine white smoker biome'
+p1023
+(lp1024
+S'ENVO:01000052'
+p1025
+asS'beverage product'
+p1026
+(lp1027
+S'ENVO:0010004'
+p1028
+asS'wells'
+p1029
+(lp1030
+S'ENVO:00000026'
+p1031
+asS'end moraine'
+p1032
+(lp1033
+S'ENVO:00000252'
+p1034
+asS'Limburger'
+p1035
+(lp1036
+S'ENVO:0010040'
+p1037
+asS'uranium mill tailing'
+p1038
+(lp1039
+g847
+asS'pomaceous fruit extract'
+p1040
+(lp1041
+S'ENVO:0010072'
+p1042
+asS'fermented millet food product'
+p1043
+(lp1044
+S'ENVO:00003882'
+p1045
+asS'mouth'
+p1046
+(lp1047
+S'ENVO:00000479'
+p1048
+aS'ID:0000020'
+p1049
+asS'plant root food product'
+p1050
+(lp1051
+S'ENVO:0010059'
+p1052
+asS'letter'
+p1053
+(lp1054
+S'ENVO:02000081'
+p1055
+asS'Area of Special Scientific Interest'
+p1056
+(lp1057
+S'ENVO:00000361'
+p1058
+asS'estuarine biome'
+p1059
+(lp1060
+S'ENVO:01000020'
+p1061
+asS'mammalia-associated habitat'
+p1062
+(lp1063
+S'ENVO:00009002'
+p1064
+asS'underground river'
+p1065
+(lp1066
+S'ENVO:00000059'
+p1067
+asS'toxic molecule'
+p1068
+(lp1069
+g465
+asS'physiographic feature'
+p1070
+(lp1071
+S'ENVO:00000191'
+p1072
+aS'ENVO:00000194'
+p1073
+aS'ENVO:00000286'
+p1074
+aS'ENVO:00000510'
+p1075
+aS'ENVO:00000520'
+p1076
+aS'ENVO:00000521'
+p1077
+asS'rock shelter'
+p1078
+(lp1079
+S'ENVO:00000440'
+p1080
+asS'coomb'
+p1081
+(lp1082
+g142
+asS'canyon delta'
+p1083
+(lp1084
+S'ENVO:00000101'
+p1085
+asS'tissue culture'
+p1086
+(lp1087
+S'ENVO:02000007'
+p1088
+asS'beer wort'
+p1089
+(lp1090
+S'ENVO:00003038'
+p1091
+asS'freeway'
+p1092
+(lp1093
+g9
+asS'sandur'
+p1094
+(lp1095
+S'ENVO:00000312'
+p1096
+asS'alas'
+p1097
+(lp1098
+S'ENVO:00000438'
+p1099
+asS'marine sludge'
+p1100
+(lp1101
+S'ENVO:00005796'
+p1102
+asS'Tropical/Subtropical Steppe Division - Mountain Provinces (M310)'
+p1103
+(lp1104
+S'ENVO:00003025'
+p1105
+asS'irrigation canal'
+p1106
+(lp1107
+S'ENVO:00000036'
+p1108
+ag1108
+ag1108
+asS'ISTHMUS'
+p1109
+(lp1110
+S'ENVO:00000174'
+p1111
+asS'dried milk product'
+p1112
+(lp1113
+S'ENVO:00003980'
+p1114
+asS'Ridge'
+p1115
+(lp1116
+g481
+asS'ditch water'
+p1117
+(lp1118
+S'ENVO:00002158'
+p1119
+asS'droppings'
+p1120
+(lp1121
+g272
+asS'determinate root nodule'
+p1122
+(lp1123
+S'ENVO:01000167'
+p1124
+asS'quinate enriched soil'
+p1125
+(lp1126
+S'ENVO:00003095'
+p1127
+asS'lavaka'
+p1128
+(lp1129
+g197
+asS'black earth'
+p1130
+(lp1131
+S'ENVO:00002237'
+p1132
+asS'fjord lake'
+p1133
+(lp1134
+S'ENVO:00000201'
+p1135
+asS'coastal wetland'
+p1136
+(lp1137
+S'ENVO:00000230'
+p1138
+asS'sand lobe'
+p1139
+(lp1140
+g92
+asS'geyser'
+p1141
+(lp1142
+S'ENVO:00000050'
+p1143
+ag1143
+asS'till plan'
+p1144
+(lp1145
+S'ENVO:00000254'
+p1146
+asS'amasake'
+p1147
+(lp1148
+S'ENVO:00003872'
+p1149
+asS'artificial lake'
+p1150
+(lp1151
+S'ENVO:00000377'
+p1152
+asS'sugar'
+p1153
+(lp1154
+S'ENVO:00003970'
+p1155
+asS'bush'
+p1156
+(lp1157
+g266
+ag122
+ag122
+asS'spring (hydrographic)'
+p1158
+(lp1159
+S'ENVO:00000125'
+p1160
+aS'ENVO:00000126'
+p1161
+asS'irrigation reservoir'
+p1162
+(lp1163
+S'ENVO:00000450'
+p1164
+asS'fossil'
+p1165
+(lp1166
+S'ENVO:00002164'
+p1167
+asS'ice clearing'
+p1168
+(lp1169
+g888
+asS'thermophilic granular sludge'
+p1170
+(lp1171
+S'ENVO:00002212'
+p1172
+asS'rubber plantation soil'
+p1173
+(lp1174
+S'ENVO:00005788'
+p1175
+asS'Xeric basin biome'
+p1176
+(lp1177
+S'ENVO:00000893'
+p1178
+asS'nuclear power plant'
+p1179
+(lp1180
+S'ENVO:00002271'
+p1181
+asS'coast'
+p1182
+(lp1183
+S'ENVO:00000090'
+p1184
+aS'ENVO:00000303'
+p1185
+ag1185
+asS'watermelon'
+p1186
+(lp1187
+S'ENVO:0010067'
+p1188
+asS'continental rise'
+p1189
+(lp1190
+S'ENVO:00000274'
+p1191
+ag1191
+asS'reforested area'
+p1192
+(lp1193
+g266
+asS'ornithogenic soil'
+p1194
+(lp1195
+S'ENVO:00005782'
+p1196
+asS'bar'
+p1197
+(lp1198
+g92
+ag92
+ag325
+aS'ENVO:00000306'
+p1199
+aS'ENVO:00000420'
+p1200
+asS'milet product'
+p1201
+(lp1202
+S'ENVO:0010100'
+p1203
+asS'flour'
+p1204
+(lp1205
+S'ENVO:00003876'
+p1206
+asS'bank reef'
+p1207
+(lp1208
+g891
+asS'industrial waste'
+p1209
+(lp1210
+S'ENVO:00002267'
+p1211
+asS'donkey milk'
+p1212
+(lp1213
+S'ENVO:02000013'
+p1214
+asS'hummock'
+p1215
+(lp1216
+g357
+ag52
+ag52
+aS'ENVO:00000516'
+p1217
+asS'shott'
+p1218
+(lp1219
+S'ENVO:00000271'
+p1220
+asS'Piburger See'
+p1221
+(lp1222
+S'ID:0000102'
+p1223
+asS'chaparal'
+p1224
+(lp1225
+S'ENVO:00000301'
+p1226
+asS'cooked sausage'
+p1227
+(lp1228
+S'ENVO:0010136'
+p1229
+asS'icecap depression'
+p1230
+(lp1231
+S'ENVO:00000531'
+p1232
+ag1232
+asS'demilitiarized zone'
+p1233
+(lp1234
+S'ENVO:00000136'
+p1235
+asS'L-(+)-tartrate enriched soil'
+p1236
+(lp1237
+S'ENVO:00003094'
+p1238
+asS'sand hom'
+p1239
+(lp1240
+g92
+asS'rivulet'
+p1241
+(lp1242
+g193
+ag194
+asS'arenosol'
+p1243
+(lp1244
+S'ENVO:00002229'
+p1245
+asS'Bresse Blue'
+p1246
+(lp1247
+S'ENVO:00003046'
+p1248
+asS'DMZ'
+p1249
+(lp1250
+g1235
+asS'sound (bodies of water)'
+p1251
+(lp1252
+g840
+asS'raised mire'
+p1253
+(lp1254
+S'ENVO:00000185'
+p1255
+asS'epithelium'
+p1256
+(lp1257
+S'ID:0000167'
+p1258
+asS'cattle dipping tank'
+p1259
+(lp1260
+g104
+asS'causeway'
+p1261
+(lp1262
+g9
+aS'ENVO:00000158'
+p1263
+ag1263
+asS'algal food product'
+p1264
+(lp1265
+S'ENVO:0010096'
+p1266
+asS'mud'
+p1267
+(lp1268
+S'ENVO:01000001'
+p1269
+asS'Mediterranean Division - Mountain Provinces (M260)'
+p1270
+(lp1271
+S'ENVO:00003018'
+p1272
+asS'sample from HOT station ALOHA'
+p1273
+(lp1274
+S'ID:0000123'
+p1275
+aS'ID:0000124'
+p1276
+asS'nitisol'
+p1277
+(lp1278
+S'ENVO:00002247'
+p1279
+asS'yogurt'
+p1280
+(lp1281
+g226
+asS'pampa'
+p1282
+(lp1283
+g253
+aS'ENVO:00000262'
+p1284
+asS'confluent stream'
+p1285
+(lp1286
+S'ENVO:00000495'
+p1287
+asS'ICEBERG'
+p1288
+(lp1289
+S'ENVO:00000298'
+p1290
+asS'tissue fluid'
+p1291
+(lp1292
+S'ENVO:02000042'
+p1293
+asS'LandIce'
+p1294
+(lp1295
+g80
+asS'boulder sediment'
+p1296
+(lp1297
+S'ENVO:01000114'
+p1298
+asS'marine water body'
+p1299
+(lp1300
+S'ENVO:00001999'
+p1301
+asS'zebra dairy product'
+p1302
+(lp1303
+S'ENVO:0010026'
+p1304
+asS'cold surface current'
+p1305
+(lp1306
+S'ENVO:01000102'
+p1307
+asS'bottled beer'
+p1308
+(lp1309
+S'ENVO:00003886'
+p1310
+asS'fermented sugar cane beverage'
+p1311
+(lp1312
+S'ENVO:0010008'
+p1313
+asS'motte'
+p1314
+(lp1315
+g266
+asS'unexploded-ordnance dump'
+p1316
+(lp1317
+S'ENVO:00002205'
+p1318
+asS'nunatak'
+p1319
+(lp1320
+S'ENVO:00000181'
+p1321
+ag1321
+aS'ENVO:00000480'
+p1322
+asS'intertidal sediment'
+p1323
+(lp1324
+S'ENVO:00002179'
+p1325
+asS'PLATEAU'
+p1326
+(lp1327
+S'ENVO:00000182'
+p1328
+asS'body of water'
+p1329
+(lp1330
+S'ENVO:00000063'
+p1331
+ag1331
+asS'omz'
+p1332
+(lp1333
+S'ENVO:01000065'
+p1334
+asS'open sea'
+p1335
+(lp1336
+g58
+asS'burnt soil'
+p1337
+(lp1338
+S'ENVO:00005760'
+p1339
+asS'gravel field'
+p1340
+(lp1341
+S'ENVO:00000548'
+p1342
+asS'oil contaminated'
+p1343
+(lp1344
+S'ID:0000122'
+p1345
+asS'country'
+p1346
+(lp1347
+g157
+asS'WOODLAND'
+p1348
+(lp1349
+g266
+asS'ocean region'
+p1350
+(lp1351
+g500
+asS'beach sand'
+p1352
+(lp1353
+S'ENVO:00002138'
+p1354
+asS'saltmarsh'
+p1355
+(lp1356
+S'ID:0000035'
+p1357
+asS'dcm degrading envrionment'
+p1358
+(lp1359
+S'ID:0000080'
+p1360
+asS'hay meadow'
+p1361
+(lp1362
+S'ENVO:00000108'
+p1363
+asS'col'
+p1364
+(lp1365
+g406
+ag406
+asS'cave floor'
+p1366
+(lp1367
+S'ENVO:01000019'
+p1368
+asS'sound (body of water)'
+p1369
+(lp1370
+S'ENVO:00000393'
+p1371
+asS'cobble'
+p1372
+(lp1373
+S'ENVO:00002140'
+p1374
+asS"cow's milk"
+p1375
+(lp1376
+S'ENVO:0010035'
+p1377
+asS'linseed oil'
+p1378
+(lp1379
+S'ENVO:00003976'
+p1380
+asS'bee food product'
+p1381
+(lp1382
+S'ENVO:0010130'
+p1383
+asS'canyon'
+p1384
+(lp1385
+g407
+ag302
+asS'PalustrineWetland'
+p1386
+(lp1387
+g299
+asS'path'
+p1388
+(lp1389
+S'ENVO:00000122'
+p1390
+asS'backarc basin'
+p1391
+(lp1392
+S'ENVO:00002277'
+p1393
+asS'abdominal'
+p1394
+(lp1395
+g773
+asS'beef'
+p1396
+(lp1397
+S'ENVO:00003067'
+p1398
+asS'grotto'
+p1399
+(lp1400
+S'ENVO:00000067'
+p1401
+ag1401
+asS'insect food product'
+p1402
+(lp1403
+S'ENVO:0010089'
+p1404
+asS'extraterrestrial habitat'
+p1405
+(lp1406
+S'ENVO:00002029'
+p1407
+asS'beer'
+p1408
+(lp1409
+S'ENVO:01000015'
+p1410
+asS'foredeep'
+p1411
+(lp1412
+S'ENVO:00000499'
+p1413
+asS'baked food product'
+p1414
+(lp1415
+S'ENVO:0010125'
+p1416
+asS'basin'
+p1417
+(lp1418
+S'ENVO:00000151'
+p1419
+aS'ENVO:00000165'
+p1420
+aS'ENVO:00000195'
+p1421
+ag281
+ag281
+aS'ENVO:00000311'
+p1422
+ag1393
+asS'wadi bend'
+p1423
+(lp1424
+g223
+ag223
+asS'stream distributary'
+p1425
+(lp1426
+g111
+asS'cowpea product'
+p1427
+(lp1428
+S'ENVO:0010112'
+p1429
+asS'unpasteurized caprine milk'
+p1430
+(lp1431
+S'ENVO:02000088'
+p1432
+asS'dichloromethane'
+p1433
+(lp1434
+g354
+asS'spit'
+p1435
+(lp1436
+g1199
+ag1199
+aS'ID:0000021'
+p1437
+asS'tablemounts'
+p1438
+(lp1439
+S'ENVO:00000265'
+p1440
+asS'stream bottom'
+p1441
+(lp1442
+S'ENVO:00000383'
+p1443
+asS'catchment'
+p1444
+(lp1445
+g296
+ag296
+asS'bioleaching heap'
+p1446
+(lp1447
+S'ID:0000016'
+p1448
+asS'ICE FIELD'
+p1449
+(lp1450
+g316
+asS'Rhizobacteria'
+p1451
+(lp1452
+g808
+asS'marine oligotrophic desert'
+p1453
+(lp1454
+S'ENVO:01000073'
+p1455
+asS'lost river'
+p1456
+(lp1457
+S'ENVO:00000517'
+p1458
+ag1458
+ag1458
+asS'volcanic island'
+p1459
+(lp1460
+S'ENVO:00000222'
+p1461
+asS'VALLEY'
+p1462
+(lp1463
+g197
+asS'ait'
+p1464
+(lp1465
+g776
+asS'salt pond'
+p1466
+(lp1467
+g984
+ag984
+asS'air'
+p1468
+(lp1469
+S'ENVO:00002005'
+p1470
+asS'threonine enriched soil'
+p1471
+(lp1472
+S'ENVO:00003091'
+p1473
+asS'tablemount'
+p1474
+(lp1475
+g1328
+ag1440
+asS'paper product'
+p1476
+(lp1477
+S'ENVO:00003895'
+p1478
+asS'watercourse'
+p1479
+(lp1480
+S'ENVO:00000014'
+p1481
+ag193
+ag193
+ag194
+ag194
+ag223
+ag750
+ag111
+aS'ENVO:00000079'
+p1482
+aS'ENVO:00000152'
+p1483
+ag329
+aS'ENVO:00000384'
+p1484
+ag1371
+aS'ENVO:00000394'
+p1485
+ag840
+aS'ENVO:00000427'
+p1486
+aS'ENVO:00000493'
+p1487
+ag1287
+asS'dune soil'
+p1488
+(lp1489
+S'ENVO:00002260'
+p1490
+asS'property'
+p1491
+(lp1492
+S'ID:0000043'
+p1493
+asS'retention basin'
+p1494
+(lp1495
+g448
+asS'savanna'
+p1496
+(lp1497
+S'ENVO:00000261'
+p1498
+asS'valley glacier'
+p1499
+(lp1500
+S'ENVO:00000458'
+p1501
+asS'earth crust'
+p1502
+(lp1503
+g182
+asS'nature reserve'
+p1504
+(lp1505
+S'ENVO:00000363'
+p1506
+asS'lake surface'
+p1507
+(lp1508
+S'ENVO:00000105'
+p1509
+asS'cone'
+p1510
+(lp1511
+g229
+ag229
+asS'seamount group'
+p1512
+(lp1513
+g572
+asS'surface water'
+p1514
+(lp1515
+S'ENVO:00002042'
+p1516
+asS'rolling wastewater'
+p1517
+(lp1518
+S'ENVO:00002001'
+p1519
+asS'unpasteurized sheep milk cheese'
+p1520
+(lp1521
+S'ENVO:02000085'
+p1522
+asS'vivarium'
+p1523
+(lp1524
+S'ENVO:00010622'
+p1525
+asS'cultured habitat'
+p1526
+(lp1527
+S'ENVO:02000006'
+p1528
+asS'poultry product'
+p1529
+(lp1530
+S'ENVO:02000068'
+p1531
+asS'swale'
+p1532
+(lp1533
+g1413
+aS'ENVO:00000543'
+p1534
+asS'UASB granule'
+p1535
+(lp1536
+S'ID:0000168'
+p1537
+asS'airport'
+p1538
+(lp1539
+S'ID:0000069'
+p1540
+asS'endorheic basin'
+p1541
+(lp1542
+S'ENVO:00000551'
+p1543
+asS'thermophilic anaerobic methanogenic reactor'
+p1544
+(lp1545
+S'ENVO:00002211'
+p1546
+asS'glacial valley'
+p1547
+(lp1548
+S'ENVO:00000248'
+p1549
+asS'karst'
+p1550
+(lp1551
+g976
+ag976
+asS'diversionary dam'
+p1552
+(lp1553
+S'ENVO:00000558'
+p1554
+asS'poultry deep litter'
+p1555
+(lp1556
+S'ENVO:00003908'
+p1557
+asS'peaks'
+p1558
+(lp1559
+g1322
+asS'Mixed mountain and highland systems with complex zonation'
+p1560
+(lp1561
+S'ENVO:00002996'
+p1562
+asS'undersea hill'
+p1563
+(lp1564
+g33
+asS'waterfall'
+p1565
+(lp1566
+g114
+asS'strand crack'
+p1567
+(lp1568
+S'ENVO:00009726'
+p1569
+asS'sulfur spring'
+p1570
+(lp1571
+g1161
+asS'fish hatchery'
+p1572
+(lp1573
+S'ENVO:00000295'
+p1574
+asS'butter'
+p1575
+(lp1576
+S'ENVO:00003047'
+p1577
+asS'reindeer rumen'
+p1578
+(lp1579
+g167
+asS'Subarctic Division (130)'
+p1580
+(lp1581
+S'ENVO:00003006'
+p1582
+asS'GEYSER'
+p1583
+(lp1584
+g1143
+asS'cake icing'
+p1585
+(lp1586
+S'ENVO:02000064'
+p1587
+asS'ocean'
+p1588
+(lp1589
+g500
+ag500
+asS'sea bed'
+p1590
+(lp1591
+S'ENVO:00000482'
+p1592
+asS'kiwifruit'
+p1593
+(lp1594
+S'ID:0000117'
+p1595
+asS'subjacent karst'
+p1596
+(lp1597
+S'ENVO:00000333'
+p1598
+asS'cataract'
+p1599
+(lp1600
+S'ENVO:00000034'
+p1601
+ag114
+ag114
+asS'calanque'
+p1602
+(lp1603
+S'ENVO:00000567'
+p1604
+asS'regional clearing'
+p1605
+(lp1606
+g888
+asS'biogenous sediment'
+p1607
+(lp1608
+S'ENVO:01000082'
+p1609
+asS'national forest'
+p1610
+(lp1611
+g377
+aS'ENVO:00000360'
+p1612
+asS'kastanozem'
+p1613
+(lp1614
+S'ENVO:00002240'
+p1615
+asS'ceja'
+p1616
+(lp1617
+S'ENVO:00000087'
+p1618
+asS'island ice'
+p1619
+(lp1620
+g316
+asS'yak milk'
+p1621
+(lp1622
+S'ENVO:02000017'
+p1623
+asS'precipice'
+p1624
+(lp1625
+g1618
+asS'marine oxygen minimum zone'
+p1626
+(lp1627
+g1334
+asS'obsequent stream'
+p1628
+(lp1629
+g1487
+asS'biome'
+p1630
+(lp1631
+S'ENVO:00000428'
+p1632
+asS'undersea ridge'
+p1633
+(lp1634
+S'ENVO:00000406'
+p1635
+asS'hills'
+p1636
+(lp1637
+g335
+asS'clam product'
+p1638
+(lp1639
+S'ENVO:02000078'
+p1640
+asS'Tropical coral biome'
+p1641
+(lp1642
+S'ENVO:00000898'
+p1643
+asS'ovine dairy product'
+p1644
+(lp1645
+S'ENVO:0010024'
+p1646
+asS'stent'
+p1647
+(lp1648
+S'ID:0000096'
+p1649
+asS'quaking bog'
+p1650
+(lp1651
+g299
+asS'hay'
+p1652
+(lp1653
+S'ENVO:00002869'
+p1654
+asS'undersea fan'
+p1655
+(lp1656
+g512
+asS'road tunnel'
+p1657
+(lp1658
+g1014
+ag1014
+asS'unpasteurized orange juice'
+p1659
+(lp1660
+S'ENVO:02000061'
+p1661
+asS'fish farm'
+p1662
+(lp1663
+g665
+asS'gelisol'
+p1664
+(lp1665
+g494
+asS'elevation'
+p1666
+(lp1667
+S'ENVO:00000176'
+p1668
+asS'CREVASSE'
+p1669
+(lp1670
+g1005
+asS'oil field produced water'
+p1671
+(lp1672
+S'ENVO:00002194'
+p1673
+asS'zooplankton'
+p1674
+(lp1675
+S'ID:0000065'
+p1676
+asS'halloumi'
+p1677
+(lp1678
+S'ENVO:00003054'
+p1679
+asS'quicksand'
+p1680
+(lp1681
+g325
+ag325
+asS'cape'
+p1682
+(lp1683
+g828
+ag828
+ag828
+asS'metal contaminated soil'
+p1684
+(lp1685
+S'ENVO:00003081'
+p1686
+asS'sea mount'
+p1687
+(lp1688
+g33
+asS'silty sediment'
+p1689
+(lp1690
+S'ENVO:01000119'
+p1691
+asS'icecap'
+p1692
+(lp1693
+S'ENVO:00000145'
+p1694
+ag1694
+aS'ENVO:00000299'
+p1695
+asS'contaminated sludge'
+p1696
+(lp1697
+S'ENVO:00002176'
+p1698
+asS'dune slack'
+p1699
+(lp1700
+g68
+asS'marine bathyal zone biome'
+p1701
+(lp1702
+S'ENVO:01000026'
+p1703
+asS'acidic hot spring'
+p1704
+(lp1705
+g351
+asS'groundwater'
+p1706
+(lp1707
+g756
+asS'QUICKSAND'
+p1708
+(lp1709
+g325
+asS'gold mine'
+p1710
+(lp1711
+S'ENVO:00002168'
+p1712
+asS'equatorial forest'
+p1713
+(lp1714
+g266
+asS'pillar'
+p1715
+(lp1716
+g859
+asS'sea channels'
+p1717
+(lp1718
+g840
+asS'creek'
+p1719
+(lp1720
+g193
+ag193
+ag193
+asS'natural rock formation'
+p1721
+(lp1722
+g859
+asS'asphalt lake'
+p1723
+(lp1724
+g1420
+ag1420
+asS'bathypelagic zone'
+p1725
+(lp1726
+S'ENVO:00000211'
+p1727
+asS'seaknoll'
+p1728
+(lp1729
+g33
+asS'rill'
+p1730
+(lp1731
+g194
+aS'ENVO:00000496'
+p1732
+asS'rock glacier'
+p1733
+(lp1734
+g316
+aS'ENVO:00000133'
+p1735
+asS'fermented cereal beverage'
+p1736
+(lp1737
+S'ENVO:0010013'
+p1738
+asS'heat stressed soil'
+p1739
+(lp1740
+S'ENVO:00005781'
+p1741
+asS'storage basin'
+p1742
+(lp1743
+g448
+asS'poultry litter'
+p1744
+(lp1745
+S'ENVO:00002192'
+p1746
+asS'drowned valley'
+p1747
+(lp1748
+S'ENVO:00000418'
+p1749
+asS'independent political entity'
+p1750
+(lp1751
+g157
+asS'river receiving production wastewater'
+p1752
+(lp1753
+S'ID:0000126'
+p1754
+asS'oil tank'
+p1755
+(lp1756
+S'ENVO:00002183'
+p1757
+asS'sake brewery'
+p1758
+(lp1759
+S'ENVO:00003911'
+p1760
+asS'arable soil'
+p1761
+(lp1762
+S'ENVO:00005742'
+p1763
+asS'Hot Continental Division - Mountain Provinces (M220)'
+p1764
+(lp1765
+S'ENVO:00003013'
+p1766
+asS'cerro'
+p1767
+(lp1768
+g334
+ag335
+ag52
+ag52
+asS'oceanic abyssopelagic zone biome'
+p1769
+(lp1770
+S'ENVO:01000038'
+p1771
+asS'cerebrospinal fluid'
+p1772
+(lp1773
+S'ENVO:02000029'
+p1774
+asS'saline water'
+p1775
+(lp1776
+g868
+asS'organic waste'
+p1777
+(lp1778
+S'ENVO:00002873'
+p1779
+asS'fresh animal manure'
+p1780
+(lp1781
+S'ENVO:00003032'
+p1782
+asS'burn'
+p1783
+(lp1784
+S'ENVO:00000444'
+p1785
+asS'interfluve'
+p1786
+(lp1787
+g252
+aS'ENVO:00000527'
+p1788
+ag1788
+asS'cork'
+p1789
+(lp1790
+S'ID:0000165'
+p1791
+asS'third-order administrative division'
+p1792
+(lp1793
+S'ENVO:00000007'
+p1794
+asS'ice field'
+p1795
+(lp1796
+g316
+ag1735
+ag1694
+ag1695
+asS'bank (hydrographic)'
+p1797
+(lp1798
+S'ENVO:00000142'
+p1799
+ag92
+asS'palm grove'
+p1800
+(lp1801
+S'ENVO:00000120'
+p1802
+asS'eye'
+p1803
+(lp1804
+S'ID:0000156'
+p1805
+asS'stromatoliths'
+p1806
+(lp1807
+g696
+asS'gravel field area'
+p1808
+(lp1809
+g1342
+asS'dambo'
+p1810
+(lp1811
+S'ENVO:00000236'
+p1812
+asS'alkaline flat'
+p1813
+(lp1814
+S'ENVO:00000196'
+p1815
+asS'coral mucus'
+p1816
+(lp1817
+g892
+asS'uranium mill tailings'
+p1818
+(lp1819
+g847
+asS'millet beer'
+p1820
+(lp1821
+S'ENVO:00003883'
+p1822
+asS'palisade'
+p1823
+(lp1824
+g1618
+asS'radioactive elements'
+p1825
+(lp1826
+S'ID:0000128'
+p1827
+asS'point (physiographic)'
+p1828
+(lp1829
+g828
+asS'acid mine drainage'
+p1830
+(lp1831
+S'ENVO:00001997'
+p1832
+asS'islands'
+p1833
+(lp1834
+g357
+asS'humus-rich acidic ash soil'
+p1835
+(lp1836
+S'ENVO:00005763'
+p1837
+asS'permafrost'
+p1838
+(lp1839
+S'ENVO:00000134'
+p1840
+asS'fomite'
+p1841
+(lp1842
+S'ENVO:00010358'
+p1843
+asS'medical procedure'
+p1844
+(lp1845
+S'ID:0000051'
+p1846
+asS'intermittent saline evaporation pond'
+p1847
+(lp1848
+S'ENVO:00000532'
+p1849
+asS'marine hydrothermal vent biome'
+p1850
+(lp1851
+S'ENVO:01000030'
+p1852
+asS'cauldron'
+p1853
+(lp1854
+g281
+asS'down'
+p1855
+(lp1856
+g216
+asS'artificial harbor'
+p1857
+(lp1858
+g37
+asS'brown sugar'
+p1859
+(lp1860
+S'ENVO:00003971'
+p1861
+asS'closed bay'
+p1862
+(lp1863
+S'ENVO:00000475'
+p1864
+asS'ahu'
+p1865
+(lp1866
+g1322
+asS'spores'
+p1867
+(lp1868
+S'ID:0000011'
+p1869
+asS'bedding-plane cave'
+p1870
+(lp1871
+S'ENVO:00000001'
+p1872
+asS'anerobic condition'
+p1873
+(lp1874
+S'ID:0000047'
+p1875
+asS'escarpment'
+p1876
+(lp1877
+S'ENVO:00000280'
+p1878
+ag1878
+asS'root nodule'
+p1879
+(lp1880
+S'ENVO:01000164'
+p1881
+asS'coffee plantation'
+p1882
+(lp1883
+S'ENVO:00000163'
+p1884
+asS'creamery'
+p1885
+(lp1886
+S'ENVO:00003967'
+p1887
+asS'dry peas product'
+p1888
+(lp1889
+S'ENVO:0010106'
+p1890
+asS'lixisol'
+p1891
+(lp1892
+S'ENVO:00002242'
+p1893
+asS'blue cheese'
+p1894
+(lp1895
+S'ENVO:00003887'
+p1896
+asS'organic matter fall'
+p1897
+(lp1898
+S'ENVO:01000137'
+p1899
+asS'coal refuse'
+p1900
+(lp1901
+S'ENVO:00002206'
+p1902
+asS'hindgut'
+p1903
+(lp1904
+S'ID:0000033'
+p1905
+asS'volcanic hydrographic feature'
+p1906
+(lp1907
+S'ENVO:00000049'
+p1908
+asS'sea-sludge'
+p1909
+(lp1910
+S'ID:0000090'
+p1911
+asS'cloth'
+p1912
+(lp1913
+S'ENVO:02000058'
+p1914
+asS'fork'
+p1915
+(lp1916
+g194
+asS'head'
+p1917
+(lp1918
+g828
+asS'hotspring'
+p1919
+(lp1920
+S'ENVO:00000051'
+p1921
+asS'high osmolarity habitat'
+p1922
+(lp1923
+S'ENVO:00002028'
+p1924
+asS'manmade'
+p1925
+(lp1926
+g650
+asS'shelter belt'
+p1927
+(lp1928
+S'ENVO:00000046'
+p1929
+asS'ford'
+p1930
+(lp1931
+g642
+ag642
+asS'peninsula'
+p1932
+(lp1933
+g828
+ag828
+asS'synovial fluid'
+p1934
+(lp1935
+S'ENVO:02000039'
+p1936
+asS'red soil'
+p1937
+(lp1938
+S'ENVO:00005790'
+p1939
+asS'berm'
+p1940
+(lp1941
+g436
+asS'ocean water'
+p1942
+(lp1943
+S'ENVO:00002151'
+p1944
+asS'fumarole'
+p1945
+(lp1946
+S'ENVO:00000216'
+p1947
+asS'coral head'
+p1948
+(lp1949
+g859
+asS'bay head bar'
+p1950
+(lp1951
+g92
+asS'tempeh'
+p1952
+(lp1953
+S'ENVO:00003779'
+p1954
+asS'undersea saddle'
+p1955
+(lp1956
+g512
+asS'terrestrial ignimbrite shield'
+p1957
+(lp1958
+S'ENVO:00000372'
+p1959
+asS'weapons test site'
+p1960
+(lp1961
+S'ENVO:00000559'
+p1962
+asS'cultivated area'
+p1963
+(lp1964
+g995
+ag995
+ag995
+asS'fault zone'
+p1965
+(lp1966
+S'ENVO:00000290'
+p1967
+asS'RIDGE LINE'
+p1968
+(lp1969
+g269
+asS'governed place'
+p1970
+(lp1971
+g865
+asS'transvasement'
+p1972
+(lp1973
+S'ENVO:00000445'
+p1974
+asS'neritic epipelagic zone biome'
+p1975
+(lp1976
+S'ENVO:01000042'
+p1977
+asS'oil containing feature'
+p1978
+(lp1979
+S'ID:0000121'
+p1980
+asS'quebrada'
+p1981
+(lp1982
+g407
+asS'undersea valley'
+p1983
+(lp1984
+g512
+asS'manure'
+p1985
+(lp1986
+g272
+asS'sorghum product'
+p1987
+(lp1988
+S'ENVO:0010099'
+p1989
+asS'epipelagic zone'
+p1990
+(lp1991
+S'ENVO:00000209'
+p1992
+asS'intermittent oxbow lake'
+p1993
+(lp1994
+S'ENVO:00000503'
+p1995
+ag1995
+asS'geographic feature'
+p1996
+(lp1997
+S'ENVO:00000000'
+p1998
+asS'evaporated milk product'
+p1999
+(lp2000
+S'ENVO:00003972'
+p2001
+asS'mangrove island'
+p2002
+(lp2003
+S'ENVO:00000103'
+p2004
+ag2004
+asS'glacier'
+p2005
+(lp2006
+g1735
+ag1735
+asS'gold mine drainage'
+p2007
+(lp2008
+S'ENVO:00002112'
+p2009
+asS'forest soil'
+p2010
+(lp2011
+S'ENVO:00002261'
+p2012
+asS'water mass front'
+p2013
+(lp2014
+S'ENVO:01000096'
+p2015
+asS'warehouse'
+p2016
+(lp2017
+S'ENVO:00003963'
+p2018
+asS'protected area'
+p2019
+(lp2020
+S'ENVO:00000358'
+p2021
+asS'oil well'
+p2022
+(lp2023
+S'ENVO:01000003'
+p2024
+ag1980
+asS'sabkha'
+p2025
+(lp2026
+g1419
+ag1419
+ag1815
+asS'water divide'
+p2027
+(lp2028
+g269
+asS'salad'
+p2029
+(lp2030
+S'ENVO:00003080'
+p2031
+asS'cryptoendolithic'
+p2032
+(lp2033
+g834
+asS'salt marsh'
+p2034
+(lp2035
+S'ENVO:00000054'
+p2036
+ag2036
+asS'chalk soil'
+p2037
+(lp2038
+S'ENVO:00003914'
+p2039
+asS"Vacherin Mont d'Or"
+p2040
+(lp2041
+S'ENVO:00003061'
+p2042
+asS'fruit extract product'
+p2043
+(lp2044
+S'ENVO:00003878'
+p2045
+asS'coral mucus/tissue'
+p2046
+(lp2047
+g892
+asS'radioactivity'
+p2048
+(lp2049
+g1827
+asS'rock desert'
+p2050
+(lp2051
+S'ENVO:00000173'
+p2052
+asS'raw milk'
+p2053
+(lp2054
+S'ENVO:02000051'
+p2055
+asS'eutrophic water'
+p2056
+(lp2057
+S'ENVO:00002224'
+p2058
+asS'plant-associated habitat'
+p2059
+(lp2060
+S'ENVO:00009001'
+p2061
+asS'oil field production water'
+p2062
+(lp2063
+g1673
+asS'vegetable rennet'
+p2064
+(lp2065
+S'ENVO:0010152'
+p2066
+asS'MOUTH'
+p2067
+(lp2068
+g1048
+asS'wastewater treatment plant'
+p2069
+(lp2070
+S'ENVO:00002043'
+p2071
+asS'meander'
+p2072
+(lp2073
+g1486
+asS'offshore area'
+p2074
+(lp2075
+g1184
+asS'Stromatolites'
+p2076
+(lp2077
+g696
+asS'meromictoc lake'
+p2078
+(lp2079
+S'ENVO:00000199'
+p2080
+asS'shop'
+p2081
+(lp2082
+S'ENVO:00002221'
+p2083
+asS'bulginniakh'
+p2084
+(lp2085
+S'ENVO:00000413'
+p2086
+asS'intermittent stream'
+p2087
+(lp2088
+S'ENVO:00000024'
+p2089
+ag2089
+asS'canalised stream'
+p2090
+(lp2091
+S'ENVO:00000525'
+p2092
+asS'coastal shoreline'
+p2093
+(lp2094
+S'ENVO:00000486'
+p2095
+asS'volcanic dike'
+p2096
+(lp2097
+g176
+asS'psamment'
+p2098
+(lp2099
+g1245
+asS'pleural effusion'
+p2100
+(lp2101
+S'ENVO:02000033'
+p2102
+asS'undersea slope'
+p2103
+(lp2104
+g512
+asS'undersea bank'
+p2105
+(lp2106
+g512
+asS'sour milk'
+p2107
+(lp2108
+S'ENVO:00003979'
+p2109
+asS'photic zone'
+p2110
+(lp2111
+g1992
+asS'coulee'
+p2112
+(lp2113
+g223
+ag223
+ag197
+asS'plant matter fall'
+p2114
+(lp2115
+S'ENVO:01000138'
+p2116
+asS'passage'
+p2117
+(lp2118
+g194
+ag194
+asS'koppje'
+p2119
+(lp2120
+g52
+asS'must'
+p2121
+(lp2122
+S'ENVO:00003899'
+p2123
+asS'littoral zone'
+p2124
+(lp2125
+S'ENVO:00000316'
+p2126
+asS'cotton plantation'
+p2127
+(lp2128
+S'ENVO:00000288'
+p2129
+ag2129
+asS'1,4-dioxane contaminated sludge'
+p2130
+(lp2131
+S'ENVO:00002177'
+p2132
+asS'riparian area'
+p2133
+(lp2134
+g299
+asS'buffalo milk'
+p2135
+(lp2136
+S'ENVO:02000011'
+p2137
+asS'fermented soya product'
+p2138
+(lp2139
+S'ENVO:0010015'
+p2140
+asS'warm seep'
+p2141
+(lp2142
+S'ENVO:00002926'
+p2143
+asS'HOT station ALOHA 4000m depth'
+p2144
+(lp2145
+g1276
+asS'AphoticZone'
+p2146
+(lp2147
+S'ENVO:00000210'
+p2148
+asS'kim chee'
+p2149
+(lp2150
+S'ID:0000083'
+p2151
+asS'speleothem'
+p2152
+(lp2153
+S'ENVO:00000327'
+p2154
+asS'volcanic rock'
+p2155
+(lp2156
+S'ENVO:00002015'
+p2157
+asS'infectious disease-related habitat'
+p2158
+(lp2159
+S'ID:0000017'
+p2160
+asS'Prosopis alba'
+p2161
+(lp2162
+S'ID:0000155'
+p2163
+asS'WetlandRegion'
+p2164
+(lp2165
+g299
+asS'tear'
+p2166
+(lp2167
+S'ENVO:02000034'
+p2168
+asS'ethanol enriched soil'
+p2169
+(lp2170
+S'ENVO:00003086'
+p2171
+asS'bovine cheese product'
+p2172
+(lp2173
+S'ENVO:0010038'
+p2174
+asS'levee'
+p2175
+(lp2176
+g436
+ag436
+asS'nut food product'
+p2177
+(lp2178
+S'ENVO:0010084'
+p2179
+asS'gut'
+p2180
+(lp2181
+g773
+asS'yeast cake'
+p2182
+(lp2183
+S'ENVO:00003904'
+p2184
+asS'Mixed island systems'
+p2185
+(lp2186
+S'ENVO:00002994'
+p2187
+asS'intercellular fluid'
+p2188
+(lp2189
+g1293
+asS'bahia'
+p2190
+(lp2191
+g637
+ag329
+asS'burnt over area'
+p2192
+(lp2193
+g1785
+asS'donkey dairy product'
+p2194
+(lp2195
+S'ENVO:0010022'
+p2196
+asS'pork'
+p2197
+(lp2198
+S'ENVO:00003062'
+p2199
+asS'meadow'
+p2200
+(lp2201
+g1363
+ag1363
+asS'podosolic soil'
+p2202
+(lp2203
+S'ENVO:00002257'
+p2204
+asS"cow's milk cheese"
+p2205
+(lp2206
+S'ENVO:0010039'
+p2207
+asS'amaranthaceous food product'
+p2208
+(lp2209
+S'ENVO:0010079'
+p2210
+asS'oil-contaminated'
+p2211
+(lp2212
+g1345
+asS'prairie'
+p2213
+(lp2214
+g253
+asS'fan delta'
+p2215
+(lp2216
+g1085
+asS'lake bed'
+p2217
+(lp2218
+S'ENVO:00000268'
+p2219
+aS'ENVO:00000277'
+p2220
+asS'intermittent lake'
+p2221
+(lp2222
+S'ENVO:00000387'
+p2223
+ag2223
+asS'chott'
+p2224
+(lp2225
+g1815
+ag1220
+asS'snow field'
+p2226
+(lp2227
+S'ENVO:00000146'
+p2228
+asS'bovine meat product'
+p2229
+(lp2230
+S'ENVO:0010046'
+p2231
+asS'velvet bean product'
+p2232
+(lp2233
+S'ENVO:0010117'
+p2234
+asS'pozol'
+p2235
+(lp2236
+g2204
+asS'bar (physiographic)'
+p2237
+(lp2238
+g92
+asS'current'
+p2239
+(lp2240
+S'ENVO:00000147'
+p2241
+ag2241
+ag2241
+asS'coastal water'
+p2242
+(lp2243
+S'ENVO:00002150'
+p2244
+ag2244
+asS'tea plantation'
+p2245
+(lp2246
+S'ENVO:00000162'
+p2247
+ag2247
+asS'caatinga'
+p2248
+(lp2249
+g266
+asS'tideway'
+p2250
+(lp2251
+g194
+asS'FLAT'
+p2252
+(lp2253
+S'ENVO:00000241'
+p2254
+asS'indeterminate root nodule senescent zone'
+p2255
+(lp2256
+S'ENVO:01000172'
+p2257
+asS'INLET'
+p2258
+(lp2259
+g1864
+asS'kame'
+p2260
+(lp2261
+S'ENVO:00000542'
+p2262
+asS'marine basaltic hydrothermal vent biome'
+p2263
+(lp2264
+S'ENVO:01000054'
+p2265
+asS'rice paddy soil'
+p2266
+(lp2267
+S'ENVO:00005740'
+p2268
+asS'anaerobic UASB reactor'
+p2269
+(lp2270
+S'ENVO:00002213'
+p2271
+asS'agricultural waste'
+p2272
+(lp2273
+S'ENVO:00002265'
+p2274
+asS'weir'
+p2275
+(lp2276
+S'ENVO:00000535'
+p2277
+ag2277
+asS'water'
+p2278
+(lp2279
+S'ENVO:00002006'
+p2280
+asS'ice rise'
+p2281
+(lp2282
+S'ENVO:00009686'
+p2283
+asS'saddle (physiographic)'
+p2284
+(lp2285
+g406
+asS'cenote'
+p2286
+(lp2287
+g1421
+asS'gorge'
+p2288
+(lp2289
+g197
+ag197
+ag407
+ag407
+asS'marine surface current'
+p2290
+(lp2291
+S'ENVO:01000099'
+p2292
+asS'subgingival calculus'
+p2293
+(lp2294
+S'ID:0000022'
+p2295
+asS'xylene contaminated soil'
+p2296
+(lp2297
+S'ENVO:00002146'
+p2298
+asS'rhizospheric soil'
+p2299
+(lp2300
+g808
+asS'civil area'
+p2301
+(lp2302
+g865
+asS'radioactive feature'
+p2303
+(lp2304
+g1827
+asS'glacial berg'
+p2305
+(lp2306
+g1290
+asS'intermittent body of water'
+p2307
+(lp2308
+S'ENVO:00000549'
+p2309
+asS'cervid milk'
+p2310
+(lp2311
+S'ENVO:0010034'
+p2312
+asS'coastal zone'
+p2313
+(lp2314
+g1184
+aS'ENVO:00000304'
+p2315
+ag2126
+ag2095
+asS'bog'
+p2316
+(lp2317
+g299
+ag299
+ag790
+ag790
+ag790
+asS'tomato product'
+p2318
+(lp2319
+S'ENVO:0010076'
+p2320
+asS'road junction'
+p2321
+(lp2322
+g9
+asS'neritic sea surface microlayer biome'
+p2323
+(lp2324
+S'ENVO:01000041'
+p2325
+asS'achondrite'
+p2326
+(lp2327
+S'ENVO:00002050'
+p2328
+asS'undersea platform'
+p2329
+(lp2330
+g512
+asS'sebum'
+p2331
+(lp2332
+S'ENVO:02000037'
+p2333
+asS'turlough'
+p2334
+(lp2335
+S'ENVO:00000454'
+p2336
+asS'sewage plant'
+p2337
+(lp2338
+S'ENVO:00003043'
+p2339
+asS'moraine'
+p2340
+(lp2341
+g249
+ag249
+aS'ENVO:00000249'
+p2342
+ag1034
+asS'peat soil'
+p2343
+(lp2344
+S'ENVO:00005774'
+p2345
+asS'chicken yard waste'
+p2346
+(lp2347
+S'ENVO:00002266'
+p2348
+asS'navigation channel'
+p2349
+(lp2350
+g400
+ag400
+asS'islet'
+p2351
+(lp2352
+g357
+ag357
+ag357
+asS'tidal mudflat'
+p2353
+(lp2354
+g2254
+asS'salting'
+p2355
+(lp2356
+g2036
+asS'sake'
+p2357
+(lp2358
+S'ENVO:00003912'
+p2359
+asS'brine well'
+p2360
+(lp2361
+g1031
+asS'marine anoxic zone'
+p2362
+(lp2363
+g987
+asS'vineyard'
+p2364
+(lp2365
+S'ENVO:00000116'
+p2366
+ag2366
+asS'terrarium'
+p2367
+(lp2368
+S'ENVO:00000349'
+p2369
+asS'slough'
+p2370
+(lp2371
+g299
+ag299
+ag299
+ag329
+asS'Cueva de Altamira'
+p2372
+(lp2373
+S'ENVO:00000102'
+p2374
+asS'vertisol'
+p2375
+(lp2376
+S'ENVO:00002254'
+p2377
+asS'apple juice'
+p2378
+(lp2379
+S'ENVO:00003879'
+p2380
+asS'volcanic group'
+p2381
+(lp2382
+g947
+asS'disposal site'
+p2383
+(lp2384
+S'ENVO:00000533'
+p2385
+asS'pork chop'
+p2386
+(lp2387
+S'ENVO:00003079'
+p2388
+asS'ocean bed'
+p2389
+(lp2390
+S'ENVO:00000426'
+p2391
+asS'sea bottom'
+p2392
+(lp2393
+g1592
+asS'tailing'
+p2394
+(lp2395
+g139
+asS'tundra'
+p2396
+(lp2397
+S'ENVO:00000112'
+p2398
+ag2398
+asS'chocolate'
+p2399
+(lp2400
+S'ENVO:02000065'
+p2401
+asS'grain of acid dune sand'
+p2402
+(lp2403
+S'ENVO:00000346'
+p2404
+asS'manufactured product'
+p2405
+(lp2406
+S'ENVO:00003074'
+p2407
+asS'marine coral reef biome'
+p2408
+(lp2409
+S'ENVO:01000049'
+p2410
+asS'appendix'
+p2411
+(lp2412
+S'ID:0000005'
+p2413
+asS'dismal'
+p2414
+(lp2415
+g299
+asS'thermal feature'
+p2416
+(lp2417
+g1143
+ag1921
+ag1947
+asS'Permafrost'
+p2418
+(lp2419
+g1840
+asS'SBR'
+p2420
+(lp2421
+S'ID:0000070'
+p2422
+asS'beef mince'
+p2423
+(lp2424
+S'ENVO:02000067'
+p2425
+asS'cay'
+p2426
+(lp2427
+g357
+ag357
+asS'water meadow'
+p2428
+(lp2429
+S'ENVO:00000154'
+p2430
+asS'douchi'
+p2431
+(lp2432
+S'ID:0000044'
+p2433
+asS'cave entrance'
+p2434
+(lp2435
+g2374
+asS'bioreactor with fermentative hydrogen production'
+p2436
+(lp2437
+S'ID:0000079'
+p2438
+asS'buffalo dairy product'
+p2439
+(lp2440
+S'ENVO:0010020'
+p2441
+asS'stable manure'
+p2442
+(lp2443
+S'ENVO:00003927'
+p2444
+asS'bioreactor with fermentative biohydrogen production'
+p2445
+(lp2446
+g2438
+asS'high-level radioactive sediment'
+p2447
+(lp2448
+S'ENVO:00002155'
+p2449
+asS'kavir'
+p2450
+(lp2451
+g1815
+asS'bathypelagic'
+p2452
+(lp2453
+g506
+asS'pond bed'
+p2454
+(lp2455
+S'ENVO:00000512'
+p2456
+asS'farmyard manure'
+p2457
+(lp2458
+S'ENVO:00003884'
+p2459
+asS'tidal marsh'
+p2460
+(lp2461
+g2036
+asS'inhabited place'
+p2462
+(lp2463
+g753
+asS'overpass'
+p2464
+(lp2465
+g12
+asS'BAR'
+p2466
+(lp2467
+g92
+asS'stream'
+p2468
+(lp2469
+g193
+ag193
+ag2089
+ag194
+aS'ENVO:00000041'
+p2470
+ag111
+ag1483
+aS'ENVO:00000153'
+p2471
+aS'ENVO:00000272'
+p2472
+aS'ENVO:00000278'
+p2473
+aS'ENVO:00000385'
+p2474
+ag1486
+ag1287
+ag1458
+asS'anaerobic ice core sample'
+p2475
+(lp2476
+S'ID:0000049'
+p2477
+asS'floating marsh'
+p2478
+(lp2479
+g299
+asS'sandbar'
+p2480
+(lp2481
+g92
+ag92
+asS'pond'
+p2482
+(lp2483
+S'ENVO:00000033'
+p2484
+ag2484
+ag2484
+asS'ice piedmont'
+p2485
+(lp2486
+S'ENVO:00009725'
+p2487
+asS'RiparianWetland'
+p2488
+(lp2489
+g299
+asS'orchid soil'
+p2490
+(lp2491
+S'ENVO:00005768'
+p2492
+asS'foreshore flats'
+p2493
+(lp2494
+g473
+asS'IceFloe'
+p2495
+(lp2496
+g1290
+asS'sandstone'
+p2497
+(lp2498
+S'ENVO:00002055'
+p2499
+asS'confectionery product'
+p2500
+(lp2501
+S'ENVO:0010061'
+p2502
+asS'arsenic-rich mud'
+p2503
+(lp2504
+S'ENVO:00002122'
+p2505
+asS'jet fuel'
+p2506
+(lp2507
+S'ENVO:00003903'
+p2508
+asS'marine channel'
+p2509
+(lp2510
+S'ENVO:00000396'
+p2511
+ag2511
+asS'flank'
+p2512
+(lp2513
+g686
+asS'marine thermocline'
+p2514
+(lp2515
+S'ENVO:01000075'
+p2516
+asS'freshwater fish product'
+p2517
+(lp2518
+S'ENVO:0010165'
+p2519
+asS'glacial landform'
+p2520
+(lp2521
+g80
+asS'undersea shelf edge'
+p2522
+(lp2523
+g512
+asS'plant lipid food product'
+p2524
+(lp2525
+S'ENVO:0010086'
+p2526
+asS'lacustrine mudflat'
+p2527
+(lp2528
+S'ENVO:00000242'
+p2529
+asS'deciduous forest'
+p2530
+(lp2531
+g266
+asS'rift lake'
+p2532
+(lp2533
+S'ENVO:00000203'
+p2534
+asS'Temperate Desert Division (340)'
+p2535
+(lp2536
+S'ENVO:00003021'
+p2537
+asS'marginal ice zone front'
+p2538
+(lp2539
+S'ENVO:01000095'
+p2540
+asS'plant seed food product'
+p2541
+(lp2542
+S'ENVO:0010085'
+p2543
+asS'badlands'
+p2544
+(lp2545
+S'ENVO:00000127'
+p2546
+asS'contaminated site'
+p2547
+(lp2548
+S'ENVO:00002204'
+p2549
+asS'salt lakes'
+p2550
+(lp2551
+g535
+asS'bottomland'
+p2552
+(lp2553
+g136
+asS'cascade'
+p2554
+(lp2555
+g114
+ag114
+asS'equine dairy product'
+p2556
+(lp2557
+S'ENVO:0010023'
+p2558
+asS'lagoon'
+p2559
+(lp2560
+g559
+ag559
+asS'flood meadow'
+p2561
+(lp2562
+g2430
+asS'freshwater biome'
+p2563
+(lp2564
+S'ENVO:00000873'
+p2565
+asS'beach cusp'
+p2566
+(lp2567
+g481
+asS'estuary'
+p2568
+(lp2569
+S'ENVO:00000045'
+p2570
+ag2570
+asS'hill range'
+p2571
+(lp2572
+S'ENVO:00000082'
+p2573
+asS'undersea canyon'
+p2574
+(lp2575
+g302
+asS'drainage ditch'
+p2576
+(lp2577
+S'ENVO:00000140'
+p2578
+ag2578
+ag2578
+asS'course'
+p2579
+(lp2580
+g194
+asS'pyritic acid mine drainage'
+p2581
+(lp2582
+S'ENVO:00002195'
+p2583
+asS'terrace'
+p2584
+(lp2585
+g584
+ag346
+ag346
+asS'coniferous forest'
+p2586
+(lp2587
+g266
+asS'River'
+p2588
+(lp2589
+S'ENVO:00000022'
+p2590
+asS'prepared meat product'
+p2591
+(lp2592
+S'ENVO:00002175'
+p2593
+asS'marine pycnocline'
+p2594
+(lp2595
+S'ENVO:01000077'
+p2596
+asS'laguna'
+p2597
+(lp2598
+g559
+ag559
+asS'intermittent watercourse'
+p2599
+(lp2600
+S'ENVO:00000388'
+p2601
+asS'estuarine front'
+p2602
+(lp2603
+S'ENVO:01000084'
+p2604
+asS'sequential batch reactor'
+p2605
+(lp2606
+g2422
+asS'oral cavity'
+p2607
+(lp2608
+S'ID:0000142'
+p2609
+asS'milker'
+p2610
+(lp2611
+S'ID:0000028'
+p2612
+asS'whirlpool'
+p2613
+(lp2614
+S'ENVO:00000409'
+p2615
+asS'apron'
+p2616
+(lp2617
+S'ENVO:00000530'
+p2618
+ag2618
+asS'soda lake'
+p2619
+(lp2620
+g535
+aS'ENVO:00002121'
+p2621
+asS'nation'
+p2622
+(lp2623
+g157
+asS'polder'
+p2624
+(lp2625
+g1074
+ag1074
+asS'Abyssalplain'
+p2626
+(lp2627
+S'ENVO:00000244'
+p2628
+asS'seasonal marine thermocline'
+p2629
+(lp2630
+S'ENVO:01000107'
+p2631
+asS'smoked meat'
+p2632
+(lp2633
+S'ENVO:0010137'
+p2634
+asS'AgriculturalLands'
+p2635
+(lp2636
+g104
+asS'cuspate bar'
+p2637
+(lp2638
+g92
+asS'pomaceous fruit product'
+p2639
+(lp2640
+S'ENVO:0010070'
+p2641
+asS'organ culture'
+p2642
+(lp2643
+S'ENVO:02000010'
+p2644
+asS'chernozem'
+p2645
+(lp2646
+g1132
+asS'LAKE'
+p2647
+(lp2648
+g702
+asS'rock'
+p2649
+(lp2650
+g834
+asS'thorofare'
+p2651
+(lp2652
+g9
+asS"goat's milk cheese"
+p2653
+(lp2654
+S'ENVO:0010041'
+p2655
+asS'tobacco warehouse'
+p2656
+(lp2657
+S'ENVO:00003964'
+p2658
+asS'CLIFF'
+p2659
+(lp2660
+g1618
+asS'peat swamp'
+p2661
+(lp2662
+S'ENVO:00000189'
+p2663
+asS'glacier feature'
+p2664
+(lp2665
+g80
+ag1321
+asS'pigeon pea product'
+p2666
+(lp2667
+S'ENVO:0010108'
+p2668
+asS'saliva'
+p2669
+(lp2670
+S'ENVO:02000036'
+p2671
+asS'marine current'
+p2672
+(lp2673
+S'ENVO:01000067'
+p2674
+asS'brackish water'
+p2675
+(lp2676
+S'ENVO:00002019'
+p2677
+asS'undersea bench'
+p2678
+(lp2679
+g512
+asS'PEAK'
+p2680
+(lp2681
+g1322
+asS'cave wall'
+p2682
+(lp2683
+S'ENVO:00002144'
+p2684
+asS'Large river headwater biome'
+p2685
+(lp2686
+S'ENVO:00000888'
+p2687
+asS'platinum mine'
+p2688
+(lp2689
+S'ENVO:00002167'
+p2690
+asS'fonio product'
+p2691
+(lp2692
+S'ENVO:0010105'
+p2693
+asS'ice cream'
+p2694
+(lp2695
+S'ENVO:00003072'
+p2696
+asS'animal waste'
+p2697
+(lp2698
+S'ENVO:00002276'
+p2699
+asS'fermented pomaceous fruit beverage'
+p2700
+(lp2701
+S'ENVO:0010071'
+p2702
+asS'Peatland'
+p2703
+(lp2704
+g790
+asS'logged area'
+p2705
+(lp2706
+g1785
+asS'ant hill'
+p2707
+(lp2708
+S'ENVO:00005804'
+p2709
+asS'bovine milk'
+p2710
+(lp2711
+S'ENVO:00003068'
+p2712
+asS'barley product'
+p2713
+(lp2714
+S'ENVO:0010103'
+p2715
+asS'jungle soil'
+p2716
+(lp2717
+S'ENVO:00005751'
+p2718
+asS'aviation fuel'
+p2719
+(lp2720
+g2508
+asS'Rainforest Division (420)'
+p2721
+(lp2722
+S'ENVO:00003020'
+p2723
+asS'alluvial plain'
+p2724
+(lp2725
+S'ENVO:00000258'
+p2726
+asS'braided river'
+p2727
+(lp2728
+g2590
+asS'neutral zone (political)'
+p2729
+(lp2730
+g865
+asS'shoreface'
+p2731
+(lp2732
+g2315
+asS'back marsh'
+p2733
+(lp2734
+g299
+asS'Bird Crop'
+p2735
+(lp2736
+S'ID:0000159'
+p2737
+asS'muddy soil'
+p2738
+(lp2739
+S'ENVO:00005771'
+p2740
+asS'estuarine mud'
+p2741
+(lp2742
+S'ENVO:00002160'
+p2743
+asS'carr'
+p2744
+(lp2745
+S'ENVO:00000235'
+p2746
+asS'radioactive waste disposal site'
+p2747
+(lp2748
+S'ID:0000129'
+p2749
+asS'fluvial dambo'
+p2750
+(lp2751
+S'ENVO:00000238'
+p2752
+asS'photophore'
+p2753
+(lp2754
+S'ENVO:01000163'
+p2755
+asS'Polar Domain (100)'
+p2756
+(lp2757
+S'ENVO:00003000'
+p2758
+asS'oasis'
+p2759
+(lp2760
+g515
+ag515
+asS'oronasal secretion'
+p2761
+(lp2762
+S'ENVO:02000035'
+p2763
+asS'Arctic pack'
+p2764
+(lp2765
+g316
+asS'pickled food product'
+p2766
+(lp2767
+S'ENVO:00003928'
+p2768
+asS'FORD'
+p2769
+(lp2770
+g642
+asS'chloropicrine-enriched soil'
+p2771
+(lp2772
+S'ENVO:00005762'
+p2773
+asS'fermented food product'
+p2774
+(lp2775
+S'ENVO:01000013'
+p2776
+asS'Large lake biome'
+p2777
+(lp2778
+S'ENVO:00000891'
+p2779
+asS'ice patch'
+p2780
+(lp2781
+g1695
+asS'seafood product'
+p2782
+(lp2783
+S'ENVO:00003073'
+p2784
+asS'marine mud'
+p2785
+(lp2786
+S'ENVO:00005795'
+p2787
+asS'place'
+p2788
+(lp2789
+g753
+asS'research facility'
+p2790
+(lp2791
+S'ENVO:00000469'
+p2792
+asS'transverse bar'
+p2793
+(lp2794
+g92
+asS'terracette'
+p2795
+(lp2796
+S'ENVO:00000441'
+p2797
+asS'oxbow'
+p2798
+(lp2799
+S'ENVO:00000202'
+p2800
+asS'lawn soil'
+p2801
+(lp2802
+S'ENVO:00005756'
+p2803
+asS'continental margin'
+p2804
+(lp2805
+g853
+asS'animal food product'
+p2806
+(lp2807
+S'ENVO:0010000'
+p2808
+asS'nunataks'
+p2809
+(lp2810
+g1321
+asS'marine coral reef crest'
+p2811
+(lp2812
+S'ENVO:01000146'
+p2813
+asS'municipality'
+p2814
+(lp2815
+S'ENVO:00000856'
+p2816
+ag2816
+asS'dechlorinating consortium'
+p2817
+(lp2818
+g632
+asS'vertically mixed estuary'
+p2819
+(lp2820
+S'ENVO:00000227'
+p2821
+asS'drove'
+p2822
+(lp2823
+g9
+asS'city'
+p2824
+(lp2825
+g2816
+asS'boulevard'
+p2826
+(lp2827
+g9
+asS'undersea plain'
+p2828
+(lp2829
+g512
+asS'district'
+p2830
+(lp2831
+g865
+asS'cecal contents'
+p2832
+(lp2833
+g2413
+asS'sand hill'
+p2834
+(lp2835
+g67
+asS'bench (seafloor)'
+p2836
+(lp2837
+g497
+asS'ground beef'
+p2838
+(lp2839
+g2425
+asS'LacustrineWetland'
+p2840
+(lp2841
+g299
+asS'WATERFALL'
+p2842
+(lp2843
+g114
+asS'spore'
+p2844
+(lp2845
+g1869
+asS'turkey meat product'
+p2846
+(lp2847
+S'ENVO:02000071'
+p2848
+asS'yoghourt'
+p2849
+(lp2850
+g226
+asS'milk product'
+p2851
+(lp2852
+S'ENVO:01000012'
+p2853
+asS'dam site'
+p2854
+(lp2855
+S'ENVO:00000074'
+p2856
+asS'bay barrier'
+p2857
+(lp2858
+g92
+asS'undersea cliff'
+p2859
+(lp2860
+g512
+asS'crevice'
+p2861
+(lp2862
+g1005
+asS'forested wetland'
+p2863
+(lp2864
+g299
+asS'radioactive sediment'
+p2865
+(lp2866
+g590
+asS'mesoscale marine eddy'
+p2867
+(lp2868
+S'ENVO:01000069'
+p2869
+asS'undersea levee'
+p2870
+(lp2871
+g512
+asS'anoxic sediment'
+p2872
+(lp2873
+S'ENVO:00002045'
+p2874
+asS'iceberg'
+p2875
+(lp2876
+g1290
+ag1695
+asS'waste treatment plant'
+p2877
+(lp2878
+g950
+asS'caused by human activity'
+p2879
+(lp2880
+g650
+asS'tableknoll'
+p2881
+(lp2882
+g1328
+asS'marine benthic feature'
+p2883
+(lp2884
+S'ENVO:01000105'
+p2885
+asS'CATCHMENT'
+p2886
+(lp2887
+g296
+asS'coastal dune'
+p2888
+(lp2889
+S'ENVO:00000416'
+p2890
+asS'marine upwelling'
+p2891
+(lp2892
+S'ENVO:01000063'
+p2893
+asS'lahar'
+p2894
+(lp2895
+S'ID:0000038'
+p2896
+asS'tar pit'
+p2897
+(lp2898
+g1420
+asS'terminal moraine'
+p2899
+(lp2900
+g1034
+asS'geothermal field'
+p2901
+(lp2902
+S'ENVO:00000373'
+p2903
+asS'natural arch'
+p2904
+(lp2905
+g40
+asS'mangal'
+p2906
+(lp2907
+g647
+asS'talik'
+p2908
+(lp2909
+S'ENVO:00000552'
+p2910
+asS'revetment'
+p2911
+(lp2912
+g436
+asS'uranium contaminated groundwater'
+p2913
+(lp2914
+S'ID:0000134'
+p2915
+asS'arete'
+p2916
+(lp2917
+g481
+ag481
+aS'ENVO:00000429'
+p2918
+asS'alley'
+p2919
+(lp2920
+g9
+asS'chickpea product'
+p2921
+(lp2922
+S'ENVO:0010111'
+p2923
+asS'pastry'
+p2924
+(lp2925
+S'ENVO:0010124'
+p2926
+asS'avian food product'
+p2927
+(lp2928
+S'ENVO:0010167'
+p2929
+asS'Cold-winter (continental) deserts and semideserts'
+p2930
+(lp2931
+S'ENVO:00002997'
+p2932
+asS'BASIN'
+p2933
+(lp2934
+g281
+asS'dyke (geologic)'
+p2935
+(lp2936
+g176
+asS'chanaral'
+p2937
+(lp2938
+g266
+asS'livestock-associated habitat'
+p2939
+(lp2940
+S'ENVO:02000005'
+p2941
+asS'administrative region'
+p2942
+(lp2943
+g865
+asS'undersea shelf'
+p2944
+(lp2945
+g512
+asS'undersea gap'
+p2946
+(lp2947
+g512
+asS'inselberg'
+p2948
+(lp2949
+S'ENVO:00000432'
+p2950
+ag52
+asS'bagasse'
+p2951
+(lp2952
+S'ENVO:00002872'
+p2953
+asS'unpasteruized cow milk cheese'
+p2954
+(lp2955
+S'ENVO:02000086'
+p2956
+asS'spoiled tofu'
+p2957
+(lp2958
+S'ID:0000082'
+p2959
+asS'whale bone'
+p2960
+(lp2961
+S'ID:0000104'
+p2962
+asS'camelid milk'
+p2963
+(lp2964
+S'ENVO:0010032'
+p2965
+asS'brackish water habitat'
+p2966
+(lp2967
+S'ENVO:00000570'
+p2968
+asS'nitrate reduction'
+p2969
+(lp2970
+S'ID:0000153'
+p2971
+asS'sultanate'
+p2972
+(lp2973
+g865
+asS'channel'
+p2974
+(lp2975
+g58
+ag1371
+ag1485
+ag840
+ag840
+ag840
+ag2511
+aS'ENVO:00000397'
+p2976
+ag1864
+asS'potato silage'
+p2977
+(lp2978
+S'ENVO:00003978'
+p2979
+asS'anthropogenic habitat'
+p2980
+(lp2981
+S'ENVO:00002031'
+p2982
+asS'track'
+p2983
+(lp2984
+g1390
+asS'anaerobic sludge blanket reactor'
+p2985
+(lp2986
+g2271
+asS'molecule'
+p2987
+(lp2988
+S'ID:0000089'
+p2989
+asS'falls'
+p2990
+(lp2991
+g114
+asS'barrage'
+p2992
+(lp2993
+g2856
+asS'delta moraine'
+p2994
+(lp2995
+g1034
+asS'upland'
+p2996
+(lp2997
+g1328
+ag1328
+ag1328
+asS'substratum'
+p2998
+(lp2999
+S'ID:0000077'
+p3000
+asS'inlet (hydrographic)'
+p3001
+(lp3002
+g840
+asS'scroll plane'
+p3003
+(lp3004
+S'ENVO:00000253'
+p3005
+asS'arrugado'
+p3006
+(lp3007
+S'ENVO:00000538'
+p3008
+ag3008
+ag3008
+asS'CoralReef'
+p3009
+(lp3010
+g892
+asS'range of mounts'
+p3011
+(lp3012
+S'ENVO:00000478'
+p3013
+asS'drive'
+p3014
+(lp3015
+g9
+asS'amenity lake'
+p3016
+(lp3017
+S'ENVO:00000451'
+p3018
+asS'coarse beach sand'
+p3019
+(lp3020
+S'ENVO:00002148'
+p3021
+asS'aerosol'
+p3022
+(lp3023
+S'ENVO:00010505'
+p3024
+asS'grassland'
+p3025
+(lp3026
+g216
+ag216
+ag1363
+ag1363
+aS'ENVO:00000114'
+p3027
+ag121
+ag253
+ag253
+ag1498
+ag1498
+ag1284
+ag1284
+ag217
+ag1785
+asS'intermittent lakes'
+p3028
+(lp3029
+g2223
+asS'marine warm-water sphere'
+p3030
+(lp3031
+S'ENVO:01000109'
+p3032
+asS'crustal fluid'
+p3033
+(lp3034
+S'ID:0000100'
+p3035
+asS'corrie'
+p3036
+(lp3037
+g142
+asS'slope'
+p3038
+(lp3039
+g686
+asS'ice cliff'
+p3040
+(lp3041
+g1618
+asS'headstream'
+p3042
+(lp3043
+g2471
+asS'reef'
+p3044
+(lp3045
+g891
+ag891
+ag892
+aS'ENVO:00000166'
+p3046
+asS'cucurbit fruit product'
+p3047
+(lp3048
+S'ENVO:0010062'
+p3049
+asS'cloaca'
+p3050
+(lp3051
+S'ID:0000084'
+p3052
+asS'mineral spring'
+p3053
+(lp3054
+g1160
+asS'rockfall'
+p3055
+(lp3056
+g1077
+ag1077
+asS'bantu beer'
+p3057
+(lp3058
+g1822
+asS'luvisol'
+p3059
+(lp3060
+S'ENVO:00002248'
+p3061
+asS'cis-dichloroethane contaminated sediment'
+p3062
+(lp3063
+S'ENVO:00002201'
+p3064
+asS'inshore'
+p3065
+(lp3066
+g2315
+asS'New Zealand Cheddar'
+p3067
+(lp3068
+S'ENVO:00003059'
+p3069
+asS'sprout'
+p3070
+(lp3071
+S'ID:0000032'
+p3072
+asS'gulf'
+p3073
+(lp3074
+g637
+ag637
+ag1864
+ag1864
+asS'everglade'
+p3075
+(lp3076
+g299
+asS'distilled water'
+p3077
+(lp3078
+S'ENVO:00003065'
+p3079
+asS'tears'
+p3080
+(lp3081
+g2168
+asS'wood'
+p3082
+(lp3083
+g266
+ag266
+ag266
+ag377
+ag939
+aS'ENVO:00000193'
+p3084
+aS'ENVO:00002040'
+p3085
+asS'intestines'
+p3086
+(lp3087
+g773
+asS'savanna soil'
+p3088
+(lp3089
+S'ENVO:00005746'
+p3090
+asS'sierra'
+p3091
+(lp3092
+g307
+asS'HEDGE'
+p3093
+(lp3094
+g1929
+asS'oral isolate'
+p3095
+(lp3096
+g1049
+asS'cuttoff'
+p3097
+(lp3098
+g442
+asS'hot chocolate'
+p3099
+(lp3100
+S'ENVO:0010159'
+p3101
+asS'ash cone'
+p3102
+(lp3103
+S'ENVO:00000399'
+p3104
+asS'oyster product'
+p3105
+(lp3106
+S'ENVO:02000079'
+p3107
+asS'outlet'
+p3108
+(lp3109
+g1048
+asS'termite gut'
+p3110
+(lp3111
+S'ID:0000145'
+p3112
+asS'hedge'
+p3113
+(lp3114
+g1929
+asS'geo'
+p3115
+(lp3116
+g637
+asS'oats product'
+p3117
+(lp3118
+S'ENVO:0010101'
+p3119
+asS'dry soil'
+p3120
+(lp3121
+S'ENVO:00005748'
+p3122
+asS'bodily fluid'
+p3123
+(lp3124
+S'ENVO:02000019'
+p3125
+asS'pinnacle'
+p3126
+(lp3127
+g859
+asS'Abyssalhill'
+p3128
+(lp3129
+S'ENVO:00000190'
+p3130
+asS'coastal inlet'
+p3131
+(lp3132
+S'ENVO:00000137'
+p3133
+ag3133
+asS'Superfund Site'
+p3134
+(lp3135
+S'ENVO:00002156'
+p3136
+asS'dry stream bed'
+p3137
+(lp3138
+g2473
+ag2473
+ag1443
+asS'mycorrhiza'
+p3139
+(lp3140
+S'ID:0000115'
+p3141
+asS'seamount'
+p3142
+(lp3143
+g33
+ag33
+ag1440
+asS'surface soil'
+p3144
+(lp3145
+S'ENVO:02000059'
+p3146
+asS'powdered milk formula'
+p3147
+(lp3148
+S'ENVO:00002188'
+p3149
+asS'bioreactor'
+p3150
+(lp3151
+S'ENVO:00002123'
+p3152
+asS'freshwater marsh'
+p3153
+(lp3154
+S'ENVO:00000053'
+p3155
+asS'TUNDRA'
+p3156
+(lp3157
+g2398
+asS'trophosome'
+p3158
+(lp3159
+S'ENVO:01000165'
+p3160
+asS'botanical garden'
+p3161
+(lp3162
+S'ENVO:00010624'
+p3163
+asS'tidal creek'
+p3164
+(lp3165
+g2470
+ag2470
+asS'abyssal plain'
+p3166
+(lp3167
+g2628
+asS'dry stream'
+p3168
+(lp3169
+g2473
+asS'river mouth'
+p3170
+(lp3171
+S'ENVO:00000386'
+p3172
+asS'calcisol'
+p3173
+(lp3174
+S'ENVO:00002239'
+p3175
+asS'ice mass'
+p3176
+(lp3177
+g316
+ag1290
+ag1695
+aS'ENVO:00000307'
+p3178
+ag805
+asS'cienaga'
+p3179
+(lp3180
+g299
+aS'ENVO:00000233'
+p3181
+asS'tea-based beverage'
+p3182
+(lp3183
+S'ENVO:0010050'
+p3184
+asS'calcareous ooze'
+p3185
+(lp3186
+S'ENVO:02000046'
+p3187
+asS'ocean biome'
+p3188
+(lp3189
+S'ENVO:01000048'
+p3190
+asS'self-heating coal mine waste'
+p3191
+(lp3192
+S'ENVO:00002207'
+p3193
+asS'seamount chain'
+p3194
+(lp3195
+g572
+asS'drain channel'
+p3196
+(lp3197
+g1481
+asS'oceanic hadal pelagic zone biome'
+p3198
+(lp3199
+S'ENVO:01000039'
+p3200
+asS'fertilized soil'
+p3201
+(lp3202
+S'ENVO:00005754'
+p3203
+asS'subsequent stream'
+p3204
+(lp3205
+S'ENVO:00000491'
+p3206
+asS'oral swab'
+p3207
+(lp3208
+g1049
+asS'cantaloupe'
+p3209
+(lp3210
+S'ENVO:02000074'
+p3211
+asS'grape beverage'
+p3212
+(lp3213
+S'ENVO:0010012'
+p3214
+asS'dome'
+p3215
+(lp3216
+g52
+asS'oceanic bathypelagic zone biome'
+p3217
+(lp3218
+S'ENVO:01000037'
+p3219
+asS'rice straw'
+p3220
+(lp3221
+S'ENVO:00003870'
+p3222
+asS'paddy field'
+p3223
+(lp3224
+S'ENVO:00000297'
+p3225
+asS'cirques'
+p3226
+(lp3227
+g142
+asS'volcanic soil'
+p3228
+(lp3229
+S'ENVO:00005785'
+p3230
+asS'isthmus'
+p3231
+(lp3232
+g1111
+ag1111
+asS'TerrestialWetland'
+p3233
+(lp3234
+g299
+asS'orange juice'
+p3235
+(lp3236
+S'ENVO:00000337'
+p3237
+asS'populated locality'
+p3238
+(lp3239
+g753
+asS'alimentary tract'
+p3240
+(lp3241
+g773
+asS'chemostat'
+p3242
+(lp3243
+S'ID:0000105'
+p3244
+asS'alluvial paddy field soil'
+p3245
+(lp3246
+S'ENVO:00005759'
+p3247
+asS'mesoscopic physical object'
+p3248
+(lp3249
+S'ENVO:00002004'
+p3250
+asS'fire break'
+p3251
+(lp3252
+g1785
+asS'dead cave'
+p3253
+(lp3254
+g148
+asS'banana plantation'
+p3255
+(lp3256
+S'ENVO:00000161'
+p3257
+ag3257
+asS'railway'
+p3258
+(lp3259
+S'ENVO:00000065'
+p3260
+asS'millpond'
+p3261
+(lp3262
+g2484
+ag2484
+asS'cosmetic product'
+p3263
+(lp3264
+S'ENVO:00003893'
+p3265
+asS'DEMILITIARIZED ZONE'
+p3266
+(lp3267
+g1235
+asS'high salinity'
+p3268
+(lp3269
+g878
+asS'shelf ice'
+p3270
+(lp3271
+g316
+asS'Tropical humid forests'
+p3272
+(lp3273
+S'ENVO:00002993'
+p3274
+asS'biofilm'
+p3275
+(lp3276
+S'ENVO:00002034'
+p3277
+asS'lava cave'
+p3278
+(lp3279
+S'ENVO:00000322'
+p3280
+asS'sugarcane bagasse'
+p3281
+(lp3282
+g2953
+asS'volcanic landform'
+p3283
+(lp3284
+g653
+asS'iron-reducing zone of petroleum contaminated sediment'
+p3285
+(lp3286
+S'ENVO:00002178'
+p3287
+asS'lower littoral'
+p3288
+(lp3289
+S'ENVO:00000319'
+p3290
+asS'cold seep'
+p3291
+(lp3292
+S'ENVO:00000425'
+p3293
+asS'pelagic zone'
+p3294
+(lp3295
+S'ENVO:00000208'
+p3296
+asS'TUNNEL'
+p3297
+(lp3298
+g720
+asS'bioremediation'
+p3299
+(lp3300
+S'ID:0000071'
+p3301
+asS'sea floor'
+p3302
+(lp3303
+g1592
+asS'plant spore'
+p3304
+(lp3305
+S'ID:0000010'
+p3306
+asS'Cheddar cheese'
+p3307
+(lp3308
+S'ENVO:00003051'
+p3309
+asS'sub-sea floor sediment'
+p3310
+(lp3311
+S'ENVO:00002113'
+p3312
+asS'cow shed'
+p3313
+(lp3314
+S'ENVO:00003041'
+p3315
+asS'railroad feature'
+p3316
+(lp3317
+g3260
+asS'gland'
+p3318
+(lp3319
+S'ID:0000055'
+p3320
+asS'macroscopic spatial feature'
+p3321
+(lp3322
+g1998
+asS'stalactite'
+p3323
+(lp3324
+S'ENVO:00000331'
+p3325
+asS'kynurenate enriched soil'
+p3326
+(lp3327
+S'ENVO:00003090'
+p3328
+asS'rice field'
+p3329
+(lp3330
+S'ENVO:00000296'
+p3331
+asS'landfill leachate bioreactor'
+p3332
+(lp3333
+S'ID:0000148'
+p3334
+asS'Watershed'
+p3335
+(lp3336
+g296
+asS'soil from rhizosphere'
+p3337
+(lp3338
+g808
+asS'shore reef'
+p3339
+(lp3340
+g891
+asS'stream channel'
+p3341
+(lp3342
+g1443
+ag1443
+ag840
+asS'grain of rocky sand'
+p3343
+(lp3344
+S'ENVO:00000348'
+p3345
+asS'sound'
+p3346
+(lp3347
+g1371
+ag1371
+asS'sea sand'
+p3348
+(lp3349
+S'ENVO:00002118'
+p3350
+asS'anaerobic digester sludge'
+p3351
+(lp3352
+S'ENVO:00003965'
+p3353
+asS'jack bean product'
+p3354
+(lp3355
+S'ENVO:0010119'
+p3356
+asS'mount'
+p3357
+(lp3358
+g334
+ag335
+ag656
+ag67
+aS'ENVO:00000180'
+p3359
+ag675
+ag587
+aS'ENVO:00000400'
+p3360
+aS'ENVO:00000403'
+p3361
+ag2086
+ag2950
+ag52
+ag2262
+asS'dry dam'
+p3362
+(lp3363
+S'ENVO:00000557'
+p3364
+asS'scum'
+p3365
+(lp3366
+S'ENVO:00003930'
+p3367
+asS'rinnental'
+p3368
+(lp3369
+S'ENVO:00000436'
+p3370
+asS'mound'
+p3371
+(lp3372
+g334
+ag3359
+ag3359
+asS'landslide'
+p3373
+(lp3374
+g1076
+asS'marine park'
+p3375
+(lp3376
+S'ENVO:00000362'
+p3377
+asS'plant tissue culture'
+p3378
+(lp3379
+S'ENVO:02000009'
+p3380
+asS'polar ice'
+p3381
+(lp3382
+g316
+asS'seakpeak'
+p3383
+(lp3384
+g33
+ag33
+asS'mucus'
+p3385
+(lp3386
+S'ENVO:02000040'
+p3387
+asS'soil'
+p3388
+(lp3389
+S'ENVO:00001998'
+p3390
+asS'fissure vent'
+p3391
+(lp3392
+S'ENVO:00000408'
+p3393
+asS'strait'
+p3394
+(lp3395
+g1485
+ag1485
+ag840
+asS'joint-plane cave'
+p3396
+(lp3397
+S'ENVO:00000321'
+p3398
+asS'salt water aquarium'
+p3399
+(lp3400
+S'ENVO:00002197'
+p3401
+asS'forest clearing'
+p3402
+(lp3403
+g1785
+asS'truck farm'
+p3404
+(lp3405
+g995
+asS'vitreous body'
+p3406
+(lp3407
+g799
+asS'sea water fish product'
+p3408
+(lp3409
+S'ENVO:00003875'
+p3410
+asS'terrestrial habitat'
+p3411
+(lp3412
+S'ENVO:00002009'
+p3413
+asS'waterway'
+p3414
+(lp3415
+g194
+asS'lesions of fistulous withers'
+p3416
+(lp3417
+S'ID:0000086'
+p3418
+asS'ocean current'
+p3419
+(lp3420
+g2241
+ag2241
+asS'dry valley'
+p3421
+(lp3422
+S'ENVO:00000128'
+p3423
+asS'stony-iron meteorite'
+p3424
+(lp3425
+S'ENVO:00002051'
+p3426
+asS'woodland'
+p3427
+(lp3428
+g120
+ag266
+ag377
+ag121
+ag1226
+asS'quagmire'
+p3429
+(lp3430
+S'ENVO:00000035'
+p3431
+ag3431
+ag299
+ag299
+asS'PENINSULA'
+p3432
+(lp3433
+g828
+asS'OASIS'
+p3434
+(lp3435
+g515
+asS'EMBANKMENT'
+p3436
+(lp3437
+g436
+asS'mud volcano'
+p3438
+(lp3439
+S'ENVO:00000402'
+p3440
+asS'plant stem'
+p3441
+(lp3442
+S'ID:0000098'
+p3443
+asS'resequent stream'
+p3444
+(lp3445
+S'ENVO:00000492'
+p3446
+asS'isle'
+p3447
+(lp3448
+g357
+asS'pan'
+p3449
+(lp3450
+g281
+ag281
+asS'oil'
+p3451
+(lp3452
+S'ENVO:00002985'
+p3453
+aS'ID:0000120'
+p3454
+asS'foam'
+p3455
+(lp3456
+S'ENVO:00005738'
+p3457
+asS'ness'
+p3458
+(lp3459
+g828
+asS'hadopelagic'
+p3460
+(lp3461
+g506
+asS'colloidal sediment'
+p3462
+(lp3463
+S'ENVO:01000121'
+p3464
+asS'winter sports facility'
+p3465
+(lp3466
+S'ENVO:00000566'
+p3467
+asS'drain'
+p3468
+(lp3469
+g750
+ag750
+asS'drinking water reservoir'
+p3470
+(lp3471
+S'ENVO:00000449'
+p3472
+asS'sand'
+p3473
+(lp3474
+S'ENVO:01000017'
+p3475
+asS'dairy cow rumen'
+p3476
+(lp3477
+g167
+asS'ranch'
+p3478
+(lp3479
+g105
+ag105
+ag105
+asS'diseased'
+p3480
+(lp3481
+g2160
+asS'sinkhole'
+p3482
+(lp3483
+g1421
+asS'mediterranean sea biome'
+p3484
+(lp3485
+S'ENVO:01000047'
+p3486
+asS'fluvial island'
+p3487
+(lp3488
+g776
+asS'creamy salad dressing'
+p3489
+(lp3490
+S'ENVO:0010143'
+p3491
+asS'arid region'
+p3492
+(lp3493
+g728
+asS'rocky sand'
+p3494
+(lp3495
+S'ENVO:00005799'
+p3496
+asS'platform (continental margin)'
+p3497
+(lp3498
+g853
+asS'livestock'
+p3499
+(lp3500
+g2941
+asS'marine coral reef fore reef'
+p3501
+(lp3502
+S'ENVO:01000147'
+p3503
+asS'ice shelf'
+p3504
+(lp3505
+S'ENVO:00000380'
+p3506
+asS'barrier beach'
+p3507
+(lp3508
+g92
+asS'PARK'
+p3509
+(lp3510
+S'ENVO:00000011'
+p3511
+asS'corrie loch'
+p3512
+(lp3513
+S'ENVO:00000455'
+p3514
+asS'indeterminate root nodule infection zone'
+p3515
+(lp3516
+S'ENVO:01000170'
+p3517
+asS'foot'
+p3518
+(lp3519
+S'ID:0000024'
+p3520
+asS'Montane grasslands and shrubland biome'
+p3521
+(lp3522
+S'ENVO:00000882'
+p3523
+asS'kill'
+p3524
+(lp3525
+g194
+asS'ice cap depression'
+p3526
+(lp3527
+g1232
+asS'lupin seed product'
+p3528
+(lp3529
+S'ENVO:0010118'
+p3530
+asS'industrial building'
+p3531
+(lp3532
+S'ENVO:00003861'
+p3533
+asS'Subtropical and temperate rainforests or woodlands'
+p3534
+(lp3535
+S'ENVO:00002991'
+p3536
+asS'lete'
+p3537
+(lp3538
+S'ENVO:00000544'
+p3539
+asS'hydroelectric dam'
+p3540
+(lp3541
+S'ENVO:00000468'
+p3542
+asS'outwash fan'
+p3543
+(lp3544
+S'ENVO:00000434'
+p3545
+asS'organic feature'
+p3546
+(lp3547
+S'ENVO:01000159'
+p3548
+asS'irrigation dam'
+p3549
+(lp3550
+S'ENVO:00000470'
+p3551
+asS'aerobic bioreactor'
+p3552
+(lp3553
+S'ENVO:00002126'
+p3554
+asS'caecum'
+p3555
+(lp3556
+g2413
+asS'meteorite'
+p3557
+(lp3558
+S'ENVO:00002035'
+p3559
+asS'wood fall'
+p3560
+(lp3561
+S'ENVO:01000142'
+p3562
+asS'fishponds'
+p3563
+(lp3564
+g708
+asS'lake channel'
+p3565
+(lp3566
+g2976
+ag2976
+asS'TERRACE'
+p3567
+(lp3568
+g346
+asS'marine reef biome'
+p3569
+(lp3570
+S'ENVO:01000029'
+p3571
+asS'deepsea'
+p3572
+(lp3573
+g506
+asS'ocean time series station'
+p3574
+(lp3575
+S'ENVO:00011764'
+p3576
+asS'dry river valley'
+p3577
+(lp3578
+S'ENVO:0010163'
+p3579
+asS'blowout'
+p3580
+(lp3581
+S'ENVO:00000313'
+p3582
+ag3582
+asS'shale'
+p3583
+(lp3584
+S'ENVO:00002056'
+p3585
+asS'excreta'
+p3586
+(lp3587
+S'ENVO:02000022'
+p3588
+asS'amd'
+p3589
+(lp3590
+g1832
+asS'river valley'
+p3591
+(lp3592
+S'ENVO:00000171'
+p3593
+asS'midgut'
+p3594
+(lp3595
+g773
+aS'ID:0000152'
+p3596
+asS'marine hydrothermal plume'
+p3597
+(lp3598
+S'ENVO:01000130'
+p3599
+asS'brackish lake'
+p3600
+(lp3601
+S'ENVO:00000540'
+p3602
+asS'railroad'
+p3603
+(lp3604
+g3260
+ag3260
+ag3260
+asS'Ojo Caliente'
+p3605
+(lp3606
+S'ID:0000087'
+p3607
+asS'tundra mire'
+p3608
+(lp3609
+S'ENVO:00000187'
+p3610
+asS'agricultural soil'
+p3611
+(lp3612
+S'ENVO:00002259'
+p3613
+asS'retted flax'
+p3614
+(lp3615
+S'ID:0000074'
+p3616
+asS'clay'
+p3617
+(lp3618
+S'ENVO:00002982'
+p3619
+asS'salt lake'
+p3620
+(lp3621
+g535
+ag535
+ag535
+ag535
+asS'RockGlacier'
+p3622
+(lp3623
+g1735
+asS'Kawah Hujan'
+p3624
+(lp3625
+S'ID:0000106'
+p3626
+asS'salt evaporation pond'
+p3627
+(lp3628
+g984
+ag984
+asS'stream mouth'
+p3629
+(lp3630
+g2474
+ag2474
+asS'seawater aquarium'
+p3631
+(lp3632
+S'ID:0000075'
+p3633
+asS'natural reserve'
+p3634
+(lp3635
+g1506
+asS'landslip'
+p3636
+(lp3637
+g1076
+asS'hypogeal habitat'
+p3638
+(lp3639
+g562
+asS'nertic littoral zone'
+p3640
+(lp3641
+S'ENVO:01000125'
+p3642
+asS'mushroom compost'
+p3643
+(lp3644
+S'ENVO:00003033'
+p3645
+asS'SHOR'
+p3646
+(lp3647
+g2095
+asS'underground lake'
+p3648
+(lp3649
+S'ENVO:00000058'
+p3650
+ag3650
+asS'Large river delta biome'
+p3651
+(lp3652
+S'ENVO:00000889'
+p3653
+asS'crater lake'
+p3654
+(lp3655
+S'ENVO:00000052'
+p3656
+ag3656
+asS'pasture'
+p3657
+(lp3658
+g217
+asS'ribbon lake'
+p3659
+(lp3660
+S'ENVO:00000452'
+p3661
+asS'key (island)'
+p3662
+(lp3663
+g357
+asS'undersea hole'
+p3664
+(lp3665
+g512
+asS'reindeer dairy product'
+p3666
+(lp3667
+S'ENVO:0010027'
+p3668
+asS'drop stone'
+p3669
+(lp3670
+S'ENVO:01000136'
+p3671
+asS'cuspate spit'
+p3672
+(lp3673
+g92
+asS'moor'
+p3674
+(lp3675
+g299
+ag266
+ag121
+ag121
+ag122
+asS'hydrographic feature'
+p3676
+(lp3677
+S'ENVO:00000012'
+p3678
+ag1331
+ag2615
+asS'rift valley'
+p3679
+(lp3680
+g71
+asS'salt wedge estuary'
+p3681
+(lp3682
+g322
+asS'river tributary'
+p3683
+(lp3684
+g1287
+asS'toe web space'
+p3685
+(lp3686
+g3520
+asS'dejection'
+p3687
+(lp3688
+g272
+asS'albeluvisol'
+p3689
+(lp3690
+S'ENVO:00002233'
+p3691
+asS'Temperate grasslands'
+p3692
+(lp3693
+S'ENVO:00002988'
+p3694
+asS'shellfish product'
+p3695
+(lp3696
+S'ENVO:02000080'
+p3697
+asS'plunge pool'
+p3698
+(lp3699
+S'ENVO:00000483'
+p3700
+asS'leased area (government)'
+p3701
+(lp3702
+g865
+asS'barrio'
+p3703
+(lp3704
+g1794
+asS'beaches'
+p3705
+(lp3706
+g473
+asS'plankton'
+p3707
+(lp3708
+S'ID:0000062'
+p3709
+asS'alluvial fan'
+p3710
+(lp3711
+g1085
+aS'ENVO:00000314'
+p3712
+asS'stream junction'
+p3713
+(lp3714
+g2472
+asS'fissure cave'
+p3715
+(lp3716
+S'ENVO:00000263'
+p3717
+asS'island'
+p3718
+(lp3719
+g357
+ag357
+ag2004
+ag3046
+ag3046
+aS'ENVO:00000269'
+p3720
+aS'ENVO:00000419'
+p3721
+ag1200
+asS'hyperthermophilic sediment'
+p3722
+(lp3723
+S'ENVO:01000133'
+p3724
+asS'biogas digester'
+p3725
+(lp3726
+g1011
+asS'aquaculture'
+p3727
+(lp3728
+g665
+asS'oceanic epipelagic zone biome'
+p3729
+(lp3730
+S'ENVO:01000035'
+p3731
+asS'tributary'
+p3732
+(lp3733
+g1287
+asS'aquaduct'
+p3734
+(lp3735
+g243
+asS'road'
+p3736
+(lp3737
+g9
+ag9
+ag1263
+asS'string bog'
+p3738
+(lp3739
+S'ENVO:00000186'
+p3740
+asS'beach scarp'
+p3741
+(lp3742
+g1618
+asS'Tropical and subtropical grasslands, savannas, and shrubland biome'
+p3743
+(lp3744
+S'ENVO:00000881'
+p3745
+asS'human-associated habitat'
+p3746
+(lp3747
+S'ENVO:00009003'
+p3748
+asS'upwelling'
+p3749
+(lp3750
+S'ENVO:01000005'
+p3751
+asS'wadi'
+p3752
+(lp3753
+g223
+ag223
+asS'organic material'
+p3754
+(lp3755
+S'ENVO:01000155'
+p3756
+asS'glacial stream'
+p3757
+(lp3758
+g193
+asS'volcanic complex'
+p3759
+(lp3760
+g947
+asS'undersea spur'
+p3761
+(lp3762
+g512
+asS'oceanic benthopelagic zone biome'
+p3763
+(lp3764
+S'ENVO:01000040'
+p3765
+asS'palm'
+p3766
+(lp3767
+g787
+asS'coast line'
+p3768
+(lp3769
+g1185
+asS'crater lakes'
+p3770
+(lp3771
+g3656
+asS'Ocean Layer'
+p3772
+(lp3773
+S'ENVO:00000207'
+p3774
+asS'backwater'
+p3775
+(lp3776
+g299
+aS'ENVO:00000472'
+p3777
+asS'salty soil'
+p3778
+(lp3779
+S'ENVO:00005775'
+p3780
+asS'reindeer milk'
+p3781
+(lp3782
+S'ENVO:02000015'
+p3783
+asS'grange'
+p3784
+(lp3785
+g104
+asS'marine coral reef buttress zone'
+p3786
+(lp3787
+S'ENVO:01000148'
+p3788
+asS'raised bog'
+p3789
+(lp3790
+g1255
+asS'valley'
+p3791
+(lp3792
+g197
+ag197
+ag407
+ag897
+ag1549
+ag71
+ag1749
+ag55
+asS're-entrant'
+p3793
+(lp3794
+g197
+asS'Prairie Division (250)'
+p3795
+(lp3796
+S'ENVO:00003016'
+p3797
+asS'Opalinus Clay'
+p3798
+(lp3799
+g2749
+asS'uranium contaminated ground water'
+p3800
+(lp3801
+g2915
+asS'continental shelf'
+p3802
+(lp3803
+g853
+asS'Polar biome'
+p3804
+(lp3805
+S'ENVO:00000894'
+p3806
+asS'ocean trench'
+p3807
+(lp3808
+S'ENVO:00000275'
+p3809
+ag3809
+asS'fish food product'
+p3810
+(lp3811
+g1017
+asS'milk'
+p3812
+(lp3813
+S'ENVO:0010129'
+p3814
+asS'polluted water'
+p3815
+(lp3816
+S'ENVO:00002186'
+p3817
+asS'lymph'
+p3818
+(lp3819
+S'ENVO:02000041'
+p3820
+asS'acrisol'
+p3821
+(lp3822
+S'ENVO:00002234'
+p3823
+asS'blind gut'
+p3824
+(lp3825
+g2413
+asS'chyme'
+p3826
+(lp3827
+S'ENVO:02000026'
+p3828
+asS'tidal pool'
+p3829
+(lp3830
+S'ENVO:00000317'
+p3831
+asS'Upflow anaerobic sludge blanket granule'
+p3832
+(lp3833
+g1537
+asS'fuel oil'
+p3834
+(lp3835
+S'ENVO:00002983'
+p3836
+asS'Gouda'
+p3837
+(lp3838
+S'ENVO:00003053'
+p3839
+asS'intermittent salt lakes'
+p3840
+(lp3841
+g919
+asS'Cirque'
+p3842
+(lp3843
+g142
+asS'drumlin field'
+p3844
+(lp3845
+S'ENVO:00000431'
+p3846
+asS'biological clean-up process'
+p3847
+(lp3848
+g3301
+asS'rapids'
+p3849
+(lp3850
+g1601
+ag1601
+ag1601
+asS'glacial iceberg'
+p3851
+(lp3852
+g1290
+asS'tidewater glacier'
+p3853
+(lp3854
+S'ENVO:00000456'
+p3855
+asS'deep'
+p3856
+(lp3857
+g3809
+ag1413
+ag1413
+ag1413
+asS'tombolo'
+p3858
+(lp3859
+g1200
+asS'radioactive waste'
+p3860
+(lp3861
+S'ID:0000127'
+p3862
+asS'headwaters'
+p3863
+(lp3864
+g2471
+asS'Kartchner cavern'
+p3865
+(lp3866
+S'ID:0000094'
+p3867
+asS'wing dam'
+p3868
+(lp3869
+S'ENVO:00000556'
+p3870
+asS'HydrothermalVents'
+p3871
+(lp3872
+g885
+asS'cream'
+p3873
+(lp3874
+S'ENVO:0010128'
+p3875
+asS'natural rennet'
+p3876
+(lp3877
+S'ENVO:0010150'
+p3878
+asS'waste water'
+p3879
+(lp3880
+g1519
+asS'chicken breeding waste'
+p3881
+(lp3882
+g2348
+asS'agricultural colony'
+p3883
+(lp3884
+g104
+asS'slide (natural)'
+p3885
+(lp3886
+g1076
+asS'active chimney'
+p3887
+(lp3888
+g418
+asS'marine lysocline'
+p3889
+(lp3890
+S'ENVO:01000079'
+p3891
+asS'hay compost'
+p3892
+(lp3893
+S'ENVO:00002171'
+p3894
+asS'cold seep sediment'
+p3895
+(lp3896
+S'ID:0000154'
+p3897
+asS'pomaceous fruit beverage'
+p3898
+(lp3899
+S'ENVO:0010069'
+p3900
+asS'drainage basin'
+p3901
+(lp3902
+g2471
+ag296
+ag296
+ag269
+asS'colon'
+p3903
+(lp3904
+S'ID:0000007'
+p3905
+aS'ID:0000053'
+p3906
+asS'cove'
+p3907
+(lp3908
+g328
+ag328
+asS'shield volcano'
+p3909
+(lp3910
+g3361
+asS'marine pockmark'
+p3911
+(lp3912
+S'ENVO:01000160'
+p3913
+asS'quinoa product'
+p3914
+(lp3915
+S'ENVO:0010104'
+p3916
+asS'peak'
+p3917
+(lp3918
+g1321
+ag1322
+ag1322
+asS'anse'
+p3919
+(lp3920
+g1864
+asS'reef flat'
+p3921
+(lp3922
+g891
+asS'building'
+p3923
+(lp3924
+S'ENVO:00000073'
+p3925
+ag3925
+asS'land bridge'
+p3926
+(lp3927
+g1111
+aS'ENVO:00000391'
+p3928
+asS'anaerobic sediment'
+p3929
+(lp3930
+g2874
+asS'salina'
+p3931
+(lp3932
+g535
+ag1815
+asS'canal head reservoir'
+p3933
+(lp3934
+S'ENVO:00000378'
+p3935
+asS'deep ocean current'
+p3936
+(lp3937
+S'ENVO:01000098'
+p3938
+asS'landfill'
+p3939
+(lp3940
+g2385
+asS'cubital fossa'
+p3941
+(lp3942
+S'ID:0000030'
+p3943
+asS'non-contaminated site'
+p3944
+(lp3945
+S'ID:0000045'
+p3946
+asS'epithelial tissue'
+p3947
+(lp3948
+g1258
+asS'seafloor'
+p3949
+(lp3950
+S'ENVO:01000024'
+p3951
+asS'low tide zone'
+p3952
+(lp3953
+g3290
+asS'oxbow lake'
+p3954
+(lp3955
+g2800
+ag2800
+asS'air filter'
+p3956
+(lp3957
+S'ENVO:00003968'
+p3958
+asS'manmade feature'
+p3959
+(lp3960
+g340
+asS'intrusive rock'
+p3961
+(lp3962
+S'ENVO:00002014'
+p3963
+asS'cinder cone'
+p3964
+(lp3965
+g3360
+asS'hypodermic needle'
+p3966
+(lp3967
+S'ENVO:02000000'
+p3968
+asS'undersea mound'
+p3969
+(lp3970
+g33
+asS'periglacial lake'
+p3971
+(lp3972
+S'ENVO:00000200'
+p3973
+asS'Plateau'
+p3974
+(lp3975
+g1328
+asS'settlement'
+p3976
+(lp3977
+g753
+asS'highly stratified estuary'
+p3978
+(lp3979
+S'ENVO:00000225'
+p3980
+asS'marine nutricline'
+p3981
+(lp3982
+S'ENVO:01000078'
+p3983
+asS'fjords'
+p3984
+(lp3985
+g154
+asS'unpasteurized camel milk'
+p3986
+(lp3987
+S'ENVO:02000087'
+p3988
+asS'coffee-based beverage'
+p3989
+(lp3990
+S'ENVO:0010051'
+p3991
+asS'oceanic sea surface microlayer biome'
+p3992
+(lp3993
+S'ENVO:01000034'
+p3994
+asS'solfatara'
+p3995
+(lp3996
+S'ENVO:00000217'
+p3997
+asS'Gorgonzola'
+p3998
+(lp3999
+S'ENVO:00003055'
+p4000
+asS'national park'
+p4001
+(lp4002
+S'ENVO:00000367'
+p4003
+asS'dairy'
+p4004
+(lp4005
+g104
+aS'ENVO:00003862'
+p4006
+asS'bajada'
+p4007
+(lp4008
+S'ENVO:00000315'
+p4009
+asS'TALUS'
+p4010
+(lp4011
+g1073
+asS'crest'
+p4012
+(lp4013
+g481
+asS'zoological garden'
+p4014
+(lp4015
+S'ENVO:00010625'
+p4016
+asS'roadway'
+p4017
+(lp4018
+g9
+asS'dry broad beans product'
+p4019
+(lp4020
+S'ENVO:0010110'
+p4021
+asS'microbial mat material'
+p4022
+(lp4023
+S'ENVO:01000157'
+p4024
+asS'fan'
+p4025
+(lp4026
+g1085
+ag3712
+asS'fall'
+p4027
+(lp4028
+g114
+asS'tannery'
+p4029
+(lp4030
+S'ENVO:00003323'
+p4031
+asS'strand'
+p4032
+(lp4033
+g473
+ag473
+aS'ENVO:00000092'
+p4034
+ag2315
+asS'zebra milk'
+p4035
+(lp4036
+S'ENVO:02000018'
+p4037
+asS'first-order administrative division'
+p4038
+(lp4039
+g220
+asS'trench'
+p4040
+(lp4041
+g197
+ag3809
+ag1413
+asS'blanket bog'
+p4042
+(lp4043
+g299
+aS'ENVO:00000511'
+p4044
+asS'EcosytemType'
+p4045
+(lp4046
+g1632
+asS'embayment'
+p4047
+(lp4048
+g637
+ag329
+asS'chlorinated compound-dechlorinating consortium'
+p4049
+(lp4050
+g632
+asS'durisol'
+p4051
+(lp4052
+S'ENVO:00002238'
+p4053
+asS'brigalow'
+p4054
+(lp4055
+g266
+asS'biological product'
+p4056
+(lp4057
+S'ENVO:02000043'
+p4058
+asS'multipurpose dam'
+p4059
+(lp4060
+S'ENVO:00000553'
+p4061
+asS'salterns'
+p4062
+(lp4063
+g535
+asS'tea'
+p4064
+(lp4065
+S'ENVO:0010158'
+p4066
+asS'palsa bog'
+p4067
+(lp4068
+g905
+asS'rye grass silage'
+p4069
+(lp4070
+S'ENVO:00003900'
+p4071
+asS'sea foam'
+p4072
+(lp4073
+S'ENVO:00005739'
+p4074
+asS'sill (physiographic)'
+p4075
+(lp4076
+g406
+aS'ENVO:00000539'
+p4077
+asS'pass'
+p4078
+(lp4079
+g406
+ag406
+asS'wellwater'
+p4080
+(lp4081
+S'ID:0000060'
+p4082
+asS'intersection'
+p4083
+(lp4084
+g9
+asS'plutonic rock'
+p4085
+(lp4086
+g3963
+asS'animal litter'
+p4087
+(lp4088
+S'ENVO:00002191'
+p4089
+asS'stool'
+p4090
+(lp4091
+g272
+asS'research station'
+p4092
+(lp4093
+S'ENVO:00003919'
+p4094
+asS'canned fruit product'
+p4095
+(lp4096
+S'ENVO:00003890'
+p4097
+asS'mesopelagic zone'
+p4098
+(lp4099
+S'ENVO:00000213'
+p4100
+asS'marine streamer'
+p4101
+(lp4102
+S'ENVO:01000068'
+p4103
+asS'saline water aquarium'
+p4104
+(lp4105
+g3401
+asS'ephemeral island'
+p4106
+(lp4107
+S'ENVO:00000368'
+p4108
+asS'pickled cabbage'
+p4109
+(lp4110
+S'ENVO:00003048'
+p4111
+asS'dung'
+p4112
+(lp4113
+g272
+asS'coastal plain'
+p4114
+(lp4115
+g1184
+ag1185
+asS'nest of bird'
+p4116
+(lp4117
+S'ENVO:00005805'
+p4118
+asS'vale'
+p4119
+(lp4120
+g197
+asS'polygenetic volcanic field'
+p4121
+(lp4122
+S'ENVO:00000462'
+p4123
+asS'pass (delta)'
+p4124
+(lp4125
+g1085
+asS'oil palm plantation'
+p4126
+(lp4127
+g1802
+ag1802
+asS'check dam'
+p4128
+(lp4129
+S'ENVO:00000555'
+p4130
+asS'fish pond'
+p4131
+(lp4132
+g708
+asS'awamori'
+p4133
+(lp4134
+S'ENVO:00003880'
+p4135
+asS'planted forest'
+p4136
+(lp4137
+S'ENVO:00000119'
+p4138
+asS'chaparal area'
+p4139
+(lp4140
+g122
+ag1226
+asS'WETLAND'
+p4141
+(lp4142
+g299
+asS'second level subdivision'
+p4143
+(lp4144
+g478
+asS'rye product'
+p4145
+(lp4146
+S'ENVO:0010102'
+p4147
+asS'Dam'
+p4148
+(lp4149
+g2856
+asS'blue-grass field soil'
+p4150
+(lp4151
+S'ENVO:00005789'
+p4152
+asS'fringing reef'
+p4153
+(lp4154
+g891
+ag891
+ag892
+ag892
+asS'second-order administrative division'
+p4155
+(lp4156
+g478
+asS'grain of beach sand'
+p4157
+(lp4158
+S'ENVO:00000345'
+p4159
+asS'abyssopelagic'
+p4160
+(lp4161
+g506
+asS'salicylate enriched soil'
+p4162
+(lp4163
+S'ENVO:00003092'
+p4164
+asS'badland'
+p4165
+(lp4166
+g2546
+asS'infected locus'
+p4167
+(lp4168
+g2160
+asS'water well'
+p4169
+(lp4170
+g1031
+aS'ENVO:01000002'
+p4171
+asS'fresh water'
+p4172
+(lp4173
+S'ENVO:00002011'
+p4174
+asS'volcanic debris'
+p4175
+(lp4176
+g2896
+asS'protectorate'
+p4177
+(lp4178
+g865
+asS'crater'
+p4179
+(lp4180
+S'ENVO:00000096'
+p4181
+aS'ENVO:00000246'
+p4182
+aS'ENVO:00000514'
+p4183
+asS'freshwater realm'
+p4184
+(lp4185
+g2565
+asS'agricultural land'
+p4186
+(lp4187
+g104
+asS'dumping ground'
+p4188
+(lp4189
+g139
+asS'silva'
+p4190
+(lp4191
+g266
+asS'PINNACLE'
+p4192
+(lp4193
+g859
+asS'hillock'
+p4194
+(lp4195
+g335
+ag52
+asS'agricultural terrace'
+p4196
+(lp4197
+S'ENVO:00000519'
+p4198
+asS'petroleum'
+p4199
+(lp4200
+S'ENVO:00002984'
+p4201
+asS'abiotic mesoscopic physical object'
+p4202
+(lp4203
+S'ENVO:01000010'
+p4204
+asS'intermittent pond'
+p4205
+(lp4206
+S'ENVO:00000504'
+p4207
+ag4207
+asS'biotope'
+p4208
+(lp4209
+S'ENVO:00002036'
+p4210
+asS'biotic mesoscopic physical object'
+p4211
+(lp4212
+S'ENVO:01000009'
+p4213
+asS'Temperate needle-leaf forests or woodlands'
+p4214
+(lp4215
+S'ENVO:00002992'
+p4216
+asS'firth'
+p4217
+(lp4218
+g637
+ag1864
+asS'lake bottom mud'
+p4219
+(lp4220
+S'ENVO:00005797'
+p4221
+asS'administrative entity'
+p4222
+(lp4223
+g865
+asS'flat'
+p4224
+(lp4225
+g1419
+asS'agricultural feature'
+p4226
+(lp4227
+g104
+asS'RIDGE'
+p4228
+(lp4229
+g481
+asS'Humid Temperate Domain (200)'
+p4230
+(lp4231
+S'ENVO:00003001'
+p4232
+asS'mire'
+p4233
+(lp4234
+g299
+ag299
+ag790
+asS'MOUNT'
+p4235
+(lp4236
+g52
+asS'coral reef'
+p4237
+(lp4238
+g892
+ag892
+ag892
+ag892
+asS'petroleum contaminated sediment'
+p4239
+(lp4240
+S'ENVO:00002115'
+p4241
+asS'deep ocean layer'
+p4242
+(lp4243
+g506
+asS'animal habitation'
+p4244
+(lp4245
+S'ENVO:00005803'
+p4246
+asS'riverbank'
+p4247
+(lp4248
+S'ENVO:00000143'
+p4249
+asS'marine brine pool'
+p4250
+(lp4251
+S'ENVO:01000060'
+p4252
+asS'town'
+p4253
+(lp4254
+g2816
+asS'anthropogenic abiotic mesoscopic feature'
+p4255
+(lp4256
+S'ENVO:00003075'
+p4257
+asS'backswamp'
+p4258
+(lp4259
+g299
+asS'pocasin'
+p4260
+(lp4261
+S'ENVO:00000239'
+p4262
+asS'soil sample from uranium milling tailings'
+p4263
+(lp4264
+g847
+asS'Talik'
+p4265
+(lp4266
+g2910
+asS'TundraEcosystem'
+p4267
+(lp4268
+g2398
+asS'saline soil'
+p4269
+(lp4270
+S'ID:0000140'
+p4271
+asS'pellet'
+p4272
+(lp4273
+g272
+asS'hamburger meat'
+p4274
+(lp4275
+g2425
+asS'liman'
+p4276
+(lp4277
+S'ENVO:00000453'
+p4278
+asS'live cave'
+p4279
+(lp4280
+S'ENVO:00000323'
+p4281
+asS'doline karst'
+p4282
+(lp4283
+S'ENVO:00000336'
+p4284
+asS'marine coral reef back reef'
+p4285
+(lp4286
+S'ENVO:01000145'
+p4287
+asS'oilfield'
+p4288
+(lp4289
+S'ENVO:00002185'
+p4290
+asS'bacterioplankton'
+p4291
+(lp4292
+S'ID:0000063'
+p4293
+asS'Humid Tropical Domain (400)'
+p4294
+(lp4295
+S'ENVO:00003003'
+p4296
+asS'fermented fish product'
+p4297
+(lp4298
+S'ENVO:00003874'
+p4299
+asS'continental island'
+p4300
+(lp4301
+S'ENVO:00000221'
+p4302
+asS'archipelago'
+p4303
+(lp4304
+g544
+asS'kefir'
+p4305
+(lp4306
+S'ENVO:00003973'
+p4307
+asS'salty'
+p4308
+(lp4309
+S'ID:0000110'
+p4310
+asS'cell culture'
+p4311
+(lp4312
+S'ENVO:02000008'
+p4313
+asS'breast milk'
+p4314
+(lp4315
+S'ENVO:02000031'
+p4316
+asS'Citrullus lanatus fruit'
+p4317
+(lp4318
+S'ENVO:0010066'
+p4319
+asS'Iceberg'
+p4320
+(lp4321
+g1290
+asS'scar'
+p4322
+(lp4323
+g1618
+ag859
+asS'FUMAROLE'
+p4324
+(lp4325
+g1947
+asS'scaw'
+p4326
+(lp4327
+g1618
+asS'Floodplain'
+p4328
+(lp4329
+g136
+asS'sports facility'
+p4330
+(lp4331
+S'ENVO:00000565'
+p4332
+asS'sea loch'
+p4333
+(lp4334
+g637
+asS'Large river biome'
+p4335
+(lp4336
+S'ENVO:00000887'
+p4337
+asS'mesophilic sulfur spring'
+p4338
+(lp4339
+S'ENVO:00002128'
+p4340
+asS'lake island'
+p4341
+(lp4342
+S'ENVO:00000424'
+p4343
+asS'submarine canyon'
+p4344
+(lp4345
+g302
+asS'terrestrial biome'
+p4346
+(lp4347
+S'ENVO:00000446'
+p4348
+asS'disease-related habitat'
+p4349
+(lp4350
+g2160
+asS'dry sausage'
+p4351
+(lp4352
+S'ENVO:0010135'
+p4353
+asS'eads clean room'
+p4354
+(lp4355
+S'ID:0000009'
+p4356
+asS'subsea feature'
+p4357
+(lp4358
+g512
+asS'grain of sea sand'
+p4359
+(lp4360
+S'ENVO:00000347'
+p4361
+asS'glacial tongue'
+p4362
+(lp4363
+g316
+aS'ENVO:00000392'
+p4364
+asS'wildlife management area'
+p4365
+(lp4366
+S'ENVO:00000374'
+p4367
+asS'spatter cone'
+p4368
+(lp4369
+S'ENVO:00000401'
+p4370
+asS'sulphur spring'
+p4371
+(lp4372
+g1161
+asS'back-arc basin'
+p4373
+(lp4374
+g1393
+asS'Subtropical Division - Mountain Provinces (M230)'
+p4375
+(lp4376
+S'ENVO:00003012'
+p4377
+asS'blood'
+p4378
+(lp4379
+S'ENVO:02000020'
+p4380
+asS'anabranch'
+p4381
+(lp4382
+g1483
+ag1483
+asS'dry lake'
+p4383
+(lp4384
+g2220
+asS'pond water'
+p4385
+(lp4386
+S'ENVO:00002228'
+p4387
+asS'manganese-reducing sediment'
+p4388
+(lp4389
+S'ENVO:01000151'
+p4390
+asS'oil reservoir'
+p4391
+(lp4392
+g4290
+asS'orchard'
+p4393
+(lp4394
+S'ENVO:00000115'
+p4395
+ag4395
+asS'slightly stratified estuary'
+p4396
+(lp4397
+S'ENVO:00000224'
+p4398
+asS'sandy desert'
+p4399
+(lp4400
+g101
+ag101
+asS'estuarine bulk water'
+p4401
+(lp4402
+S'ENVO:01000056'
+p4403
+asS'third-order administrative region'
+p4404
+(lp4405
+g1794
+asS'shore'
+p4406
+(lp4407
+g1184
+ag656
+ag2315
+ag2315
+aS'ENVO:00000485'
+p4408
+asS'oceanic pelagic zone biome'
+p4409
+(lp4410
+S'ENVO:01000033'
+p4411
+asS'fermenting sugar cane juice'
+p4412
+(lp4413
+S'ENVO:00002162'
+p4414
+asS'turnpike'
+p4415
+(lp4416
+g9
+asS'pans'
+p4417
+(lp4418
+g281
+asS'miso'
+p4419
+(lp4420
+S'ENVO:00003898'
+p4421
+asS'allotment garden'
+p4422
+(lp4423
+S'ENVO:00005745'
+p4424
+asS'ocean basin'
+p4425
+(lp4426
+S'ENVO:00002450'
+p4427
+asS'reservoir'
+p4428
+(lp4429
+g816
+ag816
+aS'ENVO:00000506'
+p4430
+asS'kopje'
+p4431
+(lp4432
+g2950
+asS'urine'
+p4433
+(lp4434
+S'ENVO:00002047'
+p4435
+asS'limestone'
+p4436
+(lp4437
+S'ENVO:00002053'
+p4438
+asS'dough'
+p4439
+(lp4440
+S'ID:0000037'
+p4441
+asS'REEF'
+p4442
+(lp4443
+g891
+asS'national geopolitical entity'
+p4444
+(lp4445
+g157
+asS'SeaFloor'
+p4446
+(lp4447
+g1592
+asS'avenue'
+p4448
+(lp4449
+g9
+asS'podzol'
+p4450
+(lp4451
+g2204
+asS'concentration basin mediterranean sea biome'
+p4452
+(lp4453
+S'ENVO:01000004'
+p4454
+asS'horse manure'
+p4455
+(lp4456
+S'ENVO:00003859'
+p4457
+asS'fissure'
+p4458
+(lp4459
+g1005
+ag1005
+ag1005
+ag3393
+asS'lateral'
+p4460
+(lp4461
+g1481
+asS'umbrisol'
+p4462
+(lp4463
+S'ENVO:00002253'
+p4464
+asS'biosphere reserve'
+p4465
+(lp4466
+S'ENVO:00000376'
+p4467
+asS'pickled cruciferous food product'
+p4468
+(lp4469
+S'ENVO:0010094'
+p4470
+asS'landlocked sea'
+p4471
+(lp4472
+S'ENVO:00000219'
+p4473
+asS'Temperate Desert Division - Mountain Provinces (M340)'
+p4474
+(lp4475
+S'ENVO:00003022'
+p4476
+asS'free trade zone'
+p4477
+(lp4478
+g865
+asS'caprine dairy product'
+p4479
+(lp4480
+S'ENVO:0010021'
+p4481
+asS'crustal biotome'
+p4482
+(lp4483
+g182
+asS'mangrove biome'
+p4484
+(lp4485
+S'ENVO:01000021'
+p4486
+asS'maize product'
+p4487
+(lp4488
+S'ENVO:0010054'
+p4489
+asS'hot spring'
+p4490
+(lp4491
+g1921
+ag1921
+asS'ocean floor feature'
+p4492
+(lp4493
+g3130
+ag2391
+asS'grain of sand'
+p4494
+(lp4495
+S'ENVO:00000340'
+p4496
+asS'vomit'
+p4497
+(lp4498
+S'ENVO:00000338'
+p4499
+asS'compound'
+p4500
+(lp4501
+g2989
+asS'muskmelon'
+p4502
+(lp4503
+g3211
+asS'muskeg'
+p4504
+(lp4505
+g299
+ag790
+asS'porcine meat product'
+p4506
+(lp4507
+S'ENVO:0010044'
+p4508
+asS'marine hydrothermal vent'
+p4509
+(lp4510
+S'ENVO:01000122'
+p4511
+asS'permanent marine thermocline'
+p4512
+(lp4513
+S'ENVO:01000106'
+p4514
+asS'underground irrigation canal'
+p4515
+(lp4516
+S'ENVO:00000505'
+p4517
+ag4517
+ag4517
+asS'processed food product'
+p4518
+(lp4519
+S'ENVO:0010092'
+p4520
+asS'bone meal'
+p4521
+(lp4522
+S'ENVO:02000054'
+p4523
+asS'enriched soil'
+p4524
+(lp4525
+S'ENVO:00003082'
+p4526
+asS'salt ponds'
+p4527
+(lp4528
+g984
+asS'Biological Denitrifying'
+p4529
+(lp4530
+g2971
+asS'PhoticZone'
+p4531
+(lp4532
+g1992
+asS'gastrointestinal tract'
+p4533
+(lp4534
+g773
+asS'animal house'
+p4535
+(lp4536
+S'ENVO:00003040'
+p4537
+asS'brackish pond'
+p4538
+(lp4539
+S'ENVO:00000541'
+p4540
+asS'gum'
+p4541
+(lp4542
+g2295
+asS'polygonal karst'
+p4543
+(lp4544
+S'ENVO:00000335'
+p4545
+asS'alcohol'
+p4546
+(lp4547
+g210
+asS'HEADWATER'
+p4548
+(lp4549
+g2471
+asS'methane seep'
+p4550
+(lp4551
+S'ENVO:00002063'
+p4552
+asS'solanaceous food product'
+p4553
+(lp4554
+S'ENVO:0010077'
+p4555
+asS'marine cold-water sphere'
+p4556
+(lp4557
+S'ENVO:01000108'
+p4558
+asS'thorn forest'
+p4559
+(lp4560
+g266
+asS'Small river biome'
+p4561
+(lp4562
+S'ENVO:00000890'
+p4563
+asS'beaver dam'
+p4564
+(lp4565
+S'ENVO:00000500'
+p4566
+asS'underground physiographic feature'
+p4567
+(lp4568
+S'ENVO:00002184'
+p4569
+asS'anaerobic mud'
+p4570
+(lp4571
+g284
+asS'sterile water'
+p4572
+(lp4573
+S'ENVO:00005791'
+p4574
+asS'hill'
+p4575
+(lp4576
+g335
+ag335
+ag52
+asS'euendolith'
+p4577
+(lp4578
+g834
+asS'paternoster lake'
+p4579
+(lp4580
+S'ENVO:00000487'
+p4581
+asS'brewery'
+p4582
+(lp4583
+S'ENVO:00003885'
+p4584
+asS'highway'
+p4585
+(lp4586
+g9
+ag9
+ag9
+asS'esker'
+p4587
+(lp4588
+S'ENVO:00000282'
+p4589
+asS'solonetz'
+p4590
+(lp4591
+S'ENVO:00002255'
+p4592
+asS'lake bottom'
+p4593
+(lp4594
+g2219
+asS'marine biome'
+p4595
+(lp4596
+S'ENVO:00000447'
+p4597
+asS'lava tunnel'
+p4598
+(lp4599
+S'ENVO:00000110'
+p4600
+asS'anaerobic bioreactor'
+p4601
+(lp4602
+S'ENVO:00002124'
+p4603
+asS'orange fruit beverage'
+p4604
+(lp4605
+S'ENVO:0010011'
+p4606
+asS'lava flow'
+p4607
+(lp4608
+g319
+asS'drumlin swarm'
+p4609
+(lp4610
+g3846
+asS'dune'
+p4611
+(lp4612
+g67
+ag67
+asS'sedimentary rock'
+p4613
+(lp4614
+S'ENVO:00002016'
+p4615
+asS'coastline'
+p4616
+(lp4617
+g1185
+ag1185
+ag2095
+asS'cosmogenous sediment'
+p4618
+(lp4619
+S'ENVO:01000111'
+p4620
+asS'pup'
+p4621
+(lp4622
+g194
+asS'tunnel valley'
+p4623
+(lp4624
+g3370
+asS'pus'
+p4625
+(lp4626
+S'ENVO:02000038'
+p4627
+asS'alpine soil'
+p4628
+(lp4629
+S'ENVO:00005741'
+p4630
+asS'lake inlet'
+p4631
+(lp4632
+S'ENVO:00000476'
+p4633
+asS'nitrate-reducing sediment'
+p4634
+(lp4635
+S'ENVO:01000135'
+p4636
+asS'spinach'
+p4637
+(lp4638
+S'ENVO:02000050'
+p4639
+asS'pine grove'
+p4640
+(lp4641
+g266
+asS'subglacial volcano'
+p4642
+(lp4643
+S'ENVO:00000407'
+p4644
+asS'aerial habitat'
+p4645
+(lp4646
+S'ENVO:00000568'
+p4647
+asS'Shoal'
+p4648
+(lp4649
+g92
+asS'collected during the ARCHIMEDES 3 cruise with RV Pelagia'
+p4650
+(lp4651
+S'ID:0000093'
+p4652
+asS'biodegradation'
+p4653
+(lp4654
+S'ID:0000081'
+p4655
+asS'rock terrace'
+p4656
+(lp4657
+g346
+asS'salt water habitat'
+p4658
+(lp4659
+S'ENVO:00002227'
+p4660
+asS'roadside soil'
+p4661
+(lp4662
+S'ENVO:00005743'
+p4663
+asS'apron (geological)'
+p4664
+(lp4665
+g2618
+asS'wadis'
+p4666
+(lp4667
+g223
+asS'spillway'
+p4668
+(lp4669
+g194
+ag194
+asS'neutral zone'
+p4670
+(lp4671
+g1235
+ag1235
+asS'hypersaline microbial mat'
+p4672
+(lp4673
+S'ID:0000141'
+p4674
+asS'shoal'
+p4675
+(lp4676
+g92
+ag92
+ag92
+ag92
+asS'ectomycorrhiza'
+p4677
+(lp4678
+g3141
+asS'coastal upwelling front'
+p4679
+(lp4680
+S'ENVO:01000090'
+p4681
+asS'cirque'
+p4682
+(lp4683
+g142
+ag142
+asS'indeterminate root nodule'
+p4684
+(lp4685
+S'ENVO:01000168'
+p4686
+asS'animal matter fall'
+p4687
+(lp4688
+S'ENVO:01000139'
+p4689
+asS'aquatic feature'
+p4690
+(lp4691
+g1331
+asS'gastric sample'
+p4692
+(lp4693
+g773
+asS'COAST'
+p4694
+(lp4695
+g1185
+asS'nature preserve'
+p4696
+(lp4697
+g1506
+asS'paisa mire'
+p4698
+(lp4699
+S'ENVO:00000188'
+p4700
+asS'horst'
+p4701
+(lp4702
+S'ENVO:00000289'
+p4703
+asS'Delta'
+p4704
+(lp4705
+g1085
+asS'stream bend'
+p4706
+(lp4707
+g193
+asS'moat'
+p4708
+(lp4709
+g194
+ag197
+asS'Nye channel'
+p4710
+(lp4711
+S'ENVO:00000437'
+p4712
+asS'ditch mouth'
+p4713
+(lp4714
+S'ENVO:00000518'
+p4715
+ag4715
+ag4715
+asS'meander neck'
+p4716
+(lp4717
+g1075
+ag1075
+asS'park'
+p4718
+(lp4719
+g3511
+aS'ENVO:00000562'
+p4720
+asS'spice product'
+p4721
+(lp4722
+S'ENVO:0010155'
+p4723
+asS'kumis'
+p4724
+(lp4725
+S'ID:0000027'
+p4726
+asS'freshwater lake'
+p4727
+(lp4728
+S'ENVO:00000021'
+p4729
+asS'man-made tunnel'
+p4730
+(lp4731
+g1014
+asS'marine cold seep biome'
+p4732
+(lp4733
+S'ENVO:01000127'
+p4734
+asS'ice cap'
+p4735
+(lp4736
+g1694
+asS'sandy carbonate sediment'
+p4737
+(lp4738
+S'ID:0000143'
+p4739
+asS'plantar heel'
+p4740
+(lp4741
+g3520
+asS'ordure'
+p4742
+(lp4743
+g272
+asS'waste water treatment plant'
+p4744
+(lp4745
+g2071
+asS'radioactive wastes'
+p4746
+(lp4747
+g3862
+asS'oil seep'
+p4748
+(lp4749
+g4552
+asS'Warm deserts and semideserts'
+p4750
+(lp4751
+S'ENVO:00002998'
+p4752
+asS'dilution basin mediterranean sea biome'
+p4753
+(lp4754
+S'ENVO:01000128'
+p4755
+asS'sand dune'
+p4756
+(lp4757
+g67
+asS'raw primary sludge'
+p4758
+(lp4759
+S'ENVO:00002057'
+p4760
+asS'plant root'
+p4761
+(lp4762
+g808
+asS'ice peak'
+p4763
+(lp4764
+g1322
+asS'red clay'
+p4765
+(lp4766
+S'ENVO:02000045'
+p4767
+asS'high concentration of salt'
+p4768
+(lp4769
+g878
+asS'meadow soil'
+p4770
+(lp4771
+S'ENVO:00005761'
+p4772
+asS'nuclear waste'
+p4773
+(lp4774
+g3862
+asS'Arctic land'
+p4775
+(lp4776
+g2398
+asS'Temperate Steppe Division (330)'
+p4777
+(lp4778
+S'ENVO:00003023'
+p4779
+asS'naphthalene contaminated sediment'
+p4780
+(lp4781
+S'ENVO:00002180'
+p4782
+asS'gall'
+p4783
+(lp4784
+S'ENVO:02000023'
+p4785
+asS'saline marsh'
+p4786
+(lp4787
+g2036
+asS'high temperature habitat'
+p4788
+(lp4789
+S'ENVO:00002025'
+p4790
+asS'ramsar site'
+p4791
+(lp4792
+S'ENVO:00000365'
+p4793
+asS'mountain'
+p4794
+(lp4795
+g334
+ag334
+ag335
+ag52
+asS'peat cutting'
+p4796
+(lp4797
+S'ENVO:00000157'
+p4798
+asS'agricultural region'
+p4799
+(lp4800
+g995
+asS'mulga scrub'
+p4801
+(lp4802
+g266
+asS'cave'
+p4803
+(lp4804
+g3650
+ag1401
+ag1401
+ag720
+asS'along-front current'
+p4805
+(lp4806
+S'ENVO:01000100'
+p4807
+asS'leafy wood soil'
+p4808
+(lp4809
+S'ENVO:00005783'
+p4810
+asS'microbial rennet'
+p4811
+(lp4812
+S'ENVO:0010151'
+p4813
+asS'steppe'
+p4814
+(lp4815
+g1284
+asS'fresh smoked sausage'
+p4816
+(lp4817
+S'ENVO:0010133'
+p4818
+asS'gill'
+p4819
+(lp4820
+S'ID:0000026'
+p4821
+asS'thruway'
+p4822
+(lp4823
+g9
+asS'RAPIDS'
+p4824
+(lp4825
+g1601
+asS'intermittent salt lake'
+p4826
+(lp4827
+g919
+asS'sugar plantation'
+p4828
+(lp4829
+S'ENVO:00000159'
+p4830
+ag4830
+asS'vinaigrette'
+p4831
+(lp4832
+S'ENVO:0010144'
+p4833
+asS'reach'
+p4834
+(lp4835
+g194
+ag194
+ag194
+asS'gley soil'
+p4836
+(lp4837
+S'ENVO:00002244'
+p4838
+asS'confluence'
+p4839
+(lp4840
+g2472
+ag2472
+ag2472
+asS'ileum'
+p4841
+(lp4842
+S'ID:0000031'
+p4843
+asS'cambisol'
+p4844
+(lp4845
+S'ENVO:00002235'
+p4846
+asS'phyllosphere'
+p4847
+(lp4848
+S'ID:0000013'
+p4849
+asS'processed pork'
+p4850
+(lp4851
+S'ENVO:0010154'
+p4852
+asS'BarrierIsland'
+p4853
+(lp4854
+g357
+asS'intermontane plateau'
+p4855
+(lp4856
+g1328
+asS'mineral'
+p4857
+(lp4858
+S'ID:0000099'
+p4859
+asS'salt-clod'
+p4860
+(lp4861
+g1911
+asS'brackish estuary'
+p4862
+(lp4863
+S'ENVO:00002137'
+p4864
+asS'SnowField'
+p4865
+(lp4866
+g2228
+asS'intermittent pool'
+p4867
+(lp4868
+g4207
+ag4207
+ag4207
+asS'notch'
+p4869
+(lp4870
+g1401
+ag406
+asS'duck meat product'
+p4871
+(lp4872
+S'ENVO:02000069'
+p4873
+asS'lost watercourse'
+p4874
+(lp4875
+g1458
+ag1458
+asS'reefs'
+p4876
+(lp4877
+g891
+asS'rise (seafloor)'
+p4878
+(lp4879
+g481
+asS'mine site'
+p4880
+(lp4881
+g969
+ag969
+ag970
+ag526
+asS'administrative area'
+p4882
+(lp4883
+g865
+aS'ENVO:00000135'
+p4884
+asS'extreme high temperature habitat'
+p4885
+(lp4886
+S'ENVO:00002027'
+p4887
+asS"Pont l'Eveque"
+p4888
+(lp4889
+S'ENVO:00003060'
+p4890
+asS'compost biofilter'
+p4891
+(lp4892
+S'ENVO:00002153'
+p4893
+asS'Temperate broadleaf and mixed forest biome'
+p4894
+(lp4895
+S'ENVO:00000876'
+p4896
+asS'CRATER'
+p4897
+(lp4898
+g4183
+asS'unpasteurized milk product'
+p4899
+(lp4900
+g2055
+asS'emulsion'
+p4901
+(lp4902
+S'ENVO:00010506'
+p4903
+asS'undersea moat'
+p4904
+(lp4905
+g512
+asS'sea water'
+p4906
+(lp4907
+S'ENVO:00002149'
+p4908
+asS'ovine cheese product'
+p4909
+(lp4910
+S'ENVO:0010037'
+p4911
+asS'peanut plant'
+p4912
+(lp4913
+S'ENVO:02000075'
+p4914
+asS'animal microbiome'
+p4915
+(lp4916
+S'ID:0000000'
+p4917
+asS'Dune'
+p4918
+(lp4919
+g67
+asS'sulphate-reducing sediment'
+p4920
+(lp4921
+S'ENVO:01000153'
+p4922
+asS'ice core'
+p4923
+(lp4924
+g1695
+asS'swamp forest'
+p4925
+(lp4926
+g299
+asS'uranium contaminated soil'
+p4927
+(lp4928
+S'ID:0000133'
+p4929
+asS'Bailey biome'
+p4930
+(lp4931
+S'ENVO:00002999'
+p4932
+asS'moatan'
+p4933
+(lp4934
+S'ENVO:00000536'
+p4935
+ag4935
+asS'saline water habitat'
+p4936
+(lp4937
+g4660
+asS'beach ridge'
+p4938
+(lp4939
+g481
+ag481
+aS'ENVO:00000529'
+p4940
+ag4940
+asS'tablemount (seafloor)'
+p4941
+(lp4942
+g1440
+asS'silt'
+p4943
+(lp4944
+S'ENVO:01000016'
+p4945
+asS'lost stream'
+p4946
+(lp4947
+g1458
+asS'dry beans product'
+p4948
+(lp4949
+S'ENVO:0010113'
+p4950
+asS'peat cutting area'
+p4951
+(lp4952
+g299
+ag4798
+ag4798
+asS'biopsy'
+p4953
+(lp4954
+g173
+asS'saline hydrographic feature'
+p4955
+(lp4956
+S'ENVO:00000017'
+p4957
+asS'picoplankton'
+p4958
+(lp4959
+S'ID:0000066'
+p4960
+asS'fermented soybean product'
+p4961
+(lp4962
+S'ENVO:00003915'
+p4963
+asS'potato product'
+p4964
+(lp4965
+S'ENVO:0010060'
+p4966
+asS'biofilter'
+p4967
+(lp4968
+S'ENVO:00002152'
+p4969
+asS'offshore bar'
+p4970
+(lp4971
+g92
+asS'mountain spur'
+p4972
+(lp4973
+S'ENVO:00000390'
+p4974
+asS'insecta-associated habitat'
+p4975
+(lp4976
+S'ENVO:00009004'
+p4977
+asS'sill'
+p4978
+(lp4979
+g4077
+ag4077
+ag4077
+asS'GAC filter'
+p4980
+(lp4981
+S'ID:0000072'
+p4982
+asS'CLEARING'
+p4983
+(lp4984
+g1785
+asS'accessway'
+p4985
+(lp4986
+g9
+asS'CAVE'
+p4987
+(lp4988
+g1401
+asS'cheese starter culture'
+p4989
+(lp4990
+S'ENVO:00002219'
+p4991
+asS'alkaline habitat'
+p4992
+(lp4993
+S'ENVO:00002022'
+p4994
+asS'intermittent reservoir'
+p4995
+(lp4996
+g4430
+ag4430
+asS'river'
+p4997
+(lp4998
+g2590
+asS'supranational geopolitical entity'
+p4999
+(lp5000
+S'ENVO:00000124'
+p5001
+asS'animal feed'
+p5002
+(lp5003
+S'ENVO:02000047'
+p5004
+asS'Glacier'
+p5005
+(lp5006
+g1735
+asS'cecal sample'
+p5007
+(lp5008
+g2413
+asS'marine cliff'
+p5009
+(lp5010
+S'ENVO:00000088'
+p5011
+asS'ice core sample'
+p5012
+(lp5013
+g1695
+asS'SHORE'
+p5014
+(lp5015
+g2315
+asS'subsea floor sediment'
+p5016
+(lp5017
+g3312
+asS'sea'
+p5018
+(lp5019
+g500
+ag58
+ag58
+ag58
+asS'sphagnum bog'
+p5020
+(lp5021
+S'ENVO:00002268'
+p5022
+asS'Temperate Steppe Division - Mountain Provinces (M330)'
+p5023
+(lp5024
+S'ENVO:00003024'
+p5025
+asS'hydrogenous sediment'
+p5026
+(lp5027
+S'ENVO:01000110'
+p5028
+asS'arm'
+p5029
+(lp5030
+g1864
+asS'barn'
+p5031
+(lp5032
+g104
+asS'closed basin'
+p5033
+(lp5034
+g1543
+asS'agricultural facility'
+p5035
+(lp5036
+g104
+asS'aqueduct'
+p5037
+(lp5038
+g243
+ag243
+ag243
+asS'solonchak'
+p5039
+(lp5040
+S'ENVO:00002252'
+p5041
+asS'brine lake'
+p5042
+(lp5043
+S'ENVO:00000369'
+p5044
+asS'plain, coast'
+p5045
+(lp5046
+g1184
+asS'vadoze zone'
+p5047
+(lp5048
+S'ENVO:00000328'
+p5049
+asS'horse milk'
+p5050
+(lp5051
+S'ENVO:02000014'
+p5052
+asS'icecap reach'
+p5053
+(lp5054
+S'ENVO:00000528'
+p5055
+asS'HOT station ALOHA'
+p5056
+(lp5057
+g1275
+asS'seachannel (seafloor)'
+p5058
+(lp5059
+g840
+asS'gimchi'
+p5060
+(lp5061
+g2151
+asS'Piburger'
+p5062
+(lp5063
+g1223
+asS'island group'
+p5064
+(lp5065
+g544
+asS'carious dentine'
+p5066
+(lp5067
+S'ID:0000025'
+p5068
+asS'drilling bore water'
+p5069
+(lp5070
+S'ENVO:00002159'
+p5071
+asS'stream valley'
+p5072
+(lp5073
+g6
+asS'drinking water'
+p5074
+(lp5075
+S'ENVO:00003064'
+p5076
+asS'Emmenthal'
+p5077
+(lp5078
+S'ENVO:00003057'
+p5079
+asS'foothill'
+p5080
+(lp5081
+g334
+ag334
+ag335
+ag335
+asS'lacustrine beach'
+p5082
+(lp5083
+S'ENVO:00000093'
+p5084
+asS'underground water'
+p5085
+(lp5086
+g185
+asS'barrier flat'
+p5087
+(lp5088
+g299
+asS'agricultural site'
+p5089
+(lp5090
+g104
+ag105
+ag3027
+ag4395
+ag2366
+ag620
+ag1802
+ag4830
+aS'ENVO:00000160'
+p5091
+ag3257
+ag2247
+aS'ENVO:00000164'
+p5092
+ag217
+ag2129
+ag3331
+asS'fungus-associated habitat'
+p5093
+(lp5094
+S'ID:0000116'
+p5095
+asS'sputum'
+p5096
+(lp5097
+g1437
+asS'coal mine waste'
+p5098
+(lp5099
+g1902
+asS'reach (hydrographic)'
+p5100
+(lp5101
+g840
+asS'organism-associated habitat'
+p5102
+(lp5103
+S'ENVO:00002032'
+p5104
+asS'endorheic lake'
+p5105
+(lp5106
+S'ENVO:00000197'
+p5107
+asS'landform'
+p5108
+(lp5109
+g1072
+asS'alluvial swamp soil'
+p5110
+(lp5111
+S'ENVO:00005758'
+p5112
+asS'limed soil'
+p5113
+(lp5114
+S'ENVO:00005766'
+p5115
+asS'sea vent'
+p5116
+(lp5117
+g418
+asS'saline evaporation pond'
+p5118
+(lp5119
+g984
+asS'yam bean product'
+p5120
+(lp5121
+S'ENVO:0010116'
+p5122
+asS'guts'
+p5123
+(lp5124
+g773
+asS'harbor sediments'
+p5125
+(lp5126
+S'ID:0000078'
+p5127
+asS'BRIDGE'
+p5128
+(lp5129
+g12
+asS'chymus'
+p5130
+(lp5131
+g3828
+asS'loam'
+p5132
+(lp5133
+S'ENVO:00002258'
+p5134
+asS'grazing allotment'
+p5135
+(lp5136
+g104
+asS'Tropical dry or deciduous forests (including Monsoon forests) or woodlands'
+p5137
+(lp5138
+S'ENVO:00002990'
+p5139
+asS'third level subdivision'
+p5140
+(lp5141
+g1794
+asS'village'
+p5142
+(lp5143
+g2816
+ag2816
+asS'sea cliff'
+p5144
+(lp5145
+g5011
+asS'Takashikozo'
+p5146
+(lp5147
+S'ID:0000108'
+p5148
+asS'Urania basin'
+p5149
+(lp5150
+g5044
+asS'acifified beer wort'
+p5151
+(lp5152
+S'ENVO:00003039'
+p5153
+asS'lava plain'
+p5154
+(lp5155
+g319
+asS'rubber plantation'
+p5156
+(lp5157
+g5092
+ag5092
+asS'Temperate broad-leaf forests or woodlands and subpolar deciduous thickets'
+p5158
+(lp5159
+S'ENVO:00002989'
+p5160
+asS'outflow cave'
+p5161
+(lp5162
+S'ENVO:00000324'
+p5163
+asS'pelagic isohaline surface'
+p5164
+(lp5165
+S'ENVO:01000081'
+p5166
+asS'buttermilk'
+p5167
+(lp5168
+S'ENVO:00003889'
+p5169
+asS'irrigation system'
+p5170
+(lp5171
+g1481
+asS'underground stream'
+p5172
+(lp5173
+S'ENVO:00000060'
+p5174
+asS'archeological site'
+p5175
+(lp5176
+S'ENVO:00000564'
+p5177
+asS'Littoral'
+p5178
+(lp5179
+g1185
+asS'subtropical convergence front'
+p5180
+(lp5181
+S'ENVO:01000094'
+p5182
+asS'humus'
+p5183
+(lp5184
+S'ENVO:01000000'
+p5185
+asS'SubmarineCanyon'
+p5186
+(lp5187
+g302
+asS'Evergreen sclerophyllous forests, scrub, or woodlands'
+p5188
+(lp5189
+S'ENVO:00002987'
+p5190
+asS'vinegar'
+p5191
+(lp5192
+S'ENVO:00003905'
+p5193
+asS"sheep's milk cheese"
+p5194
+(lp5195
+S'ENVO:0010042'
+p5196
+asS'coastal area'
+p5197
+(lp5198
+g1185
+asS'gap'
+p5199
+(lp5200
+g406
+ag406
+ag407
+ag4077
+asS'bight'
+p5201
+(lp5202
+g637
+ag637
+ag1864
+asS'goose meat product'
+p5203
+(lp5204
+S'ENVO:02000070'
+p5205
+asS'antecubital fossa'
+p5206
+(lp5207
+g3943
+asS'drainage canal'
+p5208
+(lp5209
+S'ENVO:00000042'
+p5210
+ag5210
+ag5210
+asS'land-tied island'
+p5211
+(lp5212
+g3720
+ag3720
+asS'contamination feature'
+p5213
+(lp5214
+g2549
+asS'bile'
+p5215
+(lp5216
+g4785
+asS'bambara groundnut product'
+p5217
+(lp5218
+S'ENVO:0010109'
+p5219
+asS'epeiric sea biome'
+p5220
+(lp5221
+S'ENVO:01000045'
+p5222
+asS'undersea ramp'
+p5223
+(lp5224
+g512
+asS'EstuarineWetland'
+p5225
+(lp5226
+g299
+asS'oil contaminated soil'
+p5227
+(lp5228
+S'ENVO:00002875'
+p5229
+asS'honey product'
+p5230
+(lp5231
+S'ENVO:0010090'
+p5232
+asS'medical instrument'
+p5233
+(lp5234
+S'ENVO:00010621'
+p5235
+asS'MangroveForest'
+p5236
+(lp5237
+g647
+asS'camelid dairy product'
+p5238
+(lp5239
+S'ENVO:0010018'
+p5240
+asS'aphotic'
+p5241
+(lp5242
+g506
+asS'sheepfold'
+p5243
+(lp5244
+g104
+asS'outlet glacier'
+p5245
+(lp5246
+S'ENVO:00000459'
+p5247
+asS'awawa'
+p5248
+(lp5249
+g194
+asS'runnel'
+p5250
+(lp5251
+g194
+asS'glacial lake'
+p5252
+(lp5253
+S'ENVO:00000488'
+p5254
+asS'space center'
+p5255
+(lp5256
+S'ID:0000015'
+p5257
+asS'mudflat'
+p5258
+(lp5259
+S'ENVO:00000192'
+p5260
+asS'alluvial soil'
+p5261
+(lp5262
+S'ENVO:00002871'
+p5263
+asS'tidal flat'
+p5264
+(lp5265
+g2254
+ag2254
+ag2254
+asS'water scum'
+p5266
+(lp5267
+S'ENVO:00005794'
+p5268
+asS'glacial feature'
+p5269
+(lp5270
+g80
+ag1735
+asS'rio'
+p5271
+(lp5272
+g2590
+ag2590
+asS'cultivated habitat'
+p5273
+(lp5274
+g995
+asS'mott'
+p5275
+(lp5276
+g266
+asS'chasm'
+p5277
+(lp5278
+g197
+ag407
+asS'ria'
+p5279
+(lp5280
+g1749
+ag1864
+asS'farmstead'
+p5281
+(lp5282
+g105
+asS'overflow channel'
+p5283
+(lp5284
+g194
+asS'maize flour'
+p5285
+(lp5286
+S'ENVO:00003977'
+p5287
+asS'ground moraine'
+p5288
+(lp5289
+S'ENVO:00000251'
+p5290
+asS'textile'
+p5291
+(lp5292
+S'ENVO:02000001'
+p5293
+asS'steppe soil'
+p5294
+(lp5295
+S'ENVO:00005777'
+p5296
+asS'contaminated animal feed'
+p5297
+(lp5298
+S'ENVO:02000048'
+p5299
+asS'lateral moraine'
+p5300
+(lp5301
+g2342
+asS'metamorphic rock'
+p5302
+(lp5303
+S'ENVO:00002017'
+p5304
+asS'soda lake sediment'
+p5305
+(lp5306
+g742
+asS'anal swab'
+p5307
+(lp5308
+S'ID:0000018'
+p5309
+asS'coastal cliff'
+p5310
+(lp5311
+g5011
+asS'blowhole'
+p5312
+(lp5313
+S'ENVO:00000168'
+p5314
+ag5314
+asS'marine ultramafic hydrothermal vent biome'
+p5315
+(lp5316
+S'ENVO:01000053'
+p5317
+asS'geological feature'
+p5318
+(lp5319
+g1072
+asS'ice tongue'
+p5320
+(lp5321
+g4364
+asS'Shoreline'
+p5322
+(lp5323
+g2095
+asS'alcoholic beverage'
+p5324
+(lp5325
+g604
+asS'stack'
+p5326
+(lp5327
+g3721
+asS'culvert'
+p5328
+(lp5329
+g194
+asS'adminstrative area'
+p5330
+(lp5331
+g1235
+asS'eastern boundary current'
+p5332
+(lp5333
+S'ENVO:01000104'
+p5334
+asS'marine reef'
+p5335
+(lp5336
+S'ENVO:01000143'
+p5337
+asS'fermented grape beverage'
+p5338
+(lp5339
+S'ENVO:0010006'
+p5340
+asS'salt pan'
+p5341
+(lp5342
+g15
+asS'borderland (continental margin)'
+p5343
+(lp5344
+g853
+asS'stents'
+p5345
+(lp5346
+g1649
+asS'caldera lake'
+p5347
+(lp5348
+g3656
+asS'Marine Division (240)'
+p5349
+(lp5350
+S'ENVO:00003014'
+p5351
+asS'riffle'
+p5352
+(lp5353
+S'ENVO:00000148'
+p5354
+asS'Deserts and xeric shrubland biome'
+p5355
+(lp5356
+S'ENVO:00000883'
+p5357
+asS'coconut plantation'
+p5358
+(lp5359
+g939
+asS'floeberg'
+p5360
+(lp5361
+g1290
+asS'burned soil'
+p5362
+(lp5363
+g1339
+asS'botanic garden'
+p5364
+(lp5365
+g3163
+asS'hypolimnion'
+p5366
+(lp5367
+S'ENVO:00002130'
+p5368
+asS'lagoon beach'
+p5369
+(lp5370
+g473
+asS'bay delta'
+p5371
+(lp5372
+g1085
+asS'indeterminate root nodule nitrogen fixation zone'
+p5373
+(lp5374
+S'ENVO:01000171'
+p5375
+asS'alkaline hot spring'
+p5376
+(lp5377
+S'ENVO:00002119'
+p5378
+asS'Marsh'
+p5379
+(lp5380
+g3431
+asS'marine coral reef flat zone'
+p5381
+(lp5382
+S'ENVO:01000144'
+p5383
+asS'GRASSLAND'
+p5384
+(lp5385
+g216
+asS'boroll'
+p5386
+(lp5387
+g1132
+asS'pyroclastic material'
+p5388
+(lp5389
+g2896
+asS'orchard soil'
+p5390
+(lp5391
+S'ENVO:00005772'
+p5392
+asS'fermented apple beverage'
+p5393
+(lp5394
+S'ENVO:0010009'
+p5395
+asS'REVETMENT'
+p5396
+(lp5397
+g436
+asS'cut'
+p5398
+(lp5399
+S'ENVO:00000474'
+p5400
+asS'minced beef'
+p5401
+(lp5402
+g2425
+asS'offshore platform'
+p5403
+(lp5404
+S'ENVO:00000099'
+p5405
+asS'undersea cordillera'
+p5406
+(lp5407
+g572
+asS'Temperate upwelling biome'
+p5408
+(lp5409
+S'ENVO:00000896'
+p5410
+asS'source'
+p5411
+(lp5412
+g2471
+asS'plateau'
+p5413
+(lp5414
+g521
+ag1328
+ag1328
+ag1440
+aS'ENVO:00000287'
+p5415
+asS'intermittent water body'
+p5416
+(lp5417
+g2309
+asS'fecal sample'
+p5418
+(lp5419
+g272
+asS'guyot'
+p5420
+(lp5421
+g1440
+asS'bore hole water'
+p5422
+(lp5423
+S'ENVO:00003097'
+p5424
+asS'wheat product'
+p5425
+(lp5426
+S'ENVO:0010053'
+p5427
+asS'acid habitat'
+p5428
+(lp5429
+S'ENVO:00002021'
+p5430
+asS'deep layer'
+p5431
+(lp5432
+g506
+asS'suffering'
+p5433
+(lp5434
+g2160
+asS'mesophilic sediment'
+p5435
+(lp5436
+S'ENVO:01000131'
+p5437
+asS'infected organ'
+p5438
+(lp5439
+g2160
+asS'amniotic fluid'
+p5440
+(lp5441
+S'ENVO:02000021'
+p5442
+asS'Creek'
+p5443
+(lp5444
+g193
+asS'ponds'
+p5445
+(lp5446
+g2484
+asS'monogenetic volcanic field'
+p5447
+(lp5448
+S'ENVO:00000355'
+p5449
+asS'polar ice pack'
+p5450
+(lp5451
+g316
+asS'fermentation related site'
+p5452
+(lp5453
+S'ID:0000042'
+p5454
+asS'seashore'
+p5455
+(lp5456
+g2315
+asS'bamboo'
+p5457
+(lp5458
+g266
+asS'dirt cone'
+p5459
+(lp5460
+S'ENVO:00000430'
+p5461
+asS'valleys'
+p5462
+(lp5463
+g197
+asS'stream bed'
+p5464
+(lp5465
+g1443
+ag1443
+asS'spring'
+p5466
+(lp5467
+g964
+ag964
+ag1921
+ag1160
+asS'borax leachate'
+p5468
+(lp5469
+S'ENVO:00002142'
+p5470
+asS'Tundra biome'
+p5471
+(lp5472
+S'ENVO:00000874'
+p5473
+asS'pingo'
+p5474
+(lp5475
+g2086
+asS'drowned river valley'
+p5476
+(lp5477
+g1749
+asS'clean room'
+p5478
+(lp5479
+S'ID:0000008'
+p5480
+asS'hedgerow'
+p5481
+(lp5482
+g1929
+asS'andosol'
+p5483
+(lp5484
+S'ENVO:00002232'
+p5485
+asS'oil field'
+p5486
+(lp5487
+g4290
+asS'shoal patches'
+p5488
+(lp5489
+g92
+asS'populated places'
+p5490
+(lp5491
+g753
+asS'table mountain'
+p5492
+(lp5493
+g1328
+asS'pond bottom'
+p5494
+(lp5495
+g2456
+asS'salt contaminated soil'
+p5496
+(lp5497
+g3780
+asS'neritic pelagic zone biome'
+p5498
+(lp5499
+S'ENVO:01000032'
+p5500
+asS'tidal mixing front'
+p5501
+(lp5502
+S'ENVO:01000087'
+p5503
+asS'anaerobic dechlorinating bioreactor'
+p5504
+(lp5505
+S'ENVO:00002125'
+p5506
+asS'shelves, continental'
+p5507
+(lp5508
+g853
+asS'slash'
+p5509
+(lp5510
+g299
+asS'marine habitat'
+p5511
+(lp5512
+S'ENVO:00000569'
+p5513
+asS'farm soil'
+p5514
+(lp5515
+S'ENVO:00005749'
+p5516
+asS'nodule'
+p5517
+(lp5518
+g486
+asS'patient'
+p5519
+(lp5520
+S'ID:0000057'
+p5521
+asS'ferralsol'
+p5522
+(lp5523
+S'ENVO:00002246'
+p5524
+asS'IslandArc'
+p5525
+(lp5526
+g357
+ag544
+asS'chicken meat product'
+p5527
+(lp5528
+S'ENVO:00003066'
+p5529
+asS'lakes'
+p5530
+(lp5531
+g702
+asS'wadi junction'
+p5532
+(lp5533
+g223
+asS'endolithic habitat'
+p5534
+(lp5535
+S'ENVO:00000886'
+p5536
+asS'tunnel-vale'
+p5537
+(lp5538
+g3370
+asS'paddy field soil'
+p5539
+(lp5540
+g2268
+asS'river bed'
+p5541
+(lp5542
+g1484
+asS'dolomite'
+p5543
+(lp5544
+S'ENVO:00010623'
+p5545
+asS'pyroclastic shield volcano'
+p5546
+(lp5547
+g1959
+asS'sea grass bed'
+p5548
+(lp5549
+S'ENVO:01000059'
+p5550
+asS'treated wood'
+p5551
+(lp5552
+S'ENVO:00002135'
+p5553
+asS'Seamount'
+p5554
+(lp5555
+g33
+asS'rumen'
+p5556
+(lp5557
+g167
+asS'biosolids'
+p5558
+(lp5559
+S'ENVO:00002059'
+p5560
+asS'oceanic island'
+p5561
+(lp5562
+g1461
+asS'subseafloor sediment'
+p5563
+(lp5564
+g3312
+asS'range'
+p5565
+(lp5566
+g216
+ag995
+asS'open sound'
+p5567
+(lp5568
+g58
+ag1371
+asS'Pond'
+p5569
+(lp5570
+g2484
+asS'glacial gorge'
+p5571
+(lp5572
+g197
+asS'WWF biome'
+p5573
+(lp5574
+S'ENVO:00002038'
+p5575
+asS'mulga'
+p5576
+(lp5577
+g266
+asS'cutoff'
+p5578
+(lp5579
+g442
+asS'maelstrom'
+p5580
+(lp5581
+S'ENVO:00000442'
+p5582
+asS'Pecorino cheese'
+p5583
+(lp5584
+S'ENVO:02000083'
+p5585
+asS'animal lipid food product'
+p5586
+(lp5587
+S'ENVO:0010156'
+p5588
+asS'lava cone'
+p5589
+(lp5590
+g229
+asS'canal bend'
+p5591
+(lp5592
+g1481
+asS'undersea mountain chain'
+p5593
+(lp5594
+g572
+asS'horse dairy product'
+p5595
+(lp5596
+S'ENVO:0010029'
+p5597
+asS'artificial reef'
+p5598
+(lp5599
+S'ENVO:00000149'
+p5600
+asS'alisol'
+p5601
+(lp5602
+S'ENVO:00002231'
+p5603
+asS'poly-beta-hydroxybutyrate enriched soil'
+p5604
+(lp5605
+S'ENVO:00003093'
+p5606
+asS'canal'
+p5607
+(lp5608
+g1481
+ag1481
+ag1108
+ag750
+ag5210
+ag1482
+aS'ENVO:00000139'
+p5609
+ag2578
+ag4715
+ag2092
+asS'freshwater habitat'
+p5610
+(lp5611
+S'ENVO:00002037'
+p5612
+asS'marine electroactive biofilm'
+p5613
+(lp5614
+S'ID:0000112'
+p5615
+asS'mesotrophic water'
+p5616
+(lp5617
+S'ENVO:00002225'
+p5618
+asS'outwash'
+p5619
+(lp5620
+g1085
+asS'trimethylamine enriched soil'
+p5621
+(lp5622
+S'ENVO:00003084'
+p5623
+asS'infected area'
+p5624
+(lp5625
+g2160
+asS'high pressure habitat'
+p5626
+(lp5627
+S'ENVO:00002023'
+p5628
+asS'SedimentLayer'
+p5629
+(lp5630
+g731
+asS'secondary sludge'
+p5631
+(lp5632
+S'ENVO:00002058'
+p5633
+asS'mountains'
+p5634
+(lp5635
+g334
+asS'sawah soil'
+p5636
+(lp5637
+S'ENVO:00005752'
+p5638
+asS'constructed feature'
+p5639
+(lp5640
+S'ENVO:00000070'
+p5641
+asS'open water'
+p5642
+(lp5643
+g58
+asS'piece of gravel'
+p5644
+(lp5645
+S'ENVO:00000341'
+p5646
+asS'POLYNA'
+p5647
+(lp5648
+g888
+asS'well-water'
+p5649
+(lp5650
+g4082
+asS'linn'
+p5651
+(lp5652
+g114
+asS'olive grove'
+p5653
+(lp5654
+g3084
+ag3084
+asS'IceSheet'
+p5655
+(lp5656
+g1695
+asS'delta'
+p5657
+(lp5658
+g1085
+ag1085
+ag3712
+asS'fruit preserve'
+p5659
+(lp5660
+S'ENVO:0010138'
+p5661
+asS'RAILWAY'
+p5662
+(lp5663
+g3260
+asS'railroad tunnel'
+p5664
+(lp5665
+g1014
+ag1014
+asS'rhizosphere'
+p5666
+(lp5667
+g808
+asS'produced water from Troll'
+p5668
+(lp5669
+g1673
+asS'raw oil'
+p5670
+(lp5671
+g3453
+ag3454
+asS'anthropogenic environmental material'
+p5672
+(lp5673
+S'ENVO:0010001'
+p5674
+asS'yoghurt'
+p5675
+(lp5676
+g226
+asS'ContinentalMargin'
+p5677
+(lp5678
+g853
+asS'desert sand'
+p5679
+(lp5680
+S'ENVO:00005800'
+p5681
+asS'grove'
+p5682
+(lp5683
+g266
+ag266
+ag377
+asS'Wetland'
+p5684
+(lp5685
+g299
+asS'processed cheese product'
+p5686
+(lp5687
+S'ENVO:0010141'
+p5688
+asS'rice paddy'
+p5689
+(lp5690
+g3331
+asS'talus slope'
+p5691
+(lp5692
+g1073
+ag1073
+asS'Brie'
+p5693
+(lp5694
+S'ENVO:00003052'
+p5695
+asS'Liquor cerebrospinalis'
+p5696
+(lp5697
+g1774
+asS'undersea sill'
+p5698
+(lp5699
+g512
+asS'Ice'
+p5700
+(lp5701
+g80
+asS'sagebrush'
+p5702
+(lp5703
+g266
+asS'cut line'
+p5704
+(lp5705
+g1785
+asS'bovine dairy product'
+p5706
+(lp5707
+S'ENVO:0010019'
+p5708
+asS'animal derived beverage'
+p5709
+(lp5710
+S'ENVO:0010168'
+p5711
+asS'big clearing'
+p5712
+(lp5713
+g888
+asS'pickles'
+p5714
+(lp5715
+g2768
+asS'kidney'
+p5716
+(lp5717
+S'ID:00000160'
+p5718
+asS'stratovolcano'
+p5719
+(lp5720
+S'ENVO:00000404'
+p5721
+asS'tarn'
+p5722
+(lp5723
+g3514
+asS'marine bulk water'
+p5724
+(lp5725
+S'ENVO:01000055'
+p5726
+asS'swamp'
+p5727
+(lp5728
+g3181
+ag3181
+asS'undersea feature'
+p5729
+(lp5730
+g512
+asS'ship cannal'
+p5731
+(lp5732
+g400
+asS'stagnosol'
+p5733
+(lp5734
+S'ENVO:00002274'
+p5735
+asS'WELL'
+p5736
+(lp5737
+g1031
+asS'fresh  sea water fish'
+p5738
+(lp5739
+S'ENVO:0010149'
+p5740
+asS'tufa'
+p5741
+(lp5742
+S'ID:0000118'
+p5743
+asS'points'
+p5744
+(lp5745
+g828
+asS'faeces'
+p5746
+(lp5747
+g272
+asS'food shop'
+p5748
+(lp5749
+S'ENVO:00002222'
+p5750
+asS'scraps'
+p5751
+(lp5752
+g1618
+asS'grape fruit product'
+p5753
+(lp5754
+S'ENVO:0010082'
+p5755
+asS'mayonnaise'
+p5756
+(lp5757
+S'ENVO:0010147'
+p5758
+asS'manured soil'
+p5759
+(lp5760
+S'ENVO:00005767'
+p5761
+asS'trough (seafloor)'
+p5762
+(lp5763
+g1413
+asS'dale'
+p5764
+(lp5765
+g197
+asS'draw'
+p5766
+(lp5767
+g194
+asS'ecosystem'
+p5768
+(lp5769
+g1632
+asS'scrub'
+p5770
+(lp5771
+g266
+ag122
+asS'mustard'
+p5772
+(lp5773
+S'ENVO:0010142'
+p5774
+asS'bedclothing'
+p5775
+(lp5776
+S'ENVO:02000002'
+p5777
+asS'acid dune sand'
+p5778
+(lp5779
+S'ENVO:00005798'
+p5780
+asS'plume front'
+p5781
+(lp5782
+S'ENVO:01000085'
+p5783
+asS'syngenetic karst'
+p5784
+(lp5785
+S'ENVO:00000334'
+p5786
+asS'caldera'
+p5787
+(lp5788
+g4181
+ag4181
+ag4183
+asS'desert'
+p5789
+(lp5790
+g728
+ag728
+ag101
+ag2052
+aS'ENVO:00000183'
+p5791
+ag4009
+asS'hypocotyl'
+p5792
+(lp5793
+g3443
+asS'monadnock'
+p5794
+(lp5795
+g2950
+ag52
+asS'BUILDING'
+p5796
+(lp5797
+g3925
+asS'clay sediment'
+p5798
+(lp5799
+S'ENVO:01000120'
+p5800
+asS'lane'
+p5801
+(lp5802
+g9
+asS'CoastalRegion'
+p5803
+(lp5804
+g1185
+asS'cave system'
+p5805
+(lp5806
+S'ENVO:00000013'
+p5807
+asS'grape extract'
+p5808
+(lp5809
+S'ENVO:0010074'
+p5810
+asS'ephemeral spring'
+p5811
+(lp5812
+S'ENVO:00000204'
+p5813
+asS'heath'
+p5814
+(lp5815
+g120
+ag120
+ag122
+asS'undersea pinnacle'
+p5816
+(lp5817
+g512
+asS'RiftValley'
+p5818
+(lp5819
+g71
+asS'summit'
+p5820
+(lp5821
+g1322
+ag1322
+asS'graben'
+p5822
+(lp5823
+g197
+ag1967
+asS'aphotic zone'
+p5824
+(lp5825
+g2148
+asS'colonial'
+p5826
+(lp5827
+g3905
+asS'peat cut'
+p5828
+(lp5829
+g4798
+asS'marine bench'
+p5830
+(lp5831
+g497
+asS'ovine milk'
+p5832
+(lp5833
+g86
+asS'Tropical and subtropical coniferous forest biome'
+p5834
+(lp5835
+S'ENVO:00005806'
+p5836
+asS'mine drainage'
+p5837
+(lp5838
+S'ENVO:00001996'
+p5839
+asS'farms'
+p5840
+(lp5841
+g105
+asS'frozen compost soil'
+p5842
+(lp5843
+S'ENVO:00005765'
+p5844
+asS'commercial yogurt'
+p5845
+(lp5846
+S'ENVO:00002218'
+p5847
+asS'marine realm'
+p5848
+(lp5849
+g4597
+asS'vegetable garden soil'
+p5850
+(lp5851
+S'ENVO:00005779'
+p5852
+asS'anoxic water'
+p5853
+(lp5854
+S'ENVO:01000173'
+p5855
+asS'aquarium'
+p5856
+(lp5857
+S'ENVO:00002196'
+p5858
+asS'caprine cheese product'
+p5859
+(lp5860
+S'ENVO:0010036'
+p5861
+asS'submerged reef'
+p5862
+(lp5863
+g891
+asS'Camembert'
+p5864
+(lp5865
+S'ENVO:00003049'
+p5866
+asS'Catchment'
+p5867
+(lp5868
+g296
+asS'compost'
+p5869
+(lp5870
+S'ENVO:00002170'
+p5871
+asS'mountain summit'
+p5872
+(lp5873
+g1321
+ag1322
+asS'marine sponge reef'
+p5874
+(lp5875
+S'ENVO:01000161'
+p5876
+asS'gravel'
+p5877
+(lp5878
+S'ENVO:01000018'
+p5879
+asS'volcanic deposit'
+p5880
+(lp5881
+S'ID:0000162'
+p5882
+asS'podsol'
+p5883
+(lp5884
+g2204
+asS'phreatic zone'
+p5885
+(lp5886
+S'ENVO:00000329'
+p5887
+asS'oceanic zone'
+p5888
+(lp5889
+g3774
+asS'garden'
+p5890
+(lp5891
+g3511
+ag3511
+asS'longshore bar'
+p5892
+(lp5893
+g92
+asS'dessert'
+p5894
+(lp5895
+S'ENVO:02000062'
+p5896
+asS'maar'
+p5897
+(lp5898
+S'ENVO:00000245'
+p5899
+asS'seaway'
+p5900
+(lp5901
+g194
+asS'trough'
+p5902
+(lp5903
+g1413
+ag1534
+asS'Lagoon'
+p5904
+(lp5905
+g559
+asS'coastal water body'
+p5906
+(lp5907
+S'ENVO:02000049'
+p5908
+asS'pyroclastic cone'
+p5909
+(lp5910
+S'ENVO:00000356'
+p5911
+asS'site of special scientific interest'
+p5912
+(lp5913
+g1058
+asS'dike (manmade)'
+p5914
+(lp5915
+g436
+asS'IntertidalZone'
+p5916
+(lp5917
+g2126
+asS'karst field'
+p5918
+(lp5919
+S'ENVO:00004683'
+p5920
+asS'undersea terrace'
+p5921
+(lp5922
+g512
+asS'harbor'
+p5923
+(lp5924
+S'ENVO:00000463'
+p5925
+asS'environmental feature'
+p5926
+(lp5927
+S'ENVO:00002297'
+p5928
+asS'neritic supra-littoral zone'
+p5929
+(lp5930
+S'ENVO:01000124'
+p5931
+asS'national wildlife refuge'
+p5932
+(lp5933
+S'ENVO:00000364'
+p5934
+asS'leptosol'
+p5935
+(lp5936
+S'ENVO:00002241'
+p5937
+asS'irrigated field'
+p5938
+(lp5939
+g104
+asS'race'
+p5940
+(lp5941
+g194
+asS'pebble'
+p5942
+(lp5943
+S'ENVO:00002139'
+p5944
+asS'flume (manmade)'
+p5945
+(lp5946
+g1482
+asS'sewage'
+p5947
+(lp5948
+S'ENVO:00002018'
+p5949
+asS'apple cider'
+p5950
+(lp5951
+S'ENVO:02000060'
+p5952
+asS'carter'
+p5953
+(lp5954
+g4183
+asS'ground water'
+p5955
+(lp5956
+g756
+aS'ENVO:00002041'
+p5957
+asS'veld'
+p5958
+(lp5959
+g253
+asS'aquifer'
+p5960
+(lp5961
+S'ENVO:00012408'
+p5962
+asS'Swiss cheese'
+p5963
+(lp5964
+S'ENVO:00003056'
+p5965
+asS'spur (physiographic)'
+p5966
+(lp5967
+g481
+asS'sand bar'
+p5968
+(lp5969
+g92
+asS'depression'
+p5970
+(lp5971
+g281
+ag281
+asS'toxic chemical'
+p5972
+(lp5973
+g465
+asS'sausage'
+p5974
+(lp5975
+S'ENVO:00002166'
+p5976
+asS'sauerkraut'
+p5977
+(lp5978
+S'ID:0000036'
+p5979
+asS'cordillera'
+p5980
+(lp5981
+g307
+ag334
+ag572
+asS'stony meteorite'
+p5982
+(lp5983
+S'ENVO:00002049'
+p5984
+asS'playa'
+p5985
+(lp5986
+g1815
+asS'eyot'
+p5987
+(lp5988
+g357
+ag776
+asS'fiord'
+p5989
+(lp5990
+g154
+ag154
+asS'sediment contaminated with radionuclide'
+p5991
+(lp5992
+g590
+asS'seal fall'
+p5993
+(lp5994
+S'ENVO:01000141'
+p5995
+asS'abyssal feature'
+p5996
+(lp5997
+g3130
+ag2628
+asS'shoreline'
+p5998
+(lp5999
+g1184
+ag2095
+asS'undersea basin'
+p6000
+(lp6001
+g512
+asS'fan (alluvial)'
+p6002
+(lp6003
+g3712
+asS'undersea tongue'
+p6004
+(lp6005
+g512
+asS'recurved spit'
+p6006
+(lp6007
+g92
+asS'dry river'
+p6008
+(lp6009
+S'ENVO:00000018'
+p6010
+asS'sink'
+p6011
+(lp6012
+g1421
+ag1421
+asS'FreshwaterLake'
+p6013
+(lp6014
+g4729
+asS'distilled fermented grain beverage'
+p6015
+(lp6016
+S'ENVO:0010047'
+p6017
+asS'Marine Division - Mountain Provinces (M240)'
+p6018
+(lp6019
+S'ENVO:00003015'
+p6020
+asS'Trench'
+p6021
+(lp6022
+g3809
+asS'river bank'
+p6023
+(lp6024
+g4249
+asS'barrier lagoon'
+p6025
+(lp6026
+g559
+asS'Stream'
+p6027
+(lp6028
+g193
+asS'sea beach'
+p6029
+(lp6030
+g4034
+asS'plant roots'
+p6031
+(lp6032
+g808
+asS'consequent stream'
+p6033
+(lp6034
+S'ENVO:00000490'
+p6035
+asS'neritic mesopelagic zone biome'
+p6036
+(lp6037
+S'ENVO:01000043'
+p6038
+asS'terrigenous sediment'
+p6039
+(lp6040
+S'ENVO:01000070'
+p6041
+asS'fruit juice beverage'
+p6042
+(lp6043
+S'ENVO:0010052'
+p6044
+asS'skin'
+p6045
+(lp6046
+S'ID:0000041'
+p6047
+aS'ID:0000058'
+p6048
+asS'Mountain'
+p6049
+(lp6050
+g334
+asS'natural preserve'
+p6051
+(lp6052
+g1506
+asS'plant stem food product'
+p6053
+(lp6054
+S'ENVO:0010087'
+p6055
+asS'Biological Dechlorination'
+p6056
+(lp6057
+g632
+asS'university campus'
+p6058
+(lp6059
+S'ENVO:00000467'
+p6060
+asS'biliary stent'
+p6061
+(lp6062
+S'ID:0000097'
+p6063
+asS'biodegradation of dichloromethane'
+p6064
+(lp6065
+g1360
+asS'canalized stream'
+p6066
+(lp6067
+g2092
+ag2092
+asS'REEF, ISLAND'
+p6068
+(lp6069
+g3046
+asS'smoked sausage'
+p6070
+(lp6071
+S'ENVO:0010132'
+p6072
+asS'glacier tongue'
+p6073
+(lp6074
+g4364
+asS'microbial feature'
+p6075
+(lp6076
+S'ENVO:01000007'
+p6077
+asS'fen'
+p6078
+(lp6079
+S'ENVO:00000232'
+p6080
+asS'boundary current front'
+p6081
+(lp6082
+S'ENVO:01000093'
+p6083
+asS'archipelago apron'
+p6084
+(lp6085
+g2618
+asS'bulk soil'
+p6086
+(lp6087
+S'ENVO:00005802'
+p6088
+asS'landfill soil'
+p6089
+(lp6090
+S'ID:0000147'
+p6091
+asS'crag'
+p6092
+(lp6093
+S'ENVO:00000089'
+p6094
+ag6094
+ag859
+asS'ocean floor'
+p6095
+(lp6096
+g2391
+ag3951
+asS'flood control dam'
+p6097
+(lp6098
+S'ENVO:00000471'
+p6099
+asS'shingle beach'
+p6100
+(lp6101
+S'ENVO:00000545'
+p6102
+asS'granular sediment'
+p6103
+(lp6104
+S'ENVO:01000117'
+p6105
+asS'loch'
+p6106
+(lp6107
+g702
+ag154
+asS'neritic zone'
+p6108
+(lp6109
+S'ENVO:00000206'
+p6110
+asS'Altamaha and Ohopee River Valley inland dune field'
+p6111
+(lp6112
+g1490
+asS'floodplain'
+p6113
+(lp6114
+g136
+asS'Plain'
+p6115
+(lp6116
+g252
+asS'Flooded grasslands and savanna biome'
+p6117
+(lp6118
+S'ENVO:00000885'
+p6119
+asS'basalt'
+p6120
+(lp6121
+S'ID:0000012'
+p6122
+asS'trail'
+p6123
+(lp6124
+g1390
+ag1390
+ag1390
+ag1390
+asS'rootless vent'
+p6125
+(lp6126
+S'ENVO:00000461'
+p6127
+asS'Savanna Division (410)'
+p6128
+(lp6129
+S'ENVO:00003028'
+p6130
+asS'puszta'
+p6131
+(lp6132
+g1284
+asS'bottled fruit product'
+p6133
+(lp6134
+S'ENVO:00003888'
+p6135
+asS'Savanna'
+p6136
+(lp6137
+g1498
+asS'continental arc'
+p6138
+(lp6139
+S'ENVO:00000352'
+p6140
+asS'insequent stream'
+p6141
+(lp6142
+S'ENVO:00000494'
+p6143
+asS'abyssalpelagic zone'
+p6144
+(lp6145
+S'ENVO:00000212'
+p6146
+asS'tunnel'
+p6147
+(lp6148
+g1014
+ag1014
+ag720
+aS'ENVO:00000522'
+p6149
+asS'dcm degrading environment'
+p6150
+(lp6151
+g1360
+asS'arsenate treated wood'
+p6152
+(lp6153
+S'ENVO:00002136'
+p6154
+asS'undersea fracture zone'
+p6155
+(lp6156
+g512
+asS'road cut'
+p6157
+(lp6158
+S'ENVO:00000515'
+p6159
+ag6159
+asS'degradation of dichloromethane'
+p6160
+(lp6161
+g1360
+asS'parkway'
+p6162
+(lp6163
+g9
+ag9
+asS'mud flat'
+p6164
+(lp6165
+g299
+ag5260
+ag5260
+asS'anthropogenic feature'
+p6166
+(lp6167
+g340
+asS'mountain crest'
+p6168
+(lp6169
+g1322
+asS'rennet product'
+p6170
+(lp6171
+S'ENVO:0010140'
+p6172
+asS'rivage'
+p6173
+(lp6174
+g473
+ag1185
+ag2315
+asS'crevasse'
+p6175
+(lp6176
+g1005
+asS'kelp forest'
+p6177
+(lp6178
+S'ENVO:01000058'
+p6179
+asS'lock'
+p6180
+(lp6181
+S'ENVO:00000357'
+p6182
+asS'composite volcano'
+p6183
+(lp6184
+g5721
+asS'undersea rise'
+p6185
+(lp6186
+g512
+asS'processed meat product'
+p6187
+(lp6188
+g2593
+asS'buckewheat product'
+p6189
+(lp6190
+S'ENVO:0010098'
+p6191
+asS'taiga'
+p6192
+(lp6193
+g266
+asS'waterbody'
+p6194
+(lp6195
+g1331
+asS'improved channel'
+p6196
+(lp6197
+S'ENVO:00000121'
+p6198
+ag840
+asS'sea shore'
+p6199
+(lp6200
+g4408
+asS'contaminated sediment'
+p6201
+(lp6202
+S'ENVO:00002114'
+p6203
+asS'nullah'
+p6204
+(lp6205
+g223
+asS'zoological park'
+p6206
+(lp6207
+g4016
+asS'suspended sediment'
+p6208
+(lp6209
+S'ENVO:01000113'
+p6210
+asS'foregut'
+p6211
+(lp6212
+S'ID:0000164'
+p6213
+asS'lagoons'
+p6214
+(lp6215
+g559
+asS'OceanRidge'
+p6216
+(lp6217
+g1635
+asS'road bend'
+p6218
+(lp6219
+g9
+asS'euendolithic'
+p6220
+(lp6221
+g834
+asS'UASB reactor'
+p6222
+(lp6223
+g2271
+asS'iron meteorite'
+p6224
+(lp6225
+S'ENVO:00002052'
+p6226
+asS'forest'
+p6227
+(lp6228
+g377
+ag377
+asS'anaerobic condition'
+p6229
+(lp6230
+g1875
+asS'arched iceberg'
+p6231
+(lp6232
+g1290
+asS'stand'
+p6233
+(lp6234
+g266
+asS'genetically engineered rennet'
+p6235
+(lp6236
+S'ENVO:0010153'
+p6237
+asS'coal mine'
+p6238
+(lp6239
+S'ENVO:00002169'
+p6240
+asS'lesion'
+p6241
+(lp6242
+g459
+asS'Lake Hoare'
+p6243
+(lp6244
+S'ID:0000151'
+p6245
+asS'farm'
+p6246
+(lp6247
+g105
+ag105
+asS'undersea apron'
+p6248
+(lp6249
+g2618
+asS'alkaline salt lake'
+p6250
+(lp6251
+g2621
+asS'forest reserve'
+p6252
+(lp6253
+g377
+asS'vineyards'
+p6254
+(lp6255
+g2366
+asS'WATERCOURSE'
+p6256
+(lp6257
+g194
+asS'bluff'
+p6258
+(lp6259
+g1618
+ag1618
+asS'saline wetland'
+p6260
+(lp6261
+S'ENVO:00000240'
+p6262
+asS'Grassland'
+p6263
+(lp6264
+g216
+asS'footpath'
+p6265
+(lp6266
+g1390
+asS'cabbage'
+p6267
+(lp6268
+S'ENVO:00002217'
+p6269
+asS'cuesta'
+p6270
+(lp6271
+g1878
+ag1878
+ag1878
+ag481
+ag481
+asS'marine hadal zone biome'
+p6272
+(lp6273
+S'ENVO:01000028'
+p6274
+asS'administrative division'
+p6275
+(lp6276
+g865
+ag865
+asS'anthropogenic'
+p6277
+(lp6278
+g650
+asS'countries, 1st order division'
+p6279
+(lp6280
+g220
+asS'hypocotyl seedling'
+p6281
+(lp6282
+g3443
+asS'corral'
+p6283
+(lp6284
+g104
+asS'Sapropel'
+p6285
+(lp6286
+g2874
+asS'clay soil'
+p6287
+(lp6288
+S'ENVO:00002262'
+p6289
+asS'bakery'
+p6290
+(lp6291
+S'ENVO:00003864'
+p6292
+asS'string mire'
+p6293
+(lp6294
+g3740
+asS'mine tailing'
+p6295
+(lp6296
+g139
+asS'natural monument'
+p6297
+(lp6298
+S'ENVO:00000359'
+p6299
+asS'uranium contamination site'
+p6300
+(lp6301
+S'ID:0000131'
+p6302
+asS'Temperate shelf and sea biome'
+p6303
+(lp6304
+S'ENVO:00000895'
+p6305
+asS'uncontaminated site'
+p6306
+(lp6307
+g3946
+asS'eucalyptus forest soil'
+p6308
+(lp6309
+S'ENVO:00005787'
+p6310
+asS'headwater'
+p6311
+(lp6312
+g2471
+asS'shelf-slope/shelf-break front'
+p6313
+(lp6314
+S'ENVO:01000089'
+p6315
+asS'cropland'
+p6316
+(lp6317
+g3511
+ag995
+ag3027
+ag4395
+ag2366
+ag620
+ag217
+ag3331
+asS'intermittent estuary'
+p6318
+(lp6319
+S'ENVO:00000229'
+p6320
+asS'Kartchner caverns'
+p6321
+(lp6322
+g3867
+asS'pelagic sediment'
+p6323
+(lp6324
+g3312
+asS'beach face'
+p6325
+(lp6326
+g2315
+asS'meat food product'
+p6327
+(lp6328
+S'ENVO:00002165'
+p6329
+asS'pulses'
+p6330
+(lp6331
+S'ENVO:0010121'
+p6332
+asS'Mussel'
+p6333
+(lp6334
+S'ID:0000161'
+p6335
+asS'Udvardy biome'
+p6336
+(lp6337
+S'ENVO:00002986'
+p6338
+asS'glen'
+p6339
+(lp6340
+g197
+ag197
+asS'Bleu  de Bresse'
+p6341
+(lp6342
+g1248
+asS'inlet'
+p6343
+(lp6344
+g637
+ag154
+ag2570
+ag328
+ag1371
+ag1864
+ag1864
+aS'ENVO:00000497'
+p6345
+asS'bay ice'
+p6346
+(lp6347
+g316
+asS'BOTTOM'
+p6348
+(lp6349
+S'ENVO:00000501'
+p6350
+asS'llyn'
+p6351
+(lp6352
+g702
+asS'oil contamination'
+p6353
+(lp6354
+g1345
+asS'brook'
+p6355
+(lp6356
+g193
+ag193
+ag194
+asS'production wastewater'
+p6357
+(lp6358
+g1519
+asS'marsh'
+p6359
+(lp6360
+g3431
+ag3431
+ag299
+asS'irrigation ditch'
+p6361
+(lp6362
+g5609
+ag5609
+ag5609
+asS'ROAD'
+p6363
+(lp6364
+g9
+asS'Bivalvia'
+p6365
+(lp6366
+S'ID:0000144'
+p6367
+asS'pebble sediment'
+p6368
+(lp6369
+S'ENVO:01000116'
+p6370
+asS'trade zone'
+p6371
+(lp6372
+g865
+asS'dam'
+p6373
+(lp6374
+g2856
+ag2856
+ag4566
+asS'dike'
+p6375
+(lp6376
+g436
+ag436
+ag436
+asS'Microbial fuel cell'
+p6377
+(lp6378
+S'ID:0000067'
+p6379
+asS'pig manure'
+p6380
+(lp6381
+S'ENVO:00003860'
+p6382
+asS'mid-ocean ridge'
+p6383
+(lp6384
+g1635
+asS'seawater'
+p6385
+(lp6386
+g868
+asS'cutting'
+p6387
+(lp6388
+g5400
+asS'denitrifying consortium'
+p6389
+(lp6390
+g2971
+asS'marine sediment'
+p6391
+(lp6392
+g3312
+asS'fermented dairy product'
+p6393
+(lp6394
+S'ENVO:00003873'
+p6395
+asS'piggery'
+p6396
+(lp6397
+S'ENVO:00003042'
+p6398
+asS'kettle hole'
+p6399
+(lp6400
+g1422
+asS'fermented plant derived beverage'
+p6401
+(lp6402
+S'ENVO:0010170'
+p6403
+asS'Bondon cheese'
+p6404
+(lp6405
+S'ENVO:00003966'
+p6406
+asS'cider'
+p6407
+(lp6408
+g5952
+asS'ice sheet'
+p6409
+(lp6410
+g316
+ag1695
+asS'flume (natural)'
+p6411
+(lp6412
+g407
+asS'Membrane bioreactor'
+p6413
+(lp6414
+S'ID:0000048'
+p6415
+asS'marginal sea biome'
+p6416
+(lp6417
+S'ENVO:01000046'
+p6418
+asS'undersea trench'
+p6419
+(lp6420
+g3809
+asS'brush'
+p6421
+(lp6422
+g266
+asS'cobble sediment'
+p6423
+(lp6424
+S'ENVO:01000115'
+p6425
+asS'estuary sediment'
+p6426
+(lp6427
+g5127
+asS'flood control reservoir'
+p6428
+(lp6429
+g448
+asS'fermented rice beverage'
+p6430
+(lp6431
+S'ENVO:00003871'
+p6432
+asS'potato salad'
+p6433
+(lp6434
+S'ENVO:02000076'
+p6435
+asS'pelagic isopycnal surface'
+p6436
+(lp6437
+S'ENVO:01000083'
+p6438
+asS'creosote contaminated soil'
+p6439
+(lp6440
+S'ENVO:00002117'
+p6441
+asS'second-order administrative region'
+p6442
+(lp6443
+g478
+asS'bay bar'
+p6444
+(lp6445
+g92
+asS'WHRL'
+p6446
+(lp6447
+g2615
+asS'human skin'
+p6448
+(lp6449
+g6048
+asS'bay'
+p6450
+(lp6451
+g637
+ag637
+ag1864
+asS'tuya'
+p6452
+(lp6453
+S'ENVO:00000370'
+p6454
+ag4644
+asS'submarine isthmus'
+p6455
+(lp6456
+g1111
+asS'mate'
+p6457
+(lp6458
+S'ENVO:0010160'
+p6459
+asS'cwm'
+p6460
+(lp6461
+g142
+asS'somma volcano'
+p6462
+(lp6463
+S'ENVO:00000350'
+p6464
+asS'icecap dome'
+p6465
+(lp6466
+g805
+ag805
+asS'nesting material'
+p6467
+(lp6468
+S'ENVO:02000004'
+p6469
+asS'peat bog'
+p6470
+(lp6471
+g790
+asS'volcanic fissure'
+p6472
+(lp6473
+g3393
+asS'unpasteurized ovine milk'
+p6474
+(lp6475
+S'ENVO:02000089'
+p6476
+asS'spruce forest soil'
+p6477
+(lp6478
+S'ENVO:00005784'
+p6479
+asS'indeterminate root nodule active meristem'
+p6480
+(lp6481
+S'ENVO:01000169'
+p6482
+asS'CSF'
+p6483
+(lp6484
+g1774
+asS'sarcosine enriched soil'
+p6485
+(lp6486
+S'ENVO:00003083'
+p6487
+asS'inverse estuary'
+p6488
+(lp6489
+S'ENVO:00000228'
+p6490
+asS'carbon dioxide-reducing sediment'
+p6491
+(lp6492
+S'ENVO:01000154'
+p6493
+asS'pantothenate enriched soil'
+p6494
+(lp6495
+S'ENVO:00003088'
+p6496
+asS'underpass'
+p6497
+(lp6498
+g1014
+asS'koumiss'
+p6499
+(lp6500
+g4726
+asS'skatole enriched soil'
+p6501
+(lp6502
+S'ENVO:00003085'
+p6503
+asS'icecap ridge'
+p6504
+(lp6505
+g481
+asS'farmland'
+p6506
+(lp6507
+g105
+asS'mortlake'
+p6508
+(lp6509
+g702
+asS'scarp'
+p6510
+(lp6511
+g1618
+ag1878
+asS'estuary sediments'
+p6512
+(lp6513
+g5127
+asS'range (physiographic)'
+p6514
+(lp6515
+g3013
+asS'nuclear weapons test site'
+p6516
+(lp6517
+S'ENVO:00000560'
+p6518
+asS'intermittent ponds'
+p6519
+(lp6520
+g4207
+asS'pseudocrater'
+p6521
+(lp6522
+g6127
+asS'oil sludge'
+p6523
+(lp6524
+S'ENVO:00002060'
+p6525
+asS'SPRING'
+p6526
+(lp6527
+g964
+asS'proglacial lake'
+p6528
+(lp6529
+S'ENVO:00000435'
+p6530
+asS'Small lake biome'
+p6531
+(lp6532
+S'ENVO:00000892'
+p6533
+asS'ice-cream'
+p6534
+(lp6535
+g2696
+asS'predigester slurry'
+p6536
+(lp6537
+S'ID:0000114'
+p6538
+asS'saline lake'
+p6539
+(lp6540
+g535
+asS'first level subdivision'
+p6541
+(lp6542
+g220
+asS'siderite'
+p6543
+(lp6544
+S'ID:0000101'
+p6545
+asS'marine pelagic biome'
+p6546
+(lp6547
+S'ENVO:01000023'
+p6548
+asS'Harzerkaese'
+p6549
+(lp6550
+g430
+asS'contaminated water'
+p6551
+(lp6552
+g3817
+aS'ID:0000029'
+p6553
+asS'Saline soil collected in Chott el Gharsa'
+p6554
+(lp6555
+S'ID:0000125'
+p6556
+asS'artificial channel'
+p6557
+(lp6558
+g6198
+asS'vagina'
+p6559
+(lp6560
+S'ID:0000039'
+p6561
+asS'slide'
+p6562
+(lp6563
+g1076
+ag1076
+asS'terminal basin'
+p6564
+(lp6565
+g1543
+asS'oil-bearing'
+p6566
+(lp6567
+g1980
+asS'snowfield'
+p6568
+(lp6569
+g2228
+ag2228
+asS'flume'
+p6570
+(lp6571
+g1482
+ag6198
+asS'stomach'
+p6572
+(lp6573
+g773
+aS'ID:00000163'
+p6574
+asS'cheese spoilage'
+p6575
+(lp6576
+S'ENVO:00002220'
+p6577
+asS'quarry'
+p6578
+(lp6579
+g970
+ag970
+asS'shelf'
+p6580
+(lp6581
+g853
+asS'plantation field'
+p6582
+(lp6583
+g620
+asS'marine hydrothermal vent chimney'
+p6584
+(lp6585
+S'ENVO:01000129'
+p6586
+asS'floodway'
+p6587
+(lp6588
+S'ENVO:00000256'
+p6589
+asS'Ruoergai'
+p6590
+(lp6591
+S'ID:0000109'
+p6592
+asS'inorganically contaminated sediment'
+p6593
+(lp6594
+S'ENVO:00002203'
+p6595
+asS'yeast product'
+p6596
+(lp6597
+S'ENVO:0010056'
+p6598
+asS'glacial trough'
+p6599
+(lp6600
+g197
+asS'traffic circle'
+p6601
+(lp6602
+g9
+asS'ear wax'
+p6603
+(lp6604
+S'ENVO:02000028'
+p6605
+asS'neck'
+p6606
+(lp6607
+g1111
+ag828
+asS'thermal spring'
+p6608
+(lp6609
+g1921
+asS'Sequencing batch reactor'
+p6610
+(lp6611
+g2422
+asS'oxbow loop'
+p6612
+(lp6613
+g1486
+asS'silage'
+p6614
+(lp6615
+S'ENVO:00003030'
+p6616
+asS'food product'
+p6617
+(lp6618
+S'ENVO:00002002'
+p6619
+asS'bed'
+p6620
+(lp6621
+g6350
+asS'seachannel'
+p6622
+(lp6623
+g194
+ag197
+asS'air conditioning unit'
+p6624
+(lp6625
+S'ENVO:00002874'
+p6626
+asS'borehole'
+p6627
+(lp6628
+S'ENVO:00002226'
+p6629
+asS'uranium mining waste pile '
+p6630
+(lp6631
+g847
+asS'marine feature'
+p6632
+(lp6633
+S'ENVO:01000031'
+p6634
+asS'manganese nodule'
+p6635
+(lp6636
+S'ENVO:01000112'
+p6637
+asS'torrent'
+p6638
+(lp6639
+g1601
+asS'fermentation'
+p6640
+(lp6641
+g5454
+asS'plant derived beverage'
+p6642
+(lp6643
+S'ENVO:0010169'
+p6644
+asS'cruciferous inflorescence food product'
+p6645
+(lp6646
+S'ENVO:0010083'
+p6647
+asS'pampas'
+p6648
+(lp6649
+g1284
+asS'phytoplankton'
+p6650
+(lp6651
+S'ID:0000064'
+p6652
+asS'kimchee'
+p6653
+(lp6654
+g2151
+asS'volcanic arc'
+p6655
+(lp6656
+S'ENVO:00000351'
+p6657
+asS'cavern'
+p6658
+(lp6659
+g1401
+ag1401
+asS'egg product'
+p6660
+(lp6661
+S'ENVO:02000056'
+p6662
+asS'opthalmic'
+p6663
+(lp6664
+g1805
+asS'biofilm material'
+p6665
+(lp6666
+S'ENVO:01000156'
+p6667
+asS'freshwater-pond'
+p6668
+(lp6669
+g2484
+asS'cerumen'
+p6670
+(lp6671
+g6605
+asS'coastal upwelling'
+p6672
+(lp6673
+S'ENVO:01000006'
+p6674
+asS'cereal food product'
+p6675
+(lp6676
+S'ENVO:0010002'
+p6677
+asS'wheat flour'
+p6678
+(lp6679
+S'ENVO:0010122'
+p6680
+asS'volcanic mudflow'
+p6681
+(lp6682
+g2896
+asS'tulelands'
+p6683
+(lp6684
+g299
+asS'scree'
+p6685
+(lp6686
+g1073
+asS'megabasalt'
+p6687
+(lp6688
+g6122
+asS'chasmoendolithic'
+p6689
+(lp6690
+g834
+asS'elbow pit'
+p6691
+(lp6692
+g3943
+ag6561
+asS'waste landfill'
+p6693
+(lp6694
+S'ID:0000150'
+p6695
+asS'sawmill'
+p6696
+(lp6697
+S'ENVO:00004638'
+p6698
+asS'anaerobic sludge'
+p6699
+(lp6700
+S'ENVO:00002129'
+p6701
+asS'world heritage site'
+p6702
+(lp6703
+S'ENVO:00000375'
+p6704
+asS'"saline feature"'
+p6705
+(lp6706
+g4310
+asS'poultry meat product'
+p6707
+(lp6708
+S'ENVO:0010043'
+p6709
+asS'soy sauce'
+p6710
+(lp6711
+S'ENVO:0010148'
+p6712
+asS'epilimnion'
+p6713
+(lp6714
+S'ENVO:00002131'
+p6715
+asS'penplain'
+p6716
+(lp6717
+S'ENVO:00000460'
+p6718
+asS'MFC'
+p6719
+(lp6720
+g6379
+asS'peaty paddy field soil'
+p6721
+(lp6722
+S'ENVO:00005776'
+p6723
+asS'cabbage product'
+p6724
+(lp6725
+g6269
+asS'sandy beach'
+p6726
+(lp6727
+S'ENVO:00002199'
+p6728
+asS'POOL'
+p6729
+(lp6730
+g2484
+asS'sea ice'
+p6731
+(lp6732
+S'ENVO:00002200'
+p6733
+asS'Estuary'
+p6734
+(lp6735
+g2570
+asS'hot dog'
+p6736
+(lp6737
+S'ENVO:00002174'
+p6738
+asS'glacial moraine'
+p6739
+(lp6740
+g249
+asS'particle of silt'
+p6741
+(lp6742
+S'ENVO:00000343'
+p6743
+asS'stream bank'
+p6744
+(lp6745
+g1799
+ag1799
+asS'fermented apple'
+p6746
+(lp6747
+g5395
+asS'infected cardiac valve'
+p6748
+(lp6749
+S'ID:0000001'
+p6750
+asS'jeotgal'
+p6751
+(lp6752
+S'ENVO:00003077'
+p6753
+asS'painting'
+p6754
+(lp6755
+S'ID:0000034'
+p6756
+asS'marine neritic benthic zone biome'
+p6757
+(lp6758
+S'ENVO:01000025'
+p6759
+asS'bodies of water'
+p6760
+(lp6761
+g1331
+asS'marsh bar'
+p6762
+(lp6763
+g92
+asS'sand spit'
+p6764
+(lp6765
+g92
+asS'brine'
+p6766
+(lp6767
+S'ENVO:00003044'
+p6768
+asS'activated sludge'
+p6769
+(lp6770
+S'ENVO:00002046'
+p6771
+asS'thicket'
+p6772
+(lp6773
+g266
+asS'farm lane'
+p6774
+(lp6775
+g9
+asS'interstitial fluid'
+p6776
+(lp6777
+g1293
+asS'aquatic biome'
+p6778
+(lp6779
+S'ENVO:00002030'
+p6780
+asS'Subarctic Division - Mountain Provinces (M130)'
+p6781
+(lp6782
+S'ENVO:00003005'
+p6783
+asS'beaver pond'
+p6784
+(lp6785
+S'ENVO:00000270'
+p6786
+asS'sprouts'
+p6787
+(lp6788
+g3072
+asS'jam'
+p6789
+(lp6790
+S'ENVO:0010139'
+p6791
+asS'brine pool'
+p6792
+(lp6793
+g5044
+asS'mid-shelf fronts'
+p6794
+(lp6795
+S'ENVO:01000088'
+p6796
+asS'chapeirao'
+p6797
+(lp6798
+g859
+asS'pyroclastic dome'
+p6799
+(lp6800
+g5911
+asS'water buffalo milk'
+p6801
+(lp6802
+S'ENVO:02000016'
+p6803
+asS'canyons'
+p6804
+(lp6805
+g302
+asS'disease-related locus'
+p6806
+(lp6807
+g2160
+asS'dredged channel'
+p6808
+(lp6809
+g194
+asS'reservoir bed'
+p6810
+(lp6811
+g363
+asS'gulch'
+p6812
+(lp6813
+g194
+ag197
+ag407
+asS'buffer zone'
+p6814
+(lp6815
+g4884
+ag4884
+asS'spur'
+p6816
+(lp6817
+g481
+ag4974
+ag4974
+asS'affluent stream'
+p6818
+(lp6819
+g1287
+asS'sweat'
+p6820
+(lp6821
+S'ENVO:02000025'
+p6822
+asS'thermocline'
+p6823
+(lp6824
+S'ENVO:00002132'
+p6825
+aS'ENVO:00002269'
+p6826
+asS'organ'
+p6827
+(lp6828
+S'ENVO:01000162'
+p6829
+asS'brain'
+p6830
+(lp6831
+S'ID:0000059'
+p6832
+asS'marine benthic storm'
+p6833
+(lp6834
+S'ENVO:01000062'
+p6835
+asS'watershed'
+p6836
+(lp6837
+g296
+ag269
+asS'affluent'
+p6838
+(lp6839
+g1287
+asS'tableland'
+p6840
+(lp6841
+g1328
+ag1328
+asS'terrestrial realm'
+p6842
+(lp6843
+g4348
+asS'sisal plantation'
+p6844
+(lp6845
+g5091
+ag5091
+asS'waterfalls'
+p6846
+(lp6847
+g114
+asS'monsoon forest'
+p6848
+(lp6849
+g266
+asS'sediment'
+p6850
+(lp6851
+S'ENVO:00002007'
+p6852
+asS'underwater feature'
+p6853
+(lp6854
+g512
+asS'oil feature'
+p6855
+(lp6856
+g3453
+ag3454
+asS'subglacial lake'
+p6857
+(lp6858
+S'ENVO:00000198'
+p6859
+asS'warm surface current'
+p6860
+(lp6861
+S'ENVO:01000101'
+p6862
+asS'upper littoral'
+p6863
+(lp6864
+g911
+asS'pastoral site'
+p6865
+(lp6866
+g104
+asS'wetland'
+p6867
+(lp6868
+g3431
+ag3431
+ag299
+ag299
+ag790
+ag790
+ag2036
+ag120
+ag4798
+ag1255
+ag3740
+ag5260
+ag121
+ag6080
+ag6080
+ag3181
+ag3181
+ag4262
+ag2254
+ag43
+ag3777
+ag905
+ag4044
+asS'Mediterranean forests, woodlands, and shrub biome'
+p6869
+(lp6870
+S'ENVO:00000878'
+p6871
+asS'kimchi'
+p6872
+(lp6873
+g2151
+asS'abyssal hill'
+p6874
+(lp6875
+g3130
+asS'digestive tract'
+p6876
+(lp6877
+g773
+asS'populated place'
+p6878
+(lp6879
+g753
+ag753
+asS'boulder field'
+p6880
+(lp6881
+S'ENVO:00000537'
+p6882
+ag6882
+asS'oxisol'
+p6883
+(lp6884
+g5524
+asS'clearing'
+p6885
+(lp6886
+g1785
+ag1785
+ag1785
+ag888
+asS'planosol'
+p6887
+(lp6888
+S'ENVO:00002251'
+p6889
+asS'calcite hot spring'
+p6890
+(lp6891
+S'ENVO:00002143'
+p6892
+asS'state'
+p6893
+(lp6894
+g157
+asS'hammock'
+p6895
+(lp6896
+g1217
+asS'organically contaminated sediment'
+p6897
+(lp6898
+S'ENVO:00002202'
+p6899
+asS'barranca'
+p6900
+(lp6901
+g194
+ag407
+asS'well water'
+p6902
+(lp6903
+g4082
+asS'boundary'
+p6904
+(lp6905
+g1235
+asS'subterrestrial habitat'
+p6906
+(lp6907
+g562
+asS'iron-reducing sediment'
+p6908
+(lp6909
+S'ENVO:01000152'
+p6910
+asS'soya food product'
+p6911
+(lp6912
+S'ENVO:0010049'
+p6913
+asS'seamount range'
+p6914
+(lp6915
+g572
+asS'sand desert'
+p6916
+(lp6917
+g101
+asS'cecum'
+p6918
+(lp6919
+g2413
+asS'stony desert'
+p6920
+(lp6921
+g5791
+ag5791
+asS'deep-sea water'
+p6922
+(lp6923
+g506
+asS'testosterone enriched soil'
+p6924
+(lp6925
+S'ENVO:00003089'
+p6926
+asS'PLUNGE POOL'
+p6927
+(lp6928
+g3700
+asS'pasture soil'
+p6929
+(lp6930
+S'ENVO:00005773'
+p6931
+asS'fermented Elaeis Palm beverage'
+p6932
+(lp6933
+S'ENVO:0010007'
+p6934
+asS'key'
+p6935
+(lp6936
+g357
+asS'rocky desert'
+p6937
+(lp6938
+g2052
+asS'inland cliff'
+p6939
+(lp6940
+g6094
+asS'butte'
+p6941
+(lp6942
+g521
+ag5415
+ag5415
+asS'baymouth bar'
+p6943
+(lp6944
+g92
+asS'SNOWFIELD'
+p6945
+(lp6946
+g2228
+asS'freshwater wetland'
+p6947
+(lp6948
+S'ENVO:00000243'
+p6949
+asS'effluent'
+p6950
+(lp6951
+g1519
+asS'polymetallic nodule'
+p6952
+(lp6953
+g6637
+asS'condiment'
+p6954
+(lp6955
+S'ENVO:0010045'
+p6956
+asS'marine subtidal rocky reef biome'
+p6957
+(lp6958
+S'ENVO:01000050'
+p6959
+asS'river bottom'
+p6960
+(lp6961
+g1484
+asS'sea water fish egg product'
+p6962
+(lp6963
+S'ENVO:0010016'
+p6964
+asS'arboreal habitat'
+p6965
+(lp6966
+S'ENVO:00000571'
+p6967
+asS'streams'
+p6968
+(lp6969
+g193
+asS'intestinal tract'
+p6970
+(lp6971
+g773
+asS'acetamide enriched soil'
+p6972
+(lp6973
+S'ENVO:00003087'
+p6974
+asS'burn (hydrographic)'
+p6975
+(lp6976
+g193
+asS'canopy'
+p6977
+(lp6978
+S'ENVO:00000047'
+p6979
+asS'highland'
+p6980
+(lp6981
+g1328
+asS'medical implant'
+p6982
+(lp6983
+S'ID:0000095'
+p6984
+asS'MOUNT RANGE'
+p6985
+(lp6986
+g307
+asS'Inlet'
+p6987
+(lp6988
+g1864
+asS'lacustrine plain'
+p6989
+(lp6990
+S'ENVO:00000259'
+p6991
+asS'caverns'
+p6992
+(lp6993
+g1401
+asS'wadi mouth'
+p6994
+(lp6995
+g223
+aS'ENVO:00000507'
+p6996
+ag6996
+asS'topographic upwelling front'
+p6997
+(lp6998
+S'ENVO:01000091'
+p6999
+asS'Rainforest Division - Mountain Provinces (M420)'
+p7000
+(lp7001
+S'ENVO:00003027'
+p7002
+asS'volcanic mud'
+p7003
+(lp7004
+g2896
+asS'microbial mat'
+p7005
+(lp7006
+S'ENVO:01000008'
+p7007
+asS'FLOOD PLAIN'
+p7008
+(lp7009
+g136
+asS'phaeozem'
+p7010
+(lp7011
+S'ENVO:00002249'
+p7012
+asS'vaginal epithelium'
+p7013
+(lp7014
+g6561
+asS'fishery'
+p7015
+(lp7016
+g665
+asS'uranium mining waste'
+p7017
+(lp7018
+g847
+asS'field soil'
+p7019
+(lp7020
+S'ENVO:00005755'
+p7021
+asS'garique'
+p7022
+(lp7023
+g266
+asS'muddy water'
+p7024
+(lp7025
+S'ENVO:00005793'
+p7026
+asS'waste'
+p7027
+(lp7028
+S'ENVO:00002264'
+p7029
+asS'chasmoendolith'
+p7030
+(lp7031
+g834
+asS'environmental material'
+p7032
+(lp7033
+S'ENVO:00010483'
+p7034
+asS'igneous rock'
+p7035
+(lp7036
+S'ENVO:00002013'
+p7037
+asS'upland soil'
+p7038
+(lp7039
+S'ENVO:00005786'
+p7040
+asS'rincon'
+p7041
+(lp7042
+g6345
+asS'foreshore'
+p7043
+(lp7044
+g2315
+asS'Warm Continental Division (210)'
+p7045
+(lp7046
+S'ENVO:00003010'
+p7047
+asS'saddle dam'
+p7048
+(lp7049
+S'ENVO:00000554'
+p7050
+asS'waterhole'
+p7051
+(lp7052
+S'ENVO:00000547'
+p7053
+ag7053
+asS'un-contaminated feature'
+p7054
+(lp7055
+g3946
+asS'polynya'
+p7056
+(lp7057
+g888
+asS'rice product'
+p7058
+(lp7059
+S'ENVO:0010097'
+p7060
+asS'crude oil'
+p7061
+(lp7062
+g4201
+ag3453
+ag3454
+asS'artificial island'
+p7063
+(lp7064
+g5405
+ag5405
+asS'radioactive waste depository'
+p7065
+(lp7066
+g2749
+asS'travertine'
+p7067
+(lp7068
+S'ENVO:00003982'
+p7069
+asS'bugor'
+p7070
+(lp7071
+g2086
+asS'plain'
+p7072
+(lp7073
+g252
+ag252
+ag253
+ag1788
+asS'cultivated cropland'
+p7074
+(lp7075
+g995
+asS'chalk'
+p7076
+(lp7077
+S'ENVO:00002054'
+p7078
+asS'promontgory'
+p7079
+(lp7080
+g828
+asS'intertidal hot spring'
+p7081
+(lp7082
+S'ID:0000146'
+p7083
+asS'western boundary current'
+p7084
+(lp7085
+S'ENVO:01000103'
+p7086
+asS'urea enriched soil'
+p7087
+(lp7088
+S'ENVO:00005753'
+p7089
+asS'urban area'
+p7090
+(lp7091
+g2816
+asS'homogenate gut'
+p7092
+(lp7093
+S'ID:0000157'
+p7094
+asS'Tropical/Subtropical Steppe Division (310)'
+p7095
+(lp7096
+S'ENVO:00003026'
+p7097
+asS'chondrite'
+p7098
+(lp7099
+S'ENVO:00002048'
+p7100
+asS'pool'
+p7101
+(lp7102
+g2484
+ag2484
+asS'intermittent salt pond'
+p7103
+(lp7104
+g1849
+ag1849
+asS'pulp-bleaching waste water'
+p7105
+(lp7106
+S'ENVO:00002193'
+p7107
+asS'surface'
+p7108
+(lp7109
+S'ENVO:00010504'
+p7110
+asS'UASB granular sludge'
+p7111
+(lp7112
+g1537
+asS'canal tunnel'
+p7113
+(lp7114
+g1014
+ag6149
+ag6149
+asS'bailing station'
+p7115
+(lp7116
+g104
+asS'Beach'
+p7117
+(lp7118
+g473
+asS'volcanic crater'
+p7119
+(lp7120
+g4182
+asS'leguminous food product'
+p7121
+(lp7122
+g914
+asS'undersea ledge'
+p7123
+(lp7124
+g512
+asS'median valley'
+p7125
+(lp7126
+g197
+ag197
+asS'tidal watercourse'
+p7127
+(lp7128
+S'ENVO:00000412'
+p7129
+asS'plant inflorescence food product'
+p7130
+(lp7131
+S'ENVO:0010078'
+p7132
+asS'pathogenicity-related habitat'
+p7133
+(lp7134
+g2160
+asS'coastal buoyancy current front'
+p7135
+(lp7136
+S'ENVO:01000086'
+p7137
+asS'peatland'
+p7138
+(lp7139
+g299
+ag790
+asS'sand bank'
+p7140
+(lp7141
+g92
+asS'unpasteurized goat milk cheese'
+p7142
+(lp7143
+S'ENVO:02000082'
+p7144
+asS'MBR'
+p7145
+(lp7146
+g6415
+asS'ball'
+p7147
+(lp7148
+g92
+asS'mountain chain'
+p7149
+(lp7150
+g307
+asS'power plant'
+p7151
+(lp7152
+S'ENVO:00002214'
+p7153
+asS'foreland'
+p7154
+(lp7155
+g828
+asS'pan (geologic)'
+p7156
+(lp7157
+g281
+asS'chemical compound'
+p7158
+(lp7159
+g2989
+asS'hydroelectric reservoir'
+p7160
+(lp7161
+S'ENVO:00000448'
+p7162
+asS'dust'
+p7163
+(lp7164
+S'ENVO:00002008'
+p7165
+asS'cane sugar'
+p7166
+(lp7167
+S'ENVO:00003050'
+p7168
+asS'marine snow'
+p7169
+(lp7170
+S'ENVO:01000158'
+p7171
+asS'maquis'
+p7172
+(lp7173
+g1226
+asS'gutter'
+p7174
+(lp7175
+g194
+asS'bitter cheese'
+p7176
+(lp7177
+S'ENVO:00003969'
+p7178
+asS'Spring'
+p7179
+(lp7180
+g964
+asS'well'
+p7181
+(lp7182
+g1031
+ag1031
+asS'DELTA'
+p7183
+(lp7184
+g1085
+asS'ravine'
+p7185
+(lp7186
+g194
+ag197
+ag6
+ag6
+ag407
+ag407
+asS'millstream'
+p7187
+(lp7188
+g193
+asS'fluvisol'
+p7189
+(lp7190
+S'ENVO:00002273'
+p7191
+asS'tea estate'
+p7192
+(lp7193
+g2247
+asS'avian egg product'
+p7194
+(lp7195
+S'ENVO:0010017'
+p7196
+asS'gully'
+p7197
+(lp7198
+g194
+ag223
+ag197
+ag197
+asS'acidic soil'
+p7199
+(lp7200
+S'ID:0000139'
+p7201
+asS'savannah'
+p7202
+(lp7203
+g1498
+asS'leased zone (government)'
+p7204
+(lp7205
+g865
+asS'Cave'
+p7206
+(lp7207
+g1401
+asS'winged headland'
+p7208
+(lp7209
+g828
+asS'footbridge'
+p7210
+(lp7211
+g12
+asS'gypsisol'
+p7212
+(lp7213
+S'ENVO:00002245'
+p7214
+asS'scrubland'
+p7215
+(lp7216
+g122
+ag122
+asS'cooked smoked sausage'
+p7217
+(lp7218
+S'ENVO:0010131'
+p7219
+asS'piece of rock'
+p7220
+(lp7221
+S'ENVO:00000339'
+p7222
+asS'glue'
+p7223
+(lp7224
+S'ENVO:00003076'
+p7225
+asS'atoll'
+p7226
+(lp7227
+g3046
+ag3046
+ag3046
+asS'Warm Continental Division - Mountain Provinces (M210)'
+p7228
+(lp7229
+S'ENVO:00003011'
+p7230
+asS'field'
+p7231
+(lp7232
+g3027
+ag3027
+asS'marine benthic biome'
+p7233
+(lp7234
+g3951
+asS'point'
+p7235
+(lp7236
+g92
+ag828
+ag828
+ag828
+asS'lake'
+p7237
+(lp7238
+g702
+ag702
+ag816
+ag2484
+ag2484
+ag559
+ag3656
+ag984
+ag708
+ag2800
+ag2800
+ag4473
+ag4473
+ag329
+ag329
+ag2219
+ag6786
+ag2220
+ag2223
+ag1371
+ag6530
+ag4581
+ag919
+ag1995
+ag4207
+ag4430
+ag1849
+asS'bench'
+p7239
+(lp7240
+g346
+ag346
+ag346
+ag497
+asS'metalimnion'
+p7241
+(lp7242
+g6825
+asS'marine subtidal rocky reef'
+p7243
+(lp7244
+S'ENVO:01000150'
+p7245
+asS'Granular activated carbon'
+p7246
+(lp7247
+g4982
+asS'stratum'
+p7248
+(lp7249
+g770
+asS'knob'
+p7250
+(lp7251
+g52
+asS'yak dairy product'
+p7252
+(lp7253
+S'ENVO:0010025'
+p7254
+asS'aqueous humour'
+p7255
+(lp7256
+S'ENVO:02000024'
+p7257
+asS'water body'
+p7258
+(lp7259
+g1331
+asS'cantaloup'
+p7260
+(lp7261
+g3211
+asS'ford (crossing)'
+p7262
+(lp7263
+g642
+asS'tropical soil'
+p7264
+(lp7265
+S'ENVO:00005778'
+p7266
+asS'SSSI'
+p7267
+(lp7268
+g1058
+asS'melon fruit product'
+p7269
+(lp7270
+S'ENVO:0010064'
+p7271
+asS'greenhouse soil'
+p7272
+(lp7273
+S'ENVO:00005780'
+p7274
+asS'cutoff (hydrographic)'
+p7275
+(lp7276
+g442
+asS'Volcano'
+p7277
+(lp7278
+g675
+asS'hollow'
+p7279
+(lp7280
+g197
+ag197
+ag197
+asS'pier'
+p7281
+(lp7282
+S'ENVO:00000563'
+p7283
+asS'grass silage'
+p7284
+(lp7285
+S'ENVO:00003071'
+p7286
+asS'haline habitat'
+p7287
+(lp7288
+S'ENVO:00002024'
+p7289
+asS'inland sea'
+p7290
+(lp7291
+g4473
+asS'nest of ant'
+p7292
+(lp7293
+g2709
+asS'Temperate grasslands, savannas, and shrubland biome'
+p7294
+(lp7295
+S'ENVO:00000877'
+p7296
+asS'continental ice'
+p7297
+(lp7298
+g316
+asS'candy'
+p7299
+(lp7300
+S'ENVO:0010126'
+p7301
+asS'intertidal zone'
+p7302
+(lp7303
+g1184
+ag2126
+asS'biogas plant'
+p7304
+(lp7305
+g1011
+asS'Meshanger cheese'
+p7306
+(lp7307
+S'ENVO:00003078'
+p7308
+asS'anaerobic stream sediment'
+p7309
+(lp7310
+S'ENVO:00002134'
+p7311
+asS'solanaceous fruit product'
+p7312
+(lp7313
+S'ENVO:0010075'
+p7314
+asS'plateau glacier'
+p7315
+(lp7316
+S'ENVO:00000457'
+p7317
+asS'marine sponge reef biome'
+p7318
+(lp7319
+S'ENVO:01000123'
+p7320
+asS'ISLAND CLUSTER'
+p7321
+(lp7322
+g544
+asS'technosol'
+p7323
+(lp7324
+S'ENVO:00002275'
+p7325
+asS'habitat'
+p7326
+(lp7327
+g4210
+asS'pockmark field'
+p7328
+(lp7329
+S'ENVO:02000003'
+p7330
+asS'CROPLAND'
+p7331
+(lp7332
+g995
+asS'promontory'
+p7333
+(lp7334
+g828
+ag828
+asS'citrus fruit beverage'
+p7335
+(lp7336
+S'ENVO:0010068'
+p7337
+asS'deep sea'
+p7338
+(lp7339
+g506
+asS'rhyne'
+p7340
+(lp7341
+g2578
+asS'Annona senegalensis'
+p7342
+(lp7343
+S'ID:0000158'
+p7344
+asS'esophagus'
+p7345
+(lp7346
+S'ID:0000166'
+p7347
+asS'cold temperature habitat'
+p7348
+(lp7349
+S'ENVO:00002026'
+p7350
+asS'pool (water body)'
+p7351
+(lp7352
+g2484
+ag2484
+asS'leaf'
+p7353
+(lp7354
+g235
+asS'shrub'
+p7355
+(lp7356
+g266
+asS'coombe'
+p7357
+(lp7358
+g142
+asS'cart track'
+p7359
+(lp7360
+g9
+asS'corpse'
+p7361
+(lp7362
+g767
+asS'kettle'
+p7363
+(lp7364
+g1422
+asS'barrier iceberg'
+p7365
+(lp7366
+g1290
+asS'independent nation'
+p7367
+(lp7368
+g157
+asS'extreme habitat'
+p7369
+(lp7370
+S'ENVO:00002020'
+p7371
+asS'tap water'
+p7372
+(lp7373
+S'ENVO:00003096'
+p7374
+asS'plinthosol'
+p7375
+(lp7376
+S'ENVO:00002250'
+p7377
+asS'leat'
+p7378
+(lp7379
+g3539
+asS'lava field'
+p7380
+(lp7381
+g319
+asS'garden soil'
+p7382
+(lp7383
+S'ENVO:00002263'
+p7384
+asS'thoroughfare'
+p7385
+(lp7386
+g9
+asS'pebble beach'
+p7387
+(lp7388
+g6102
+asS'animal manure'
+p7389
+(lp7390
+S'ENVO:00003031'
+p7391
+asS'undersea knoll'
+p7392
+(lp7393
+g33
+asS'caravan route'
+p7394
+(lp7395
+g9
+asS'sulfide-oxidizing bioreactor'
+p7396
+(lp7397
+S'ENVO:00002210'
+p7398
+asS'pasta'
+p7399
+(lp7400
+S'ENVO:0010123'
+p7401
+asS'water hole'
+p7402
+(lp7403
+g7053
+ag7053
+asS'barren land'
+p7404
+(lp7405
+g2546
+asS'slue'
+p7406
+(lp7407
+g299
+asS'zoo'
+p7408
+(lp7409
+g4016
+asS'saddle'
+p7410
+(lp7411
+g406
+ag406
+ag406
+asS'glade'
+p7412
+(lp7413
+g216
+ag216
+ag1785
+ag888
+asS'surface convergence'
+p7414
+(lp7415
+S'ENVO:01000097'
+p7416
+asS'tongue'
+p7417
+(lp7418
+g828
+asS'mountain system'
+p7419
+(lp7420
+g307
+asS'plant spores'
+p7421
+(lp7422
+g3306
+asS'volcanic system'
+p7423
+(lp7424
+g947
+asS'endolith'
+p7425
+(lp7426
+g834
+asS'radioactive thermal mineral spring'
+p7427
+(lp7428
+S'ID:0000130'
+p7429
+asS'mountain group'
+p7430
+(lp7431
+g307
+asS'nidamental gland'
+p7432
+(lp7433
+S'ID:0000054'
+p7434
+asS'lung'
+p7435
+(lp7436
+S'ID:0000052'
+p7437
+asS'icefall'
+p7438
+(lp7439
+g1695
+ag3178
+asS'custard'
+p7440
+(lp7441
+S'ENVO:02000066'
+p7442
+asS'ridge'
+p7443
+(lp7444
+g67
+ag587
+ag4589
+ag4589
+ag481
+ag481
+ag2918
+ag2918
+ag176
+ag5055
+ag2262
+asS'sea coast'
+p7445
+(lp7446
+g1185
+asS'chyle'
+p7447
+(lp7448
+S'ENVO:02000030'
+p7449
+asS'whale fall'
+p7450
+(lp7451
+S'ENVO:01000140'
+p7452
+asS'heavy metal contamination site'
+p7453
+(lp7454
+S'ID:0000136'
+p7455
+asS'contaminated groundwater'
+p7456
+(lp7457
+S'ID:0000137'
+p7458
+asS'cooked food product'
+p7459
+(lp7460
+S'ENVO:0010093'
+p7461
+asS'spurs (physiographic '
+p7462
+(lp7463
+g4974
+asS'mountain forest soil'
+p7464
+(lp7465
+S'ENVO:00005769'
+p7466
+asS'feedlot'
+p7467
+(lp7468
+g104
+asS'fourth-order administrative region'
+p7469
+(lp7470
+g188
+asS'national nature reserve'
+p7471
+(lp7472
+S'ENVO:00000366'
+p7473
+asS'lentil product'
+p7474
+(lp7475
+S'ENVO:0010107'
+p7476
+asS'CUT'
+p7477
+(lp7478
+g5400
+asS'outwash plain'
+p7479
+(lp7480
+g252
+ag1085
+ag1096
+asS'beach berm'
+p7481
+(lp7482
+g473
+asS'fermenting Elaeis Palm sap'
+p7483
+(lp7484
+S'ENVO:00002163'
+p7485
+asS'coke'
+p7486
+(lp7487
+S'ID:0000138'
+p7488
+asS'oil spill'
+p7489
+(lp7490
+S'ENVO:00002061'
+p7491
+ag1345
+asS'Hot Continental Division (220)'
+p7492
+(lp7493
+S'ENVO:00003008'
+p7494
+asS'MINE'
+p7495
+(lp7496
+g969
+asS'salad dressing'
+p7497
+(lp7498
+S'ENVO:02000077'
+p7499
+asS'crustal environment'
+p7500
+(lp7501
+g182
+asS'nitrobenzene contaminated sediment'
+p7502
+(lp7503
+S'ENVO:00002182'
+p7504
+asS'rectum'
+p7505
+(lp7506
+g5309
+asS'machair'
+p7507
+(lp7508
+S'ENVO:00000417'
+p7509
+asS'countries, 3rd order division'
+p7510
+(lp7511
+g1794
+asS'mountain pass'
+p7512
+(lp7513
+g406
+asS'kipuka'
+p7514
+(lp7515
+S'ENVO:00000410'
+p7516
+asS'ISLAND'
+p7517
+(lp7518
+g357
+asS'chromate contaminated soil'
+p7519
+(lp7520
+S'ENVO:00002145'
+p7521
+asS'epicontinental sea biome'
+p7522
+(lp7523
+g5222
+asS'subgingival plaque'
+p7524
+(lp7525
+g2295
+asS'medial moraine'
+p7526
+(lp7527
+S'ENVO:00000250'
+p7528
+asS'cake'
+p7529
+(lp7530
+S'ENVO:02000063'
+p7531
+asS'rockhouse'
+p7532
+(lp7533
+g1080
+asS'natural harbor'
+p7534
+(lp7535
+g856
+asS'dry stream valley'
+p7536
+(lp7537
+S'ENVO:0010162'
+p7538
+asS'contaminated soil'
+p7539
+(lp7540
+S'ENVO:00002116'
+p7541
+asS'aquatic habitat'
+p7542
+(lp7543
+S'ENVO:00000144'
+p7544
+asS'Lake'
+p7545
+(lp7546
+g702
+asS'gleysol'
+p7547
+(lp7548
+g4838
+asS'plant feed'
+p7549
+(lp7550
+S'ENVO:02000055'
+p7551
+asS'Fjord'
+p7552
+(lp7553
+g154
+asS'chemocline'
+p7554
+(lp7555
+S'ENVO:00002270'
+p7556
+asS'lake shore'
+p7557
+(lp7558
+g626
+asS'stream sediment'
+p7559
+(lp7560
+S'ENVO:00002127'
+p7561
+asS'wooded area'
+p7562
+(lp7563
+g266
+asS'campus'
+p7564
+(lp7565
+g6060
+asS'kame terrace'
+p7566
+(lp7567
+S'ENVO:00000433'
+p7568
+asS'mushroom'
+p7569
+(lp7570
+S'ENVO:02000072'
+p7571
+asS'DAM'
+p7572
+(lp7573
+g2856
+asS'deep sea trench'
+p7574
+(lp7575
+g3809
+asS'siliceous ooze'
+p7576
+(lp7577
+S'ENVO:02000044'
+p7578
+asS'ledge'
+p7579
+(lp7580
+g891
+ag346
+asS'transport feature'
+p7581
+(lp7582
+S'ENVO:00000010'
+p7583
+asS'stromatolite mat'
+p7584
+(lp7585
+S'ENVO:00002157'
+p7586
+asS'cheese product'
+p7587
+(lp7588
+S'ENVO:00002189'
+p7589
+asS'market garden'
+p7590
+(lp7591
+g995
+asS'BACKWATER'
+p7592
+(lp7593
+g3777
+asS'root-nodules'
+p7594
+(lp7595
+g1881
+asS'plant fruit food product'
+p7596
+(lp7597
+S'ENVO:00003877'
+p7598
+asS'Swamp'
+p7599
+(lp7600
+g3181
+asS'domestic cattle dairy product'
+p7601
+(lp7602
+S'ENVO:0010030'
+p7603
+asS'ice cap ridge'
+p7604
+(lp7605
+g5055
+asS'cliff'
+p7606
+(lp7607
+g1618
+ag1618
+ag1878
+asS'fungal product'
+p7608
+(lp7609
+S'ENVO:0010055'
+p7610
+asS'complex volcano'
+p7611
+(lp7612
+g902
+asS'shelf edge (ocean)'
+p7613
+(lp7614
+g853
+asS'continental slope'
+p7615
+(lp7616
+S'ENVO:00000273'
+p7617
+asS'Cucumis melo fruit'
+p7618
+(lp7619
+S'ENVO:0010065'
+p7620
+asS'polje'
+p7621
+(lp7622
+S'ENVO:00000325'
+p7623
+asS'wastewater'
+p7624
+(lp7625
+g1519
+asS'camel milk'
+p7626
+(lp7627
+S'ENVO:02000012'
+p7628
+asS'WaterChannel'
+p7629
+(lp7630
+g840
+asS'endolithic'
+p7631
+(lp7632
+g834
+asS'oil sands'
+p7633
+(lp7634
+g1980
+asS'saline pan'
+p7635
+(lp7636
+g15
+asS'liver'
+p7637
+(lp7638
+S'ID:0000056'
+p7639
+as.

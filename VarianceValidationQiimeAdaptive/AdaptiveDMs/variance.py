@@ -16,7 +16,7 @@ def getVariances(pattern):
         names =  [row[0] for row in  m]
         assert not oldnames or names == oldnames, "sample names not in the same order!!!"
         oldnames = names
-        m0 = [list(row)[1:] for row in  m] # very annoying!!
+        m0 = [list(row)[1:] for row in  m] 
         m3.append(m0)
     m3 = np.array(m3)
     return squareform(m3.std(axis=0))

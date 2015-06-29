@@ -1,5 +1,0 @@
-import glob
-
-ardir =  "/data/Projects/EcoPhyl/Results/ValidationAdaptive/AdaptiveRarefaction/AdaptiveDMs"
-qrdir = "/data/Projects/EcoPhyl/Results/ValidationAdaptive/Qiime/RarifiedDMs"
-

@@ -2,9 +2,9 @@
 # File created on 09 Feb 2010
 #file make_2d_plots.py
 
-__author__ = "Jesse Stombaugh and Micah Hamady"
+__author__ = "Jesse Stombaugh and Micah Hamady" 
 __copyright__ = "Copyright 2011, The QIIME Project" 
-__credits__ = ["Jesse Stombaugh", "Jose Antonio Navas Molina"] #remember to add yourself
+__credits__ = ["Jesse Stombaugh", "Jose Antonio Navas Molina"] Modified by Andreas Henschel ahenschel@masdar.ac.ae
 __license__ = "GPL"
 __version__ = "1.8.0"
 __maintainer__ = "Jesse Stombaugh"

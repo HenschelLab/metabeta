@@ -50,7 +50,7 @@ We evaluate the accuraccy of EnvO prediction in the following way: we predict th
 We then calculate the minimal distance of the predicted and the annotated EnvO terms (given in Qiime-DB as Environmental matter, Environmental feature and Environmental Biome).
 The distance is the shortest path in the undirected EnvO Graph, such that exact matches have graph distance 0, EnvO terms in direct subclass-superclass relation have distance 1, direct sibling nodes 2, cousins 4, etc.
 
-The results are shown in Fig \ref{envoAnnotationEval}. It can be seen that from the 712 samples, most automatic annotations are in exact agreement (294) or in direct sub/superclass relation (117) with the manual annotation or
+It can be seen from the results that from the 712 samples, most automatic annotations are in exact agreement (294) or in direct sub/superclass relation (117) with the manual annotation or
 The probabilities for two random nodes to be 0, 1, 2 and 3 steps apart are 0.06\%, 0.20\%, 1.18\% and 3.42\% respectively. Thus 73\% of our annotations are below a 5\% significance level of a random predictor. % reformulate?
 Note that manual EnvO annotations are a source of error as well and contribute to disagreement. We corrected for only very few blatant misannotations and consider therefore our accuracy estimates to be a conservative lower bound.
 

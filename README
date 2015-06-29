@@ -20,15 +20,14 @@ Most scripts are in heavy development state but come with some documentation. In
 Database creation
 =================
 These scripts are not meant to work anywhere and require local adaptation! Instead we recommend to install the database dump directly:
-http://ecophyl.info/html/SQLdump/henschellab_databaseversion1.zip
+http://ecophyl.info/html/DataDownload/
 
-## Fill out, short description
-populateChaffronDataset.py ...
-qiimedb2sql.py
-colorEnvo.py
+populateChaffronDataset.py -> Script is used for populating the database with Chaffron datasets. If needed you can populate your own database with these studies. see http://genome.cshlp.org/content/20/7/947.full
+qiimedb2sql.py -> Script is used for populating the Qiime DB studies in to the database. you can use the dump itself or increase the number of studies with this script.
+colorEnvo.py -> Script is used for Ecosystem defeinition of samples based on the Envo categories.
 
 BIOM table generation
-Also provide link to website!
+http://ecophyl.info/html/Biom/
 
 Running scripts that need access: you have two options, in fact three: you can roll your own database, install the database from the SQL dump or access the remote server (default).
 Create a file "cluster.rc" and put it in the directory of the python script that requires database access (e.g. posthocEnvoEnrichmentTest.py). 

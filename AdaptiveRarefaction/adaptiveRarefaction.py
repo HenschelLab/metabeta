@@ -21,8 +21,6 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797552/
 Dependencies:
 Requires PyCogent, Biom v2.1 (http://biom-format.org/), NumPy
 
-TODO:
-"""
 
 import numpy as np
 from cogent.parse.tree import DndParser

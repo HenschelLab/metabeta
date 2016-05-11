@@ -1,7 +1,7 @@
 Script repository and Database dump for 
 Microbial Community Meta-analysis
 
-Authors: Andreas Henschel, Zohaib Anwar, Vimitha Manohar
+Authors: Andreas Henschel, Muhammad Zohaib Anwar, Vimitha Manohar
 Licence: GNU GPL v3.0
 
 Dependencies:
